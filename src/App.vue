@@ -66,9 +66,9 @@ body {
   min-height: 100vh;
 }
 
-/* ::-webkit-scrollbar {
+::-webkit-scrollbar {
   display: none;
-} */
+}
 
 section {
   flex-grow: 1;
