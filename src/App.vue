@@ -294,10 +294,10 @@ a.back-home:hover {
 }
 
 .vs-input-content label {
-  color: grey;
+  color: white;
   font-size: 14px;
   font-weight: 400;
-  opacity: 0.5;
+  opacity: 0.3;
 }
 
 .select-genre-container {
