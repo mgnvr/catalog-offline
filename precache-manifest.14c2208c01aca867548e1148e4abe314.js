@@ -72,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/assets/youtube.svg"
   },
   {
-    "revision": "b4f3c83b1b19e0e84926",
-    "url": "/catalog-offline/css/app.7a518ee0.css"
+    "revision": "cc2020bd278eae421752",
+    "url": "/catalog-offline/css/app.67cdb962.css"
   },
   {
     "revision": "15101b91ab8b60dae31a",
@@ -4636,7 +4636,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/zomday/thumbnail.jpg"
   },
   {
-    "revision": "732878fc0288f36b7ed600367946fe04",
+    "revision": "47c42b914c35bbbb6fa68f4083694292",
     "url": "/catalog-offline/index.html"
   },
   {
@@ -4644,8 +4644,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/js/about.2ad80a0c.js"
   },
   {
-    "revision": "b4f3c83b1b19e0e84926",
-    "url": "/catalog-offline/js/app.6d528102.js"
+    "revision": "cc2020bd278eae421752",
+    "url": "/catalog-offline/js/app.6e9e3736.js"
   },
   {
     "revision": "15101b91ab8b60dae31a",
