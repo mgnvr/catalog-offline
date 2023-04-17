@@ -36,6 +36,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/assets/icons/favicon-32x32.png"
   },
   {
+    "revision": "15e66314e2fc8dc3a0f47d944cde3def",
+    "url": "/catalog-offline/assets/loading.svg"
+  },
+  {
     "revision": "02b5efb2f5429ae2c7836469be740690",
     "url": "/catalog-offline/assets/logo-ps.svg"
   },
@@ -72,7 +76,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/assets/youtube.svg"
   },
   {
-    "revision": "2473a4f4292eda7f89a2",
+    "revision": "914b414f7733fa8ce1cf",
     "url": "/catalog-offline/css/app.9b9b9511.css"
   },
   {
@@ -4636,7 +4640,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/zomday/thumbnail.jpg"
   },
   {
-    "revision": "502ba0df2cded230b160c80d1faedabc",
+    "revision": "259e3f050dcaf97a1934fcf58030b50c",
     "url": "/catalog-offline/index.html"
   },
   {
@@ -4644,8 +4648,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/js/about.9a55cab4.js"
   },
   {
-    "revision": "2473a4f4292eda7f89a2",
-    "url": "/catalog-offline/js/app.7c578036.js"
+    "revision": "914b414f7733fa8ce1cf",
+    "url": "/catalog-offline/js/app.440af833.js"
   },
   {
     "revision": "15101b91ab8b60dae31a",
