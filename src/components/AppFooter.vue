@@ -16,7 +16,8 @@
               :src="this.publicPath + 'assets/logo-ps.svg'" alt="Сергей Примиренков" /></a>
         </div>
         © Driv3r, 2017 - {{ new Date().getFullYear() }} | По всем вопросам обращаться по телефону или в
-        группу ВКонтакте
+        группу ВКонтакте <router-link v-if="currentRouteName !== 'radio'" tag="span" to="/radio"
+          style="cursor: pointer;">| Послушать радио</router-link>
 
       </div>
     </div>

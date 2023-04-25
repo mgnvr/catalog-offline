@@ -757,7 +757,7 @@ p.game-desc {
   -webkit-flex-shrink: 0;
   -ms-flex-negative: 0;
   flex-shrink: 0;
-  margin-top: 24px;
+  margin-top: auto;
   text-align: left;
   font-weight: 500;
   font-size: 16px;
