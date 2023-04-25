@@ -1293,7 +1293,7 @@ p.game-tag .card-genre {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 8px;
+  margin-bottom: 8px;
   font-size: 12px;
   color: #ccc;
 }
