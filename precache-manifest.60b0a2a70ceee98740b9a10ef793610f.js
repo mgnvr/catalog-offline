@@ -88,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/assets/youtube.svg"
   },
   {
-    "revision": "e23d61217c33ef765a82",
-    "url": "/catalog-offline/css/app.abf2c939.css"
+    "revision": "d9cc72893ccd1d31bc5b",
+    "url": "/catalog-offline/css/app.acc371e3.css"
   },
   {
     "revision": "17c4288ca4e63f68ce18",
@@ -132,7 +132,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "94dad11ac0e94bc5fa2b7ee083f2e2e1",
+    "revision": "87a1976b25e773d3bfc1cdee79152216",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -4656,12 +4656,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/zomday/thumbnail.jpg"
   },
   {
-    "revision": "880488851813997429ee940ab0f1ec7b",
+    "revision": "abaf24215a80243463af997dbd707871",
     "url": "/catalog-offline/index.html"
   },
   {
-    "revision": "e23d61217c33ef765a82",
-    "url": "/catalog-offline/js/app.34b38ca7.js"
+    "revision": "d9cc72893ccd1d31bc5b",
+    "url": "/catalog-offline/js/app.5120c8d4.js"
   },
   {
     "revision": "ef9d689e1811b4fe9ec6fb5587068c4d",
