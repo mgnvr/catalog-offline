@@ -88,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/assets/youtube.svg"
   },
   {
-    "revision": "d9cc72893ccd1d31bc5b",
-    "url": "/catalog-offline/css/app.acc371e3.css"
+    "revision": "9795d1f7174a237d0daa",
+    "url": "/catalog-offline/css/app.8dca4776.css"
   },
   {
     "revision": "17c4288ca4e63f68ce18",
@@ -4656,12 +4656,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/zomday/thumbnail.jpg"
   },
   {
-    "revision": "abaf24215a80243463af997dbd707871",
+    "revision": "dd1061e2c78bd683dafaf942438ee8dc",
     "url": "/catalog-offline/index.html"
   },
   {
-    "revision": "d9cc72893ccd1d31bc5b",
-    "url": "/catalog-offline/js/app.5120c8d4.js"
+    "revision": "9795d1f7174a237d0daa",
+    "url": "/catalog-offline/js/app.7db79046.js"
   },
   {
     "revision": "ef9d689e1811b4fe9ec6fb5587068c4d",
