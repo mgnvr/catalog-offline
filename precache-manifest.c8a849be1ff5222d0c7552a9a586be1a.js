@@ -88,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/assets/youtube.svg"
   },
   {
-    "revision": "989bb9105d14eb2ae2f0",
-    "url": "/catalog-offline/css/app.211709e7.css"
+    "revision": "87738a27bf94c704c186",
+    "url": "/catalog-offline/css/app.dc82a69c.css"
   },
   {
     "revision": "17c4288ca4e63f68ce18",
@@ -132,7 +132,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "87a1976b25e773d3bfc1cdee79152216",
+    "revision": "5ba4815fe1c9a2e18c7ab5c953273d92",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -2604,6 +2604,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/nba_20/thumbnail.jpg"
   },
   {
+    "revision": "cac926211dfa58b8c3b960acb9d0d87b",
+    "url": "/catalog-offline/images/nba_23/1.jpg"
+  },
+  {
+    "revision": "2abe64f1bde44af3c5ec22976db32f34",
+    "url": "/catalog-offline/images/nba_23/2.jpg"
+  },
+  {
+    "revision": "92d036e7b537e149343af4951d563e0f",
+    "url": "/catalog-offline/images/nba_23/3.jpg"
+  },
+  {
+    "revision": "56f11dedd7f650a868fe509e50cc580b",
+    "url": "/catalog-offline/images/nba_23/thumbnail.jpg"
+  },
+  {
     "revision": "47760097d6fefa61fd6e13506b668c27",
     "url": "/catalog-offline/images/nevrosa_prelude/1.jpg"
   },
@@ -4256,6 +4272,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/townsmen/thumbnail.jpg"
   },
   {
+    "revision": "bfaf0b1ddd7f23b1509f7e954881bb6d",
+    "url": "/catalog-offline/images/trek_to_yomi/1.jpg"
+  },
+  {
+    "revision": "dee9fdd1fe316a56dea46cfe329de6ec",
+    "url": "/catalog-offline/images/trek_to_yomi/2.jpg"
+  },
+  {
+    "revision": "d6ba31f38df27e5e2a45e5b09b73cb2f",
+    "url": "/catalog-offline/images/trek_to_yomi/3.jpg"
+  },
+  {
+    "revision": "f2bd4259983f2a4849c7ec244d29bf05",
+    "url": "/catalog-offline/images/trek_to_yomi/thumbnail.jpg"
+  },
+  {
     "revision": "04a0253996de22f45fdfe290c302a0e3",
     "url": "/catalog-offline/images/trials_fusion/1.jpg"
   },
@@ -4656,12 +4688,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/zomday/thumbnail.jpg"
   },
   {
-    "revision": "8e505624ccb12379127a8149c655c724",
+    "revision": "1d2b1eaa5edb87925e3f8d7bb2628b04",
     "url": "/catalog-offline/index.html"
   },
   {
-    "revision": "989bb9105d14eb2ae2f0",
-    "url": "/catalog-offline/js/app.f528498f.js"
+    "revision": "87738a27bf94c704c186",
+    "url": "/catalog-offline/js/app.0f3687ef.js"
   },
   {
     "revision": "ef9d689e1811b4fe9ec6fb5587068c4d",
@@ -4686,6 +4718,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9a30a4e60ee49fba2db43a58363abce7",
     "url": "/catalog-offline/js/player-graphics@2x.gif"
+  },
+  {
+    "revision": "79422c2f009e4a7d8d93eb9ef8652574",
+    "url": "/catalog-offline/js/scroll.js"
   },
   {
     "revision": "d533b699f19754333afbc49ddbe8b07b",
