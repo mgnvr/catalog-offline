@@ -4270,6 +4270,20 @@
     },
     {
       "id": 920,
+      "title": "Walkabout Mini Golf VR",
+      "description": "Весёлый и красивый мир, наполненный лучшими полями для мини-гольфа, которые вы когда-либо видели!",
+      "thumbnail": "images/walkabout_mini_golf/thumbnail.jpg",
+      "image1": "images/walkabout_mini_golf/1.jpg",
+      "image2": "images/walkabout_mini_golf/2.jpg",
+      "image3": "images/walkabout_mini_golf/3.jpg",
+      "video": "https://www.youtube.com/embed/YoEC_A_FY9A",
+      "category": "oq2",
+      "genre": "спорт",
+      "isChild": true,
+      "tag": "быстрая"
+    },
+    {
+      "id": 921,
       "title": "Kingspray Graffiti VR",
       "description": "Kingspray - VR-симулятор граффити с реалистичными аэрозолями, красками, каплями и многим другим!",
       "thumbnail": "images/kingspray/thumbnail.jpg",
@@ -4283,7 +4297,7 @@
       "tag": "дизайн"
     },
     {
-      "id": 921,
+      "id": 922,
       "title": "Painting VR",
       "description": "Рисовать в виртуальной реальности легко: смешайте цвета, обмакните кисть и начните рисовать.",
       "thumbnail": "images/painting_vr/thumbnail.jpg",
@@ -4295,6 +4309,34 @@
       "genre": "творчество",
       "isChild": true,
       "tag": "дизайн"
+    },
+    {
+      "id": 923,
+      "title": "Ghost Giant",
+      "description": "В роли гиганта-призрака вы защищаете одинокого маленького мальчика Луи, который остро нуждается в помощи. Завоюйте доверие Луи, помогая ему преодолевать большие или даже гигантские препятствия.",
+      "thumbnail": "images/ghost_giant/thumbnail.jpg",
+      "image1": "images/ghost_giant/1.jpg",
+      "image2": "images/ghost_giant/2.jpg",
+      "image3": "images/ghost_giant/3.jpg",
+      "video": "https://www.youtube.com/embed/nWsDpz4-Sd0",
+      "category": "oq2",
+      "genre": "приключение",
+      "isChild": true,
+      "tag": "сказка"
+    },
+    {
+      "id": 930,
+      "title": "Arizona Sunshine",
+      "description": "Зомби-апокалипсис в виртуальной реальности! В своих попытках найти людей вы должны пробиться сквозь орды зомби, охотящихся за вашим мозгом, с помощью оружия, скудного боезапаса и расходных материалов, которые встретятся на вашем пути.",
+      "thumbnail": "images/arizona_sunshine/thumbnail.jpg",
+      "image1": "images/arizona_sunshine/1.jpg",
+      "image2": "images/arizona_sunshine/2.jpg",
+      "image3": "images/arizona_sunshine/3.jpg",
+      "video": "https://www.youtube.com/embed/_i0C5JGlppw",
+      "category": "oq2",
+      "genre": "экшн",
+      "isChild": false,
+      "tag": "зомби"
     },
     {
       "id": 950,
