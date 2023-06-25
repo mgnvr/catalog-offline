@@ -132,7 +132,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "9dafd49ed573e62994703b92503cc973",
+    "revision": "06d251a4c78230d8c77d7bd2ad611dce",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -166,6 +166,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3e1525559816195a13d8316dc1f02515",
     "url": "/catalog-offline/images/affected/thumbnail.jpg"
+  },
+  {
+    "revision": "5166852872298dff467e706a097f822e",
+    "url": "/catalog-offline/images/all_in_one_sports/1.jpg"
+  },
+  {
+    "revision": "9b074f2a10c8ba39544eae1bf00e81d0",
+    "url": "/catalog-offline/images/all_in_one_sports/2.jpg"
+  },
+  {
+    "revision": "f15cd0d3d1a2fb33c024a2524ba72fa2",
+    "url": "/catalog-offline/images/all_in_one_sports/3.jpg"
+  },
+  {
+    "revision": "26b87560c83d9d04804b8c0087047c83",
+    "url": "/catalog-offline/images/all_in_one_sports/thumbnail.jpg"
   },
   {
     "revision": "8a36e1b5c9374eb4dac65d7015aa8061",
@@ -2428,6 +2444,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/little_nightmares/thumbnail.jpg"
   },
   {
+    "revision": "9a46294a4369bf271f33ec51bf488dab",
+    "url": "/catalog-offline/images/lucky_tale/1.jpg"
+  },
+  {
+    "revision": "13cc7ae48014979c02a7f0b2fe6bc343",
+    "url": "/catalog-offline/images/lucky_tale/2.jpg"
+  },
+  {
+    "revision": "800b49b90206930a4066727dc6274ad1",
+    "url": "/catalog-offline/images/lucky_tale/3.jpg"
+  },
+  {
+    "revision": "b45f8dcc6925799a1c93308130bda7e9",
+    "url": "/catalog-offline/images/lucky_tale/thumbnail.jpg"
+  },
+  {
     "revision": "448c848969c63503b941815e3962cecb",
     "url": "/catalog-offline/images/mafia_definitive_edition/1.jpg"
   },
@@ -2572,6 +2604,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/minecraft_vr/thumbnail.jpg"
   },
   {
+    "revision": "e72bbd9149944ae01ad38115bc48d48c",
+    "url": "/catalog-offline/images/mini_motor_racing/1.jpg"
+  },
+  {
+    "revision": "d1a65569773bf855ec0f8fc2247ed2d6",
+    "url": "/catalog-offline/images/mini_motor_racing/2.jpg"
+  },
+  {
+    "revision": "96429b65c1e765fb5b256246ddcfe150",
+    "url": "/catalog-offline/images/mini_motor_racing/3.jpg"
+  },
+  {
+    "revision": "6d7039c2d7cd7e8ed09c39d32c5eb90d",
+    "url": "/catalog-offline/images/mini_motor_racing/thumbnail.jpg"
+  },
+  {
     "revision": "0ba7c874dc0c04514ad9a8730f9d938b",
     "url": "/catalog-offline/images/mk_11/1.jpg"
   },
@@ -2634,6 +2682,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3acc5f64a2e60aaf1049fc3be988e196",
     "url": "/catalog-offline/images/moss/thumbnail.jpg"
+  },
+  {
+    "revision": "bc0e147fe9f6b7ec9ba96fa901097efb",
+    "url": "/catalog-offline/images/moss_2/1.jpg"
+  },
+  {
+    "revision": "a13231ea1822503864bc48a00cf3bdfc",
+    "url": "/catalog-offline/images/moss_2/2.jpg"
+  },
+  {
+    "revision": "3572d36e234d7a305045d42ea3e019af",
+    "url": "/catalog-offline/images/moss_2/3.jpg"
+  },
+  {
+    "revision": "b464c96f606c7697afcec735eb857666",
+    "url": "/catalog-offline/images/moss_2/thumbnail.jpg"
   },
   {
     "revision": "c6aca09e84da23b459f99d2a8ae8d424",
@@ -2906,6 +2970,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "85e176afa4fe154f66e206e4f30c17c9",
     "url": "/catalog-offline/images/pacman_championship_edition/thumbnail.jpg"
+  },
+  {
+    "revision": "1b3cf94cc40aefd6d8170e8567f3a770",
+    "url": "/catalog-offline/images/painting_vr/1.jpg"
+  },
+  {
+    "revision": "baa4b4c5996a611db7ea86165b595dc9",
+    "url": "/catalog-offline/images/painting_vr/2.jpg"
+  },
+  {
+    "revision": "d512bce0ecb6d117890c7663b69e1cfd",
+    "url": "/catalog-offline/images/painting_vr/3.jpg"
+  },
+  {
+    "revision": "41660838e91d19f7e8fbef9c885f0eb5",
+    "url": "/catalog-offline/images/painting_vr/thumbnail.jpg"
   },
   {
     "revision": "eb417a4d93d7b0a1c6a170c1e488506f",
@@ -4432,6 +4512,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/ultimate_booster/thumbnail.jpg"
   },
   {
+    "revision": "2abd463c679029261bb471dbf6ce1e93",
+    "url": "/catalog-offline/images/ultrawings_2/1.jpg"
+  },
+  {
+    "revision": "c80f302e736902a290f1fd40b61da8ad",
+    "url": "/catalog-offline/images/ultrawings_2/2.jpg"
+  },
+  {
+    "revision": "959ded10b6c14d2263b93d5c9abf754f",
+    "url": "/catalog-offline/images/ultrawings_2/3.jpg"
+  },
+  {
+    "revision": "19a8932a1d399b67616428acfbc07caa",
+    "url": "/catalog-offline/images/ultrawings_2/thumbnail.jpg"
+  },
+  {
     "revision": "f7f58e1955cb58bc3730b2c7ed1a9a5c",
     "url": "/catalog-offline/images/uncharted_4/1.jpg"
   },
@@ -4526,6 +4622,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "705ce03b0d6d45eb70449f478ba659bf",
     "url": "/catalog-offline/images/virtual_sports/thumbnail.jpg"
+  },
+  {
+    "revision": "588123f6c2e3ab5ad6a54ea01d996058",
+    "url": "/catalog-offline/images/vr_ping_pong_pro/1.jpg"
+  },
+  {
+    "revision": "4c4524e122f8587bad1686f6d3069cad",
+    "url": "/catalog-offline/images/vr_ping_pong_pro/2.jpg"
+  },
+  {
+    "revision": "b0b357b0de9d7c7c9ad02fdd107d7979",
+    "url": "/catalog-offline/images/vr_ping_pong_pro/3.jpg"
+  },
+  {
+    "revision": "c2c7eaf39ffe756d328b8413417414e3",
+    "url": "/catalog-offline/images/vr_ping_pong_pro/thumbnail.jpg"
   },
   {
     "revision": "d5b1467a2139f7d56982afd9e3523c17",
