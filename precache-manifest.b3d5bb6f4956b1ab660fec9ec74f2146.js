@@ -88,7 +88,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/assets/youtube.svg"
   },
   {
-    "revision": "87738a27bf94c704c186",
+    "revision": "c0044529d777ebbdd046",
     "url": "/catalog-offline/css/app.dc82a69c.css"
   },
   {
@@ -132,7 +132,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "5ba4815fe1c9a2e18c7ab5c953273d92",
+    "revision": "9dafd49ed573e62994703b92503cc973",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -1528,6 +1528,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/fruit_ninja/thumbnail.jpg"
   },
   {
+    "revision": "4ba2e70513d1d8f7e95b8c27af130595",
+    "url": "/catalog-offline/images/fruit_ninja_2/1.jpg"
+  },
+  {
+    "revision": "cb36d0f719de03385b26debbca08d45c",
+    "url": "/catalog-offline/images/fruit_ninja_2/2.jpg"
+  },
+  {
+    "revision": "8b93c0cabb4136d6363007544d7ebd30",
+    "url": "/catalog-offline/images/fruit_ninja_2/3.jpg"
+  },
+  {
+    "revision": "000719a32ce5a73d037a9b9334bbc8fb",
+    "url": "/catalog-offline/images/fruit_ninja_2/thumbnail.jpg"
+  },
+  {
     "revision": "c745d3d592d57bed02bfd50b62f76264",
     "url": "/catalog-offline/images/genshin_impact/1.jpg"
   },
@@ -1750,6 +1766,38 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d1fa6f41d5cef408453ba0c592f417eb",
     "url": "/catalog-offline/images/guns_n_stories/thumbnail.jpg"
+  },
+  {
+    "revision": "71dc0b612469f04f0d2343c13eed90a3",
+    "url": "/catalog-offline/images/hand_physics_lab/1.jpg"
+  },
+  {
+    "revision": "92cbb9b8177aaf95c28e7890fd232570",
+    "url": "/catalog-offline/images/hand_physics_lab/2.jpg"
+  },
+  {
+    "revision": "cd5a20d03a30a0af8bec04d03002c3ce",
+    "url": "/catalog-offline/images/hand_physics_lab/3.jpg"
+  },
+  {
+    "revision": "1582511721e0f50d087c1ebeedf09faf",
+    "url": "/catalog-offline/images/hand_physics_lab/thumbnail.jpg"
+  },
+  {
+    "revision": "7a3de960d37887fd14e2dec20ddeae57",
+    "url": "/catalog-offline/images/hatsune_miku/1.jpg"
+  },
+  {
+    "revision": "8fa30ca250e88b777674176d55975cfe",
+    "url": "/catalog-offline/images/hatsune_miku/2.jpg"
+  },
+  {
+    "revision": "6e3afcbdd0255a5c96d9559ef5390b72",
+    "url": "/catalog-offline/images/hatsune_miku/3.jpg"
+  },
+  {
+    "revision": "4bb9c8fd4c54cd1d805fecbd4faf5d45",
+    "url": "/catalog-offline/images/hatsune_miku/thumbnail.jpg"
   },
   {
     "revision": "fe2a109c3e65fa1303c27f19095b4983",
@@ -4048,6 +4096,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/tekken_7/thumbnail.jpg"
   },
   {
+    "revision": "c533c28c75b8fbc8e7558e0c66b235aa",
+    "url": "/catalog-offline/images/tetris_effect/1.jpg"
+  },
+  {
+    "revision": "549a06dbc3e58c0ab6df8ccb7dac4466",
+    "url": "/catalog-offline/images/tetris_effect/2.jpg"
+  },
+  {
+    "revision": "02fe428c76cd77d3c1c709e1d36e92d3",
+    "url": "/catalog-offline/images/tetris_effect/3.jpg"
+  },
+  {
+    "revision": "87cfcfdf0cffb678fc69c0d332fc9c30",
+    "url": "/catalog-offline/images/tetris_effect/thumbnail.jpg"
+  },
+  {
     "revision": "d65c1147e09702b75e93c34a7b05e904",
     "url": "/catalog-offline/images/the_blu/1.jpg"
   },
@@ -4688,12 +4752,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/zomday/thumbnail.jpg"
   },
   {
-    "revision": "1d2b1eaa5edb87925e3f8d7bb2628b04",
+    "revision": "d62e060dbb93b32aaf2ab0c7ebac30d9",
+    "url": "/catalog-offline/images/zooma_vr/1.jpg"
+  },
+  {
+    "revision": "2125432027f4f51e66b592abd493993b",
+    "url": "/catalog-offline/images/zooma_vr/2.jpg"
+  },
+  {
+    "revision": "90b8698361ee9336b92c8a456b283e5a",
+    "url": "/catalog-offline/images/zooma_vr/3.jpg"
+  },
+  {
+    "revision": "a7d70a8520041f473a5be220eafc9891",
+    "url": "/catalog-offline/images/zooma_vr/thumbnail.jpg"
+  },
+  {
+    "revision": "f92ab62e4c75675a9eaa041a443c44d4",
     "url": "/catalog-offline/index.html"
   },
   {
-    "revision": "87738a27bf94c704c186",
-    "url": "/catalog-offline/js/app.0f3687ef.js"
+    "revision": "c0044529d777ebbdd046",
+    "url": "/catalog-offline/js/app.39306c66.js"
   },
   {
     "revision": "ef9d689e1811b4fe9ec6fb5587068c4d",
