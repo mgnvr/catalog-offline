@@ -132,7 +132,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "06d251a4c78230d8c77d7bd2ad611dce",
+    "revision": "93e9d079a1ba176731db4fec6c8e878f",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -1574,6 +1574,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ce7adc603441bee529251c905fda147f",
     "url": "/catalog-offline/images/genshin_impact/thumbnail.jpg"
+  },
+  {
+    "revision": "3df714c5b51135f280c1b3af3628429d",
+    "url": "/catalog-offline/images/ghost_giant/1.jpg"
+  },
+  {
+    "revision": "6e1bd23f3d9beae3b9e052e13ffa4c73",
+    "url": "/catalog-offline/images/ghost_giant/2.jpg"
+  },
+  {
+    "revision": "b60328e0c28b1380555d6e6f20561dbe",
+    "url": "/catalog-offline/images/ghost_giant/3.jpg"
+  },
+  {
+    "revision": "45b90f63fb8d1cd169f43bb219b3fa29",
+    "url": "/catalog-offline/images/ghost_giant/thumbnail.jpg"
   },
   {
     "revision": "8bf2dcf1d9f55c7ee6780640effe9591",
@@ -4654,6 +4670,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3d14a41f2f33331921c15b8ee75190ba",
     "url": "/catalog-offline/images/vrchat/thumbnail.jpg"
+  },
+  {
+    "revision": "314c109b7501d1ca63a54d91ffa426b0",
+    "url": "/catalog-offline/images/walkabout_mini_golf/1.jpg"
+  },
+  {
+    "revision": "e405e6712805e658ca117b6e55cbfd52",
+    "url": "/catalog-offline/images/walkabout_mini_golf/2.jpg"
+  },
+  {
+    "revision": "a1ae6b5d060d3b304f364bff7b424700",
+    "url": "/catalog-offline/images/walkabout_mini_golf/3.jpg"
+  },
+  {
+    "revision": "4daa9ca1948bfdf5302bacfd8b0529aa",
+    "url": "/catalog-offline/images/walkabout_mini_golf/thumbnail.jpg"
   },
   {
     "revision": "43ea377f3fe662fe8c0cbbae1ad95e2f",
