@@ -132,7 +132,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "93e9d079a1ba176731db4fec6c8e878f",
+    "revision": "4748b5cc5cf49fab21a7b399cf8ff89f",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -550,6 +550,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f3eba08c1127771b43a366e37a5e2e40",
     "url": "/catalog-offline/images/bombing_busters/thumbnail.jpg"
+  },
+  {
+    "revision": "74124c9f2a1d6324c8050d6956b80779",
+    "url": "/catalog-offline/images/bonelab/1.jpg"
+  },
+  {
+    "revision": "badbd763f7c719edfff5038b778791a1",
+    "url": "/catalog-offline/images/bonelab/2.jpg"
+  },
+  {
+    "revision": "c5a275f3d59de21ae4345c64f0530a4e",
+    "url": "/catalog-offline/images/bonelab/3.jpg"
+  },
+  {
+    "revision": "17a509fafb6f7f497ab9ffcba8effe95",
+    "url": "/catalog-offline/images/bonelab/thumbnail.jpg"
   },
   {
     "revision": "271a74f02b07f7496bdad15f2c12f45a",
@@ -1464,6 +1480,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/firewall/thumbnail.jpg"
   },
   {
+    "revision": "570e70863e227276383d6902c7fdc32b",
+    "url": "/catalog-offline/images/fisherman_tale/1.jpg"
+  },
+  {
+    "revision": "4e10f44037b3dabcfc44a773b3f41b19",
+    "url": "/catalog-offline/images/fisherman_tale/2.jpg"
+  },
+  {
+    "revision": "dac57791a6f8225e125e150142ee2ee1",
+    "url": "/catalog-offline/images/fisherman_tale/3.jpg"
+  },
+  {
+    "revision": "af72b05b09ac314c718759374619e81c",
+    "url": "/catalog-offline/images/fisherman_tale/thumbnail.jpg"
+  },
+  {
     "revision": "48c817496fdb599f8c8faedfc37f1f8a",
     "url": "/catalog-offline/images/fnaf_vr/1.jpg"
   },
@@ -2152,6 +2184,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/inside_backrooms/thumbnail.jpg"
   },
   {
+    "revision": "511eb9874bc4957c40066c9ac1702134",
+    "url": "/catalog-offline/images/into_the_radius/1.jpg"
+  },
+  {
+    "revision": "6d82a0e2193fc926a0789d135871442c",
+    "url": "/catalog-offline/images/into_the_radius/2.jpg"
+  },
+  {
+    "revision": "26f477497fbc399300e4183037d4ca9d",
+    "url": "/catalog-offline/images/into_the_radius/3.jpg"
+  },
+  {
+    "revision": "a4987f1f73da2fbf412f0535594f88a6",
+    "url": "/catalog-offline/images/into_the_radius/thumbnail.jpg"
+  },
+  {
     "revision": "0dc7f0dbf892ca657ce9c7e419bbb5b3",
     "url": "/catalog-offline/images/iron_man_vr/1.jpg"
   },
@@ -2716,6 +2764,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/moss_2/thumbnail.jpg"
   },
   {
+    "revision": "00228d78bddcebc5f33ab5ff3440d30e",
+    "url": "/catalog-offline/images/national_geographic/1.jpg"
+  },
+  {
+    "revision": "be20d08f41b9b2013aa8e06254afd5bc",
+    "url": "/catalog-offline/images/national_geographic/2.jpg"
+  },
+  {
+    "revision": "8c8118c2fdbe33d162a8639297df82a2",
+    "url": "/catalog-offline/images/national_geographic/3.jpg"
+  },
+  {
+    "revision": "b2bfb3ef27ca5161b2bb05c077256c7e",
+    "url": "/catalog-offline/images/national_geographic/thumbnail.jpg"
+  },
+  {
     "revision": "c6aca09e84da23b459f99d2a8ae8d424",
     "url": "/catalog-offline/images/nba_20/1.jpg"
   },
@@ -3210,6 +3274,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7651a91a252bfe015fd8820f929bf768",
     "url": "/catalog-offline/images/prison_boss/thumbnail.jpg"
+  },
+  {
+    "revision": "7c1d1192a5f37f322805967dab6e117e",
+    "url": "/catalog-offline/images/propagation_vr/1.jpg"
+  },
+  {
+    "revision": "e0e55894cf697e41ac33ee69ed927d7e",
+    "url": "/catalog-offline/images/propagation_vr/2.jpg"
+  },
+  {
+    "revision": "11b7c2d05fbf4341fc812f7a1485a45b",
+    "url": "/catalog-offline/images/propagation_vr/3.jpg"
+  },
+  {
+    "revision": "ec52063db11dd11778b47c17afb40bf7",
+    "url": "/catalog-offline/images/propagation_vr/thumbnail.jpg"
   },
   {
     "revision": "f2021f0a87cdea19a44632c5e4b8590e",
@@ -3792,6 +3872,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/sniper_elite_4/thumbnail.jpg"
   },
   {
+    "revision": "64a0eaab99aca10966f09ea0b203ba79",
+    "url": "/catalog-offline/images/sniper_elite_vr/1.jpg"
+  },
+  {
+    "revision": "2e3ff69132f439904885a2fa2a1d7535",
+    "url": "/catalog-offline/images/sniper_elite_vr/2.jpg"
+  },
+  {
+    "revision": "de2654e21bc5b21924f30b5ff2c337f5",
+    "url": "/catalog-offline/images/sniper_elite_vr/3.jpg"
+  },
+  {
+    "revision": "fc398db227b51430c423d45fd6ac8302",
+    "url": "/catalog-offline/images/sniper_elite_vr/thumbnail.jpg"
+  },
+  {
     "revision": "c9429d0f1c9d10edf90fe58f6dc38a53",
     "url": "/catalog-offline/images/sonic_forces/1.jpg"
   },
@@ -4048,6 +4144,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/super_stardust_ultra/thumbnail.jpg"
   },
   {
+    "revision": "5276a9b806d8462186b234ec815eb4e1",
+    "url": "/catalog-offline/images/superfly/1.jpg"
+  },
+  {
+    "revision": "8946f292041c75971ae0f1bd723295dc",
+    "url": "/catalog-offline/images/superfly/2.jpg"
+  },
+  {
+    "revision": "2fe1c0e2c8fbcdb0f86eece25c220ac7",
+    "url": "/catalog-offline/images/superfly/3.jpg"
+  },
+  {
+    "revision": "50cb6c02b7a7d49945b3bc8957ab75bc",
+    "url": "/catalog-offline/images/superfly/thumbnail.jpg"
+  },
+  {
     "revision": "89c02ff21d04548c9fcfbf24a05fdf92",
     "url": "/catalog-offline/images/superhot_vr/1.jpg"
   },
@@ -4222,6 +4334,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3aa39609c04c8239573b0f6af997971e",
     "url": "/catalog-offline/images/the_blu/thumbnail.jpg"
+  },
+  {
+    "revision": "5aa18aecfd2b5a4cffe3885d3d8e2007",
+    "url": "/catalog-offline/images/the_climb_2/1.jpg"
+  },
+  {
+    "revision": "3d339aba683ee5546fa09cedfbdea9c8",
+    "url": "/catalog-offline/images/the_climb_2/2.jpg"
+  },
+  {
+    "revision": "240372a20c35777ab040575db2281d43",
+    "url": "/catalog-offline/images/the_climb_2/3.jpg"
+  },
+  {
+    "revision": "8eb9374f68e25f2d9c180dcb322ac9c3",
+    "url": "/catalog-offline/images/the_climb_2/thumbnail.jpg"
   },
   {
     "revision": "bba861524468177f4bf77347de743bef",
