@@ -1503,9 +1503,9 @@
       "image3": "images/room_vr/3.jpg",
       "video": "https://www.youtube.com/embed/iySB6jnYwYE",
       "category": "htc",
-      "genre": "головоломка",
+      "genre": "квест",
       "isChild": false,
-      "tag": "загадка"
+      "tag": "головоломка"
     },
     {
       "id": 112,
@@ -4660,6 +4660,20 @@
       "genre": "песочница",
       "isChild": true,
       "tag": "стройка"
+    },
+    {
+      "id": 975,
+      "title": "The Room VR: A Dark Matter",
+      "description": "Британский институт археологии, Лондон, 1908 год: Исчезновение уважаемого египтолога побуждает полицию к расследованию неизвестного. Исследуйте загадочные места, фантастические гаджеты и откройте для себя потустороннее, которое стирает грань между реальностью и иллюзией.",
+      "thumbnail": "images/room_vr/thumbnail.jpg",
+      "image1": "images/room_vr/1.jpg",
+      "image2": "images/room_vr/2.jpg",
+      "image3": "images/room_vr/3.jpg",
+      "video": "https://www.youtube.com/embed/iySB6jnYwYE",
+      "category": "oq2",
+      "genre": "квест",
+      "isChild": false,
+      "tag": "головоломка"
     }
   ]
 }
