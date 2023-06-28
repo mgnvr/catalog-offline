@@ -4102,6 +4102,20 @@
     },
     {
       "id": 908,
+      "title": "Unplugged: Air Guitar",
+      "description": "Играйте на виртуальной гитаре и станьте звездой рока в ВР! В Unplugged вы сможете отжигать под величайшие рок-хиты The Offspring, Weezer, Ozzy Osbourne и других легенд, используя отслеживание движений рук. Станьте рок-легендой под руководством Сатчела — великолепного солиста Steel Panther.",
+      "thumbnail": "images/unplugged_air_guitar/thumbnail.jpg",
+      "image1": "images/unplugged_air_guitar/1.jpg",
+      "image2": "images/unplugged_air_guitar/2.jpg",
+      "image3": "images/unplugged_air_guitar/3.jpg",
+      "video": "https://www.youtube.com/embed/81x79BS4uGQ",
+      "category": "oq2",
+      "genre": "музыкальная",
+      "isChild": true,
+      "tag": "ритм"
+    },
+    {
+      "id": 909,
       "title": "Tetris Effect: Connected",
       "description": "Tetris, какой вам еще не доводилось видеть, слышать или чувствовать: невероятно затягивающая, уникальная и потрясающе красивая реинтерпретация одной из самых популярных игр-головоломок в истории.",
       "thumbnail": "images/tetris_effect/thumbnail.jpg",
@@ -4115,7 +4129,7 @@
       "tag": "головоломка"
     },
     {
-      "id": 909,
+      "id": 910,
       "title": "Zooma VR",
       "description": "Виртуальное приключение, в котором вам предстоит проявить сообразительность, скорость мышления и точность рук. Проверьте, что произойдет, если вы смешаете стрельбу, головоломки и классический матч-три в виртуальной реальности.",
       "thumbnail": "images/zooma_vr/thumbnail.jpg",
@@ -4129,7 +4143,7 @@
       "tag": "головоломка"
     },
     {
-      "id": 910,
+      "id": 911,
       "title": "Prison Boss VR",
       "description": "Prison Boss VR превращает вашу виртуальную реальность в тюремную камеру! Создавайте сигареты, алкоголь и печенье для сокамерников! Наращивайте репутацию и улучшайте условия содержания! Заработайте столько денег, что они перестанут помещаться в камеру, и станьте тюремным воротилой!",
       "thumbnail": "images/prison_boss/thumbnail.jpg",
@@ -4143,7 +4157,7 @@
       "tag": "крафт"
     },
     {
-      "id": 911,
+      "id": 912,
       "title": "Moss: Book II",
       "description": "Квилл вернулась, и за ней охотятся. Силы, что стремятся уничтожить этот мир, жаждут обрести волшебный кристалл, и пойдут на все, лишь бы выцарапать его у неё из лапок.",
       "thumbnail": "images/moss_2/thumbnail.jpg",
@@ -4157,7 +4171,7 @@
       "tag": "сказка"
     },
     {
-      "id": 912,
+      "id": 913,
       "title": "Lucky's Tale",
       "description": "Счастливчик Быстрохвост — отважный лис, который пытается спасти своего лучшего друга Хрюшу от чудовищного Глорпа с щупальцами. Станьте героем и спасите положение!",
       "thumbnail": "images/lucky_tale/thumbnail.jpg",
@@ -4171,7 +4185,7 @@
       "tag": "сказка"
     },
     {
-      "id": 913,
+      "id": 914,
       "title": "Elven Assassin",
       "description": "Есть ли что-нибудь более грандиозное, чем убийство орд орков луком в Виртуальной реальности? Когда вам ничего не приходит в голову, вы, вероятно, должны попробовать это.",
       "thumbnail": "images/elven_assassin/thumbnail.jpg",
@@ -4185,7 +4199,7 @@
       "tag": "лук"
     },
     {
-      "id": 914,
+      "id": 915,
       "title": "Angry Birds VR",
       "description": "Присоединяйтесь к Реду, Чаку, Бомбе и Блюзу, чтобы спасти украденные яйца в Angry Birds VR: Isle of Pigs, захватывающем виртуальном приключении! Исследуйте отдаленный остров, где жадные зеленые свиньи отдыхают на более чем 50 веселых уровнях. Отправляйтесь в город вечеринок через экзотические пляжи, крутые скалы и снежные склоны, разрушая их сооружения в самых зрелищных местах.",
       "thumbnail": "images/angry_birds_vr/thumbnail.jpg",
@@ -4199,7 +4213,7 @@
       "tag": "физика"
     },
     {
-      "id": 915,
+      "id": 916,
       "title": "Guns'n'Stories: Bulletproof VR",
       "description": "Это динамичный VR-Вестерн шутер, который полностью и без остатка погружает игроков в атмосферу странного Дикого Запада. Следуя по запутанному сюжету, вы столкнетесь с толпами грозных, но комичных врагов и сразитесь с Большими Боссами. Вам предстоит много и метко стрелять с двух рук, а также использовать укрытия и активно двигаться, уворачиваясь от пуль. Вы посетите множество атмосферных локаций и сможете опробовать обширный арсенал оружия под сопровождением из вестерн рока, шуток и циничного юмора!",
       "thumbnail": "images/guns_n_stories/thumbnail.jpg",
@@ -4213,7 +4227,7 @@
       "tag": "вестерн"
     },
     {
-      "id": 916,
+      "id": 917,
       "title": "Ultrawings 2",
       "description": "С возвращением в Ultrawings, пилот! Поднимитесь в небо, используя свои виртуальные руки, чтобы управлять 5 уникальными самолетами, выполняя разнообразный набор увлекательных, созданных вручную миссий в тематическом мире острова в этой приключенческой игре!",
       "thumbnail": "images/ultrawings_2/thumbnail.jpg",
@@ -4227,7 +4241,7 @@
       "tag": "экстрим"
     },
     {
-      "id": 917,
+      "id": 918,
       "title": "Mini Motor Racing X",
       "description": "Пристегнитесь и наденьте виртуальную гарнитуру и окунитесь в мир, работающий на азоте, где маленькие автомобили означают БОЛЬШОЕ веселье!",
       "thumbnail": "images/mini_motor_racing/thumbnail.jpg",
@@ -4241,7 +4255,7 @@
       "tag": "экстрим"
     },
     {
-      "id": 918,
+      "id": 919,
       "title": "All-In-One Sports VR",
       "description": "13 видов спорта в 1 игре!",
       "thumbnail": "images/all_in_one_sports/thumbnail.jpg",
@@ -4255,7 +4269,7 @@
       "tag": "быстрая"
     },
     {
-      "id": 919,
+      "id": 920,
       "title": "VR Ping Pong Pro",
       "description": "Ракетки готовы! Игра VR Ping Pong Pro вышла вслед за культовым симулятором настольного тенниса 2016 года VR Ping Pong. Испытайте себя в нескольких сложных режимах игры, чтобы повысить свой уровень и стать настоящим экспертом в Ping Pong Pro!",
       "thumbnail": "images/vr_ping_pong_pro/thumbnail.jpg",
@@ -4269,7 +4283,7 @@
       "tag": "быстрая"
     },
     {
-      "id": 920,
+      "id": 921,
       "title": "Walkabout Mini Golf VR",
       "description": "Весёлый и красивый мир, наполненный лучшими полями для мини-гольфа, которые вы когда-либо видели!",
       "thumbnail": "images/walkabout_mini_golf/thumbnail.jpg",
@@ -4283,7 +4297,7 @@
       "tag": "быстрая"
     },
     {
-      "id": 921,
+      "id": 922,
       "title": "Kingspray Graffiti VR",
       "description": "Kingspray - VR-симулятор граффити с реалистичными аэрозолями, красками, каплями и многим другим!",
       "thumbnail": "images/kingspray/thumbnail.jpg",
@@ -4297,7 +4311,7 @@
       "tag": "дизайн"
     },
     {
-      "id": 922,
+      "id": 923,
       "title": "Painting VR",
       "description": "Рисовать в виртуальной реальности легко: смешайте цвета, обмакните кисть и начните рисовать.",
       "thumbnail": "images/painting_vr/thumbnail.jpg",
@@ -4311,7 +4325,7 @@
       "tag": "дизайн"
     },
     {
-      "id": 923,
+      "id": 924,
       "title": "Ghost Giant",
       "description": "В роли гиганта-призрака вы защищаете одинокого маленького мальчика Луи, который остро нуждается в помощи. Завоюйте доверие Луи, помогая ему преодолевать большие или даже гигантские препятствия.",
       "thumbnail": "images/ghost_giant/thumbnail.jpg",
@@ -4325,7 +4339,7 @@
       "tag": "сказка"
     },
     {
-      "id": 924,
+      "id": 925,
       "title": "A Fisherman's Tale",
       "description": "'История рыбака' — это умопомрачительное приключение в виртуальной реальности, в котором переворачивание с ног на голову и наизнанку — это не просто игра слов. Играя за крошечную марионетку-рыбака, вы живете в одиночестве в своей крошечной хижине, не обращая внимания на внешний мир. Когда ваше радио передает штормовое предупреждение, вам нужно взобраться на маяк, чтобы включить свет! Когда вы выходите из своей каюты с помощью нескольких сверхъестественных помощников, вы понимаете, что снаружи вас ждет совсем не то, что вы ожидали…",
       "thumbnail": "images/fisherman_tale/thumbnail.jpg",
@@ -4339,7 +4353,7 @@
       "tag": "сказка"
     },
     {
-      "id": 925,
+      "id": 926,
       "title": "Into the Radius VR",
       "description": "Исследуйте пустоши Радиуса, полные монстров и опасных аномалий. Защищайтесь с помощью реалистичного оружия, собирайте удивительные артефакты и раскрывайте секреты аномальной местности.",
       "thumbnail": "images/into_the_radius/thumbnail.jpg",
@@ -4353,7 +4367,7 @@
       "tag": "страшная"
     },
     {
-      "id": 926,
+      "id": 927,
       "title": "Pistol Whip",
       "description": "Pistol Whip - это экшн-ритм игра. Комбинация Superhot, Beat Saber и Джона Уика с головокружительным саундтреком. Станьте главным героем боевика.",
       "thumbnail": "images/pistol_whip/thumbnail.jpg",
@@ -4367,7 +4381,7 @@
       "tag": "ритм"
     },
     {
-      "id": 927,
+      "id": 928,
       "title": "Marvel's Iron Man VR",
       "description": "Уже несколько лет как всемирно известный супергерой Тони Старк оставил производство оружия и занимается созданием технологий, которые помогут Железному Человеку в борьбе со злом.",
       "thumbnail": "images/iron_man_vr/thumbnail.jpg",
@@ -4381,9 +4395,9 @@
       "tag": "супергерои"
     },
     {
-      "id": 928,
+      "id": 929,
       "title": "IRON REBELLION",
-      "description": "Зхватывающий опыт пилотирования мехов. Мы хотим, чтобы игроки почувствовали себя по-настоящему запертыми внутри механического титана и дали им все кнопки, рычаги и боеприпасы, необходимые для доминирования на поле боя.",
+      "description": "Захватывающий опыт пилотирования мехов. Мы хотим, чтобы игроки почувствовали себя по-настоящему запертыми внутри механического титана и дали им все кнопки, рычаги и боеприпасы, необходимые для доминирования на поле боя.",
       "thumbnail": "images/iron_rebellion/thumbnail.jpg",
       "image1": "images/iron_rebellion/1.jpg",
       "image2": "images/iron_rebellion/2.jpg",
@@ -4395,7 +4409,7 @@
       "tag": "роботы"
     },
     {
-      "id": 929,
+      "id": 930,
       "title": "BONELAB",
       "description": "Исследуйте таинственную лабораторию, полную оружия, врагов, испытаний и секретов. Совершите побег из вашей реальности или посейте хаос. Нет неправильных ответов.",
       "thumbnail": "images/bonelab/thumbnail.jpg",
@@ -4409,7 +4423,21 @@
       "tag": "сюжет"
     },
     {
-      "id": 930,
+      "id": 931,
+      "title": "Robo Recall",
+      "description": "Недавний шквал неисправных роботов-убийц открыл дыры в постоянно недофинансируемом и внезапно захлебнувшемся отделе отзыва RoboReady. Брошенный в бой в качестве Отзывателя, вы должны положиться на свой ум, рефлексы и обширный арсенал оружия, чтобы подавить восстание роботов.",
+      "thumbnail": "images/robo_recall/thumbnail.jpg",
+      "image1": "images/robo_recall/1.jpg",
+      "image2": "images/robo_recall/2.jpg",
+      "image3": "images/robo_recall/3.jpg",
+      "video": "https://www.youtube.com/embed/shiKcsjZnH0",
+      "category": "oq2",
+      "genre": "экшн",
+      "isChild": true,
+      "tag": "роботы"
+    },
+    {
+      "id": 935,
       "title": "Sniper Elite VR",
       "description": "Южная Италия, 1934 год. Фашисты оккупировали вашу родину. Используйте скрытность, оригинальное оружие и свои навыки стрельбы элитного снайпера, сражаясь за итальянское сопротивление в этом увлекательном шутере от первого лица.",
       "thumbnail": "images/sniper_elite_vr/thumbnail.jpg",
@@ -4451,6 +4479,20 @@
       "tag": "зомби"
     },
     {
+      "id": 945,
+      "title": "Vader Immortal: A Star Wars VR Series",
+      "description": "Кинематографическое интерактивное приключение, которое перенесет вас в далекую-далекую галактику. Вы попробуйте себя в роли контрабандиста, проворачивающего дела возле Мустафара – огненной планеты, которую Дарт Вейдер зовет своим домом.",
+      "thumbnail": "images/vader_immortal/thumbnail.jpg",
+      "image1": "images/vader_immortal/1.jpg",
+      "image2": "images/vader_immortal/2.jpg",
+      "image3": "images/vader_immortal/3.jpg",
+      "video": "https://www.youtube.com/embed/AmEhj0hyp-s",
+      "category": "oq2",
+      "genre": "экшн",
+      "isChild": false,
+      "tag": "сюжет"
+    },
+    {
       "id": 950,
       "title": "FIVE NIGHTS AT FREDDY'S VR",
       "description": "FNaF VR: HW - это коллекция классических и оригинальных мини-игр, созданных во вселенной Five Nights.",
@@ -4477,6 +4519,20 @@
       "genre": "хоррор",
       "isChild": false,
       "tag": "страшная"
+    },
+    {
+      "id": 952,
+      "title": "TO THE TOP",
+      "description": "Супер-боты - это управляемые человеком роботы, обладающие сверхспособностями для защиты и обслуживания людей. TO THE TOP Академия - это учебная программа для проверки ваших навыков и проверки того, способны ли вы пилотировать одну из этих машин. Так что пристегнитесь и посмотрите, сможете ли вы пройти этот вызов",
+      "thumbnail": "images/to_the_top/thumbnail.jpg",
+      "image1": "images/to_the_top/1.jpg",
+      "image2": "images/to_the_top/2.jpg",
+      "image3": "images/to_the_top/3.jpg",
+      "video": "https://www.youtube.com/embed/dtSdPU6x568",
+      "category": "oq2",
+      "genre": "спорт",
+      "isChild": true,
+      "tag": "паркур"
     },
     {
       "id": 955,
@@ -4522,6 +4578,20 @@
       "tag": "экскурсия"
     },
     {
+      "id": 958,
+      "title": "Ocean Rift",
+      "description": "Водный сафари-парк виртуальной реальности. Исследуйте яркий подводный мир, полный жизни, включая дельфинов, акул, косаток, черепах, морских змей, скатов, ламантинов, морских львов, китов и даже динозавров!",
+      "thumbnail": "images/ocean_rift/thumbnail.jpg",
+      "image1": "images/ocean_rift/1.jpg",
+      "image2": "images/ocean_rift/2.jpg",
+      "image3": "images/ocean_rift/3.jpg",
+      "video": "https://www.youtube.com/embed/LxCKFo1o9aE",
+      "category": "oq2",
+      "genre": "аттракцион",
+      "isChild": true,
+      "tag": "экскурсия"
+    },
+    {
       "id": 970,
       "title": "The Climb 2",
       "description": "Острые ощущения от скалолазания оживают с The Climb 2 — исследуйте новый город и захватывающие новые карты с захватывающими дух видами. Поднимитесь на грандиозные вершины, пройдите через огромные пещеры, заберитесь на небоскребы и найдите скрытые кратчайшие пути, пока вы находите свой путь к вершине.",
@@ -4534,6 +4604,62 @@
       "genre": "спорт",
       "isChild": true,
       "tag": "экстрим"
+    },
+    {
+      "id": 971,
+      "title": "Can You Do It - VR Experience",
+      "description": "Испытайте себя в дельтапланеризме, пересечении города, стрельбе, подъеме по лестнице, зиплайне и лифте.",
+      "thumbnail": "images/can_you_do_it/thumbnail.jpg",
+      "image1": "images/can_you_do_it/1.jpg",
+      "image2": "images/can_you_do_it/2.jpg",
+      "image3": "images/can_you_do_it/3.jpg",
+      "video": "https://www.youtube.com/embed/7if2Xnt2vbg",
+      "category": "oq2",
+      "genre": "спорт",
+      "isChild": false,
+      "tag": "экстрим"
+    },
+    {
+      "id": 972,
+      "title": "Elixir",
+      "description": "Вы присоединитесь к нашей команде, расположенной где-то в преисподней, чтобы кормить, мыть и документировать таинственных существ. Ученик также будет обслуживать различные хрупкие приспособления, экспериментируя в нестабильной алхимической лаборатории.",
+      "thumbnail": "images/elixir/thumbnail.jpg",
+      "image1": "images/elixir/1.jpg",
+      "image2": "images/elixir/2.jpg",
+      "image3": "images/elixir/3.jpg",
+      "video": "https://www.youtube.com/embed/u4FXtABlnFY",
+      "category": "oq2",
+      "genre": "симулятор",
+      "isChild": true,
+      "tag": "сказка"
+    },
+    {
+      "id": 973,
+      "title": "Spacefolk City",
+      "description": "Постройте парящий город в космосе, украсьте его различными абсурдными предметами и сделайте космических жителей счастливыми.",
+      "thumbnail": "images/spacefolk_city/thumbnail.jpg",
+      "image1": "images/spacefolk_city/1.jpg",
+      "image2": "images/spacefolk_city/2.jpg",
+      "image3": "images/spacefolk_city/3.jpg",
+      "video": "https://www.youtube.com/embed/QB12l1hd03A",
+      "category": "oq2",
+      "genre": "стратегия",
+      "isChild": true,
+      "tag": "стройка"
+    },
+    {
+      "id": 974,
+      "title": "Discovery",
+      "description": "Дайте волю своему творчеству и создавайте впечатляющие миры!",
+      "thumbnail": "images/discovery_vr/thumbnail.jpg",
+      "image1": "images/discovery_vr/1.jpg",
+      "image2": "images/discovery_vr/2.jpg",
+      "image3": "images/discovery_vr/3.jpg",
+      "video": "https://www.youtube.com/embed/S6XTWDzmTeY",
+      "category": "oq2",
+      "genre": "песочница",
+      "isChild": true,
+      "tag": "стройка"
     }
   ]
 }

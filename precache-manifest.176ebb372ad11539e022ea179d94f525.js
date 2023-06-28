@@ -132,7 +132,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "4748b5cc5cf49fab21a7b399cf8ff89f",
+    "revision": "8f9cac1381fd6598af2483fd9df930e2",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -680,6 +680,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/bulletstorm/thumbnail.jpg"
   },
   {
+    "revision": "d1953c65a41c9b7d5991bc887c8a3713",
+    "url": "/catalog-offline/images/can_you_do_it/1.jpg"
+  },
+  {
+    "revision": "3d00e4b1dc04dfe8540e401a7536cf3b",
+    "url": "/catalog-offline/images/can_you_do_it/2.jpg"
+  },
+  {
+    "revision": "2f11ca3f06f4bdaf5bd9600b5079aae3",
+    "url": "/catalog-offline/images/can_you_do_it/3.jpg"
+  },
+  {
+    "revision": "6a0d1cf5ed6add10f262e561c7c6ebe9",
+    "url": "/catalog-offline/images/can_you_do_it/thumbnail.jpg"
+  },
+  {
     "revision": "fa9eeafc6448e14ba7adf9e81d611e33",
     "url": "/catalog-offline/images/cars_3/1.jpg"
   },
@@ -1144,6 +1160,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/dirt_rally_vr/thumbnail.jpg"
   },
   {
+    "revision": "c06ff824ca8d8d967525c2f1490774b1",
+    "url": "/catalog-offline/images/discovery_vr/1.jpg"
+  },
+  {
+    "revision": "b08f98d493b4c6077d5a7e99c2d67a44",
+    "url": "/catalog-offline/images/discovery_vr/2.jpg"
+  },
+  {
+    "revision": "53269b1ac6f72e51e6e66c05517712c8",
+    "url": "/catalog-offline/images/discovery_vr/3.jpg"
+  },
+  {
+    "revision": "1c55f062af0122ee516714d252144af0",
+    "url": "/catalog-offline/images/discovery_vr/thumbnail.jpg"
+  },
+  {
     "revision": "a047dbb0d7c1f9d753c0fa94308481b0",
     "url": "/catalog-offline/images/doom_vfr/1.jpg"
   },
@@ -1254,6 +1286,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0f1dccf47396f4b06d6c550202545ffb",
     "url": "/catalog-offline/images/eagle_flight/thumbnail.jpg"
+  },
+  {
+    "revision": "c5aeedc4378481eaca1914edaeb79cca",
+    "url": "/catalog-offline/images/elixir/1.jpg"
+  },
+  {
+    "revision": "bc6ad3560f9be429a909733caca356a2",
+    "url": "/catalog-offline/images/elixir/2.jpg"
+  },
+  {
+    "revision": "1521755173a4132d0c10cdf90fcd38f9",
+    "url": "/catalog-offline/images/elixir/3.jpg"
+  },
+  {
+    "revision": "3d36863aaaa735e61f1a095b67def9c2",
+    "url": "/catalog-offline/images/elixir/thumbnail.jpg"
   },
   {
     "revision": "ef9168b4f89858807e0ec374098dc98f",
@@ -2956,6 +3004,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/nvidia_fun_house/thumbnail.jpg"
   },
   {
+    "revision": "377b1e83bf87615c64f89a88e64beb15",
+    "url": "/catalog-offline/images/ocean_rift/1.jpg"
+  },
+  {
+    "revision": "6791523fa4ec39059df3aad26cee0c48",
+    "url": "/catalog-offline/images/ocean_rift/2.jpg"
+  },
+  {
+    "revision": "6f0c8192258bb81c3613734f52cd4c46",
+    "url": "/catalog-offline/images/ocean_rift/3.jpg"
+  },
+  {
+    "revision": "e3031d94eb12ca63fbb29779492acaa4",
+    "url": "/catalog-offline/images/ocean_rift/thumbnail.jpg"
+  },
+  {
     "revision": "1b4ebbf64c7d36b032047f7e4d47b330",
     "url": "/catalog-offline/images/olliolli_world/1.jpg"
   },
@@ -3548,6 +3612,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/roblox_vr/thumbnail.jpg"
   },
   {
+    "revision": "a6397f361bbfa27798ead507f7b4fa38",
+    "url": "/catalog-offline/images/robo_recall/1.jpg"
+  },
+  {
+    "revision": "4f2a202399316258173be8e9b163fb0e",
+    "url": "/catalog-offline/images/robo_recall/2.jpg"
+  },
+  {
+    "revision": "ef83f8f31065b5e97daee5a7f88fc339",
+    "url": "/catalog-offline/images/robo_recall/3.jpg"
+  },
+  {
+    "revision": "fde35d996f86b498fc75ce8a48bb80f6",
+    "url": "/catalog-offline/images/robo_recall/thumbnail.jpg"
+  },
+  {
     "revision": "5570b64356372b6a7509217fe842fe7c",
     "url": "/catalog-offline/images/roller_coaster/1.jpg"
   },
@@ -3934,6 +4014,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "113ecccedceb981f5622f384990983c5",
     "url": "/catalog-offline/images/space_pirate/thumbnail.jpg"
+  },
+  {
+    "revision": "87943fd151c63534d9d73ae5be977cbb",
+    "url": "/catalog-offline/images/spacefolk_city/1.jpg"
+  },
+  {
+    "revision": "77feac9a58ec933218316194fdb0a852",
+    "url": "/catalog-offline/images/spacefolk_city/2.jpg"
+  },
+  {
+    "revision": "94a840053ed20083ca160bdcda74de11",
+    "url": "/catalog-offline/images/spacefolk_city/3.jpg"
+  },
+  {
+    "revision": "3824f4fb24b8ff180c5d95b6a47fb1ad",
+    "url": "/catalog-offline/images/spacefolk_city/thumbnail.jpg"
   },
   {
     "revision": "ce2486f4786f3562763b2308ee0dbcb1",
@@ -4704,6 +4800,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/uncharted_collection/thumbnail.jpg"
   },
   {
+    "revision": "13c5c0f096346723a1769dc96109160d",
+    "url": "/catalog-offline/images/unplugged_air_guitar/1.jpg"
+  },
+  {
+    "revision": "58ee7e5eba13d4f014246502a57eff36",
+    "url": "/catalog-offline/images/unplugged_air_guitar/2.jpg"
+  },
+  {
+    "revision": "041f672d8dca30fd409215b59a037743",
+    "url": "/catalog-offline/images/unplugged_air_guitar/3.jpg"
+  },
+  {
+    "revision": "dea9e01a4276b2d6dd6f632fb872a7b9",
+    "url": "/catalog-offline/images/unplugged_air_guitar/thumbnail.jpg"
+  },
+  {
     "revision": "ffa2ea5c794bdfd80ec3224aa8ccf5b4",
     "url": "/catalog-offline/images/until_you_fall/1.jpg"
   },
@@ -4734,6 +4846,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "de060c2ae19c2a60027346ba15d43710",
     "url": "/catalog-offline/images/vacation_simulator/thumbnail.jpg"
+  },
+  {
+    "revision": "89c40e49a584c3472209bceb3d54b033",
+    "url": "/catalog-offline/images/vader_immortal/1.jpg"
+  },
+  {
+    "revision": "bb5349960798909c798d536c4ec000f8",
+    "url": "/catalog-offline/images/vader_immortal/2.jpg"
+  },
+  {
+    "revision": "e0c84969def6f3634051335764c5e292",
+    "url": "/catalog-offline/images/vader_immortal/3.jpg"
+  },
+  {
+    "revision": "b47ff92a943bbcfaef7b02561057f631",
+    "url": "/catalog-offline/images/vader_immortal/thumbnail.jpg"
   },
   {
     "revision": "9dcfdf048ce935508d24843da0210ade",
