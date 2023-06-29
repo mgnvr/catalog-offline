@@ -132,7 +132,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "9e1f9251a927984aade894a23bde8184",
+    "revision": "eb7a3c76733579ee9e10559c991d6f9a",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -3580,6 +3580,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/rec_room/thumbnail.jpg"
   },
   {
+    "revision": "d8ad296d8832b98cd539a99c8e148c88",
+    "url": "/catalog-offline/images/red_matter/1.jpg"
+  },
+  {
+    "revision": "59f0e5de90b4fceaa7483f07872885d8",
+    "url": "/catalog-offline/images/red_matter/2.jpg"
+  },
+  {
+    "revision": "4f5df293251a48b6d2d8593889202daf",
+    "url": "/catalog-offline/images/red_matter/3.jpg"
+  },
+  {
+    "revision": "aeb3079808be3b6e98bb5e231a10c787",
+    "url": "/catalog-offline/images/red_matter/thumbnail.jpg"
+  },
+  {
     "revision": "f8b8600d1bf60caa27129d106717e741",
     "url": "/catalog-offline/images/richies_plank/1.jpg"
   },
@@ -4190,6 +4206,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "223c70bcbc74d850df8d16bea0865d89",
     "url": "/catalog-offline/images/stand_out/thumbnail.jpg"
+  },
+  {
+    "revision": "d94b1e82bbf53cd4698e9433a079f1c2",
+    "url": "/catalog-offline/images/star_wars_tales/1.jpg"
+  },
+  {
+    "revision": "2e0e198f8fd2e65f898d8f9812801d2b",
+    "url": "/catalog-offline/images/star_wars_tales/2.jpg"
+  },
+  {
+    "revision": "837135a0153482efced444659f19f29e",
+    "url": "/catalog-offline/images/star_wars_tales/3.jpg"
+  },
+  {
+    "revision": "98baf309956b93b16ed96e5118c071f4",
+    "url": "/catalog-offline/images/star_wars_tales/thumbnail.jpg"
   },
   {
     "revision": "993bf0fc47b6dbbbae7fe44cacb9066f",
@@ -5038,6 +5070,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4daa9ca1948bfdf5302bacfd8b0529aa",
     "url": "/catalog-offline/images/walkabout_mini_golf/thumbnail.jpg"
+  },
+  {
+    "revision": "9258e0a1ea67d1a7ea4eabe9609d604d",
+    "url": "/catalog-offline/images/walking_dead_chapter_2/1.jpg"
+  },
+  {
+    "revision": "90ae66c9541eb9f465da8569b33efeb9",
+    "url": "/catalog-offline/images/walking_dead_chapter_2/2.jpg"
+  },
+  {
+    "revision": "d3ad0b8beced6b5498ed266c880aa5f5",
+    "url": "/catalog-offline/images/walking_dead_chapter_2/3.jpg"
+  },
+  {
+    "revision": "9c929c4a5fb203ca18e448c367d95c15",
+    "url": "/catalog-offline/images/walking_dead_chapter_2/thumbnail.jpg"
   },
   {
     "revision": "43ea377f3fe662fe8c0cbbae1ad95e2f",

@@ -4324,6 +4324,20 @@
     },
     {
       "id": 924,
+      "title": "Racket Fury: Table Tennis",
+      "description": "Знакомьтесь: самый реалистичный симулятор настольного тенниса готов подарить вам незабываемые ощущения!",
+      "thumbnail": "images/racket_fury/thumbnail.jpg",
+      "image1": "images/racket_fury/1.jpg",
+      "image2": "images/racket_fury/2.jpg",
+      "image3": "images/racket_fury/3.jpg",
+      "video": "https://www.youtube.com/embed/GsfW-9L65kc",
+      "category": "oq2",
+      "genre": "симулятор",
+      "isChild": true,
+      "tag": "быстрая"
+    },
+    {
+      "id": 925,
       "title": "Kingspray Graffiti VR",
       "description": "Kingspray - VR-симулятор граффити с реалистичными аэрозолями, красками, каплями и многим другим!",
       "thumbnail": "images/kingspray/thumbnail.jpg",
@@ -4337,7 +4351,7 @@
       "tag": "дизайн"
     },
     {
-      "id": 925,
+      "id": 926,
       "title": "Painting VR",
       "description": "Рисовать в виртуальной реальности легко: смешайте цвета, обмакните кисть и начните рисовать.",
       "thumbnail": "images/painting_vr/thumbnail.jpg",
@@ -4351,7 +4365,7 @@
       "tag": "дизайн"
     },
     {
-      "id": 926,
+      "id": 927,
       "title": "Ghost Giant",
       "description": "В роли гиганта-призрака вы защищаете одинокого маленького мальчика Луи, который остро нуждается в помощи. Завоюйте доверие Луи, помогая ему преодолевать большие или даже гигантские препятствия.",
       "thumbnail": "images/ghost_giant/thumbnail.jpg",
@@ -4365,7 +4379,7 @@
       "tag": "сказка"
     },
     {
-      "id": 927,
+      "id": 928,
       "title": "A Fisherman's Tale",
       "description": "'История рыбака' — это умопомрачительное приключение в виртуальной реальности, в котором переворачивание с ног на голову и наизнанку — это не просто игра слов. Играя за крошечную марионетку-рыбака, вы живете в одиночестве в своей крошечной хижине, не обращая внимания на внешний мир. Когда ваше радио передает штормовое предупреждение, вам нужно взобраться на маяк, чтобы включить свет! Когда вы выходите из своей каюты с помощью нескольких сверхъестественных помощников, вы понимаете, что снаружи вас ждет совсем не то, что вы ожидали…",
       "thumbnail": "images/fisherman_tale/thumbnail.jpg",
@@ -4379,7 +4393,7 @@
       "tag": "сказка"
     },
     {
-      "id": 928,
+      "id": 929,
       "title": "Into the Radius VR",
       "description": "Исследуйте пустоши Радиуса, полные монстров и опасных аномалий. Защищайтесь с помощью реалистичного оружия, собирайте удивительные артефакты и раскрывайте секреты аномальной местности.",
       "thumbnail": "images/into_the_radius/thumbnail.jpg",
@@ -4390,10 +4404,10 @@
       "category": "oq2",
       "genre": "экшн",
       "isChild": false,
-      "tag": "страшная"
+      "tag": "сюжет"
     },
     {
-      "id": 929,
+      "id": 930,
       "title": "Pistol Whip",
       "description": "Pistol Whip - это экшн-ритм игра. Комбинация Superhot, Beat Saber и Джона Уика с головокружительным саундтреком. Станьте главным героем боевика.",
       "thumbnail": "images/pistol_whip/thumbnail.jpg",
@@ -4407,7 +4421,7 @@
       "tag": "ритм"
     },
     {
-      "id": 930,
+      "id": 931,
       "title": "Marvel's Iron Man VR",
       "description": "Уже несколько лет как всемирно известный супергерой Тони Старк оставил производство оружия и занимается созданием технологий, которые помогут Железному Человеку в борьбе со злом.",
       "thumbnail": "images/iron_man_vr/thumbnail.jpg",
@@ -4421,7 +4435,7 @@
       "tag": "супергерои"
     },
     {
-      "id": 931,
+      "id": 932,
       "title": "IRON REBELLION",
       "description": "Захватывающий опыт пилотирования мехов. Мы хотим, чтобы игроки почувствовали себя по-настоящему запертыми внутри механического титана и дали им все кнопки, рычаги и боеприпасы, необходимые для доминирования на поле боя.",
       "thumbnail": "images/iron_rebellion/thumbnail.jpg",
@@ -4435,7 +4449,7 @@
       "tag": "роботы"
     },
     {
-      "id": 932,
+      "id": 933,
       "title": "BONELAB",
       "description": "Исследуйте таинственную лабораторию, полную оружия, врагов, испытаний и секретов. Совершите побег из вашей реальности или посейте хаос. Нет неправильных ответов.",
       "thumbnail": "images/bonelab/thumbnail.jpg",
@@ -4446,10 +4460,10 @@
       "category": "oq2",
       "genre": "экшн",
       "isChild": false,
-      "tag": "сюжет"
+      "tag": "сражение"
     },
     {
-      "id": 933,
+      "id": 934,
       "title": "Robo Recall",
       "description": "Недавний шквал неисправных роботов-убийц открыл дыры в постоянно недофинансируемом и внезапно захлебнувшемся отделе отзыва RoboReady. Брошенный в бой в качестве Отзывателя, вы должны положиться на свой ум, рефлексы и обширный арсенал оружия, чтобы подавить восстание роботов.",
       "thumbnail": "images/robo_recall/thumbnail.jpg",
@@ -4505,6 +4519,20 @@
       "tag": "зомби"
     },
     {
+      "id": 942,
+      "title": "The Walking Dead: Saints & Sinners - Chapter 2: Retribution",
+      "description": "Преследуемый, казалось бы, неудержимым Топорщиком и противостоящий последнему стремлению Башни к полному господству, узнайте, что объединяет эти новые угрозы, пока не стало слишком поздно.",
+      "thumbnail": "images/walking_dead_chapter_2/thumbnail.jpg",
+      "image1": "images/walking_dead_chapter_2/1.jpg",
+      "image2": "images/walking_dead_chapter_2/2.jpg",
+      "image3": "images/walking_dead_chapter_2/3.jpg",
+      "video": "https://www.youtube.com/embed/xjDxZ3YD4Cw",
+      "category": "oq2",
+      "genre": "экшн",
+      "isChild": false,
+      "tag": "зомби"
+    },
+    {
       "id": 945,
       "title": "Vader Immortal: A Star Wars VR Series",
       "description": "Кинематографическое интерактивное приключение, которое перенесет вас в далекую-далекую галактику. Вы попробуйте себя в роли контрабандиста, проворачивающего дела возле Мустафара – огненной планеты, которую Дарт Вейдер зовет своим домом.",
@@ -4513,6 +4541,34 @@
       "image2": "images/vader_immortal/2.jpg",
       "image3": "images/vader_immortal/3.jpg",
       "video": "https://www.youtube.com/embed/AmEhj0hyp-s",
+      "category": "oq2",
+      "genre": "экшн",
+      "isChild": false,
+      "tag": "сюжет"
+    },
+    {
+      "id": 946,
+      "title": "Star Wars: Tales from the Galaxy's Edge",
+      "description": "Приключенческий боевик, в котором вы возьмете на себя роль техника по ремонту дроидов, работающего недалеко от Внешнего Кольца. Когда группа пиратов нападет на вас на Батуу, вы обнаружите, что любой в галактике может стать героем.",
+      "thumbnail": "images/star_wars_tales/thumbnail.jpg",
+      "image1": "images/star_wars_tales/1.jpg",
+      "image2": "images/star_wars_tales/2.jpg",
+      "image3": "images/star_wars_tales/3.jpg",
+      "video": "https://www.youtube.com/embed/vXVBiF73a_o",
+      "category": "oq2",
+      "genre": "экшн",
+      "isChild": false,
+      "tag": "сюжет"
+    },
+    {
+      "id": 947,
+      "title": "Red Matter",
+      "description": "Приключенческая игра-головоломка, действие которой разворачивается во времена антиутопической научной фантастики «Холодная война». Возьмите на себя роль агента Эпсилон, астронавта Атлантического Союза, отправленного на заброшенную базу Волггравии на Рее, одном из спутников Сатурна. Ваша миссия: расследовать сомнительный сверхсекретный исследовательский проект.",
+      "thumbnail": "images/red_matter/thumbnail.jpg",
+      "image1": "images/red_matter/1.jpg",
+      "image2": "images/red_matter/2.jpg",
+      "image3": "images/red_matter/3.jpg",
+      "video": "https://www.youtube.com/embed/QXBsxhtYC7w",
       "category": "oq2",
       "genre": "экшн",
       "isChild": false,
@@ -4689,6 +4745,20 @@
     },
     {
       "id": 972,
+      "title": "Richie's Plank Experience",
+      "description": "Ты на узенькой доске на высоте 80 этажей. Колени дрожат, ладони потные. У тебя есть выбор. Ты пройдёшь или нет?",
+      "thumbnail": "images/richies_plank/thumbnail.jpg",
+      "image1": "images/richies_plank/1.jpg",
+      "image2": "images/richies_plank/2.jpg",
+      "image3": "images/richies_plank/3.jpg",
+      "video": "https://www.youtube.com/embed/ImbhUHhWmSM",
+      "category": "oq2",
+      "genre": "аттракцион",
+      "isChild": true,
+      "tag": "экстрим"
+    },
+    {
+      "id": 973,
       "title": "Elixir",
       "description": "Вы присоединитесь к нашей команде, расположенной где-то в преисподней, чтобы кормить, мыть и документировать таинственных существ. Ученик также будет обслуживать различные хрупкие приспособления, экспериментируя в нестабильной алхимической лаборатории.",
       "thumbnail": "images/elixir/thumbnail.jpg",
@@ -4702,7 +4772,7 @@
       "tag": "сказка"
     },
     {
-      "id": 973,
+      "id": 974,
       "title": "Spacefolk City",
       "description": "Постройте парящий город в космосе, украсьте его различными абсурдными предметами и сделайте космических жителей счастливыми.",
       "thumbnail": "images/spacefolk_city/thumbnail.jpg",
@@ -4716,7 +4786,7 @@
       "tag": "стройка"
     },
     {
-      "id": 974,
+      "id": 975,
       "title": "Discovery",
       "description": "Дайте волю своему творчеству и создавайте впечатляющие миры!",
       "thumbnail": "images/discovery_vr/thumbnail.jpg",
@@ -4730,7 +4800,7 @@
       "tag": "стройка"
     },
     {
-      "id": 975,
+      "id": 976,
       "title": "The Room VR: A Dark Matter",
       "description": "Британский институт археологии, Лондон, 1908 год: Исчезновение уважаемого египтолога побуждает полицию к расследованию неизвестного. Исследуйте загадочные места, фантастические гаджеты и откройте для себя потустороннее, которое стирает грань между реальностью и иллюзией.",
       "thumbnail": "images/room_vr/thumbnail.jpg",
@@ -4744,7 +4814,7 @@
       "tag": "головоломка"
     },
     {
-      "id": 976,
+      "id": 977,
       "title": "Thief Simulator VR",
       "description": "Станьте вором в VR! Ощутите азарт воровства на свободных для исследования улицах. Используйте отмычки и навороченные инструменты для взлома. Прячьтесь от полиции или улепетывайте от них на машине!",
       "thumbnail": "images/thief_simulator/thumbnail.jpg",
