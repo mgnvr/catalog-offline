@@ -132,7 +132,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "abcad61397cebd9327ddf98ce37caac2",
+    "revision": "96c3cdc3cd6a158ce0d9441cdcb1cca5",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -262,6 +262,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c8758c104d63985eecb226f093cf5c83",
     "url": "/catalog-offline/images/astro_playroom/thumbnail.jpg"
+  },
+  {
+    "revision": "41bfd88a94c63f1801a4619ecc603f85",
+    "url": "/catalog-offline/images/audio_trip/1.jpg"
+  },
+  {
+    "revision": "fcd07d144cae43fb6fb049646d72982c",
+    "url": "/catalog-offline/images/audio_trip/2.jpg"
+  },
+  {
+    "revision": "b3c3f75a5ce2b91a7f298b5ac190b259",
+    "url": "/catalog-offline/images/audio_trip/3.jpg"
+  },
+  {
+    "revision": "6d549ec89a0bb056391cb73ef212be18",
+    "url": "/catalog-offline/images/audio_trip/thumbnail.jpg"
   },
   {
     "revision": "19fb13b478acf69ce866f191c7433150",
