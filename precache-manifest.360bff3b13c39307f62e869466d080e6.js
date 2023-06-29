@@ -64,6 +64,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/assets/minimize.svg"
   },
   {
+    "revision": "68c3ef5b178f237ae2fe724c61b88a82",
+    "url": "/catalog-offline/assets/oq2.png"
+  },
+  {
     "revision": "7ac4f83b1dce831c412ac3521e6562d2",
     "url": "/catalog-offline/assets/pin.svg"
   },
@@ -88,8 +92,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/assets/youtube.svg"
   },
   {
-    "revision": "c0044529d777ebbdd046",
-    "url": "/catalog-offline/css/app.dc82a69c.css"
+    "revision": "ea2a98b425e7f497c646",
+    "url": "/catalog-offline/css/app.25897ebb.css"
   },
   {
     "revision": "17c4288ca4e63f68ce18",
@@ -5312,12 +5316,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/zooma_vr/thumbnail.jpg"
   },
   {
-    "revision": "f92ab62e4c75675a9eaa041a443c44d4",
+    "revision": "efe5ad0826226553417e1dc26ba8c843",
     "url": "/catalog-offline/index.html"
   },
   {
-    "revision": "c0044529d777ebbdd046",
-    "url": "/catalog-offline/js/app.39306c66.js"
+    "revision": "ea2a98b425e7f497c646",
+    "url": "/catalog-offline/js/app.13c1d94a.js"
   },
   {
     "revision": "ef9d689e1811b4fe9ec6fb5587068c4d",
@@ -5328,8 +5332,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/js/chunk-2b92b05d.b993d4ea.js"
   },
   {
-    "revision": "7f8c8b7ca4f9b1f36db5",
-    "url": "/catalog-offline/js/chunk-2d22d746.bc8f175b.js"
+    "revision": "f6bc2965386c91bc6ac1",
+    "url": "/catalog-offline/js/chunk-2d22d746.4bbb6e19.js"
   },
   {
     "revision": "15101b91ab8b60dae31a",
