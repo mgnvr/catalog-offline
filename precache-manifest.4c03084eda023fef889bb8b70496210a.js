@@ -92,7 +92,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/assets/youtube.svg"
   },
   {
-    "revision": "ea2a98b425e7f497c646",
+    "revision": "fd2876347d4ee9876c34",
     "url": "/catalog-offline/css/app.25897ebb.css"
   },
   {
@@ -5316,12 +5316,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/zooma_vr/thumbnail.jpg"
   },
   {
-    "revision": "efe5ad0826226553417e1dc26ba8c843",
+    "revision": "29adaf6b73e5dd1569862765de25b10d",
     "url": "/catalog-offline/index.html"
   },
   {
-    "revision": "ea2a98b425e7f497c646",
-    "url": "/catalog-offline/js/app.13c1d94a.js"
+    "revision": "fd2876347d4ee9876c34",
+    "url": "/catalog-offline/js/app.c3b514c5.js"
   },
   {
     "revision": "ef9d689e1811b4fe9ec6fb5587068c4d",
