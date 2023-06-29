@@ -132,7 +132,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "96c3cdc3cd6a158ce0d9441cdcb1cca5",
+    "revision": "9e1f9251a927984aade894a23bde8184",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -1368,6 +1368,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/epic_roller/thumbnail.jpg"
   },
   {
+    "revision": "e7efcafc3dbd9a15138c021ba7bb20dd",
+    "url": "/catalog-offline/images/espire_2/1.jpg"
+  },
+  {
+    "revision": "f7d45bb066fdcb53e26db77ae5a43f21",
+    "url": "/catalog-offline/images/espire_2/2.jpg"
+  },
+  {
+    "revision": "c00a86a47d40e859ae716eafafad20da",
+    "url": "/catalog-offline/images/espire_2/3.jpg"
+  },
+  {
+    "revision": "080c8a50bba091ebc3a7f4fed8af3012",
+    "url": "/catalog-offline/images/espire_2/thumbnail.jpg"
+  },
+  {
     "revision": "5e9799569e4b260b890709ae22e8bd30",
     "url": "/catalog-offline/images/eternity_warriors/1.jpg"
   },
@@ -1848,6 +1864,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/gran_turismo_vr/thumbnail.jpg"
   },
   {
+    "revision": "d25ea3e845c429f1ed5b99f559f29a2f",
+    "url": "/catalog-offline/images/grapple_tournament/1.jpg"
+  },
+  {
+    "revision": "70257c27fd362231e67a906fd675bfb4",
+    "url": "/catalog-offline/images/grapple_tournament/2.jpg"
+  },
+  {
+    "revision": "ee42489d29df7ffc661a8b7a76a34a09",
+    "url": "/catalog-offline/images/grapple_tournament/3.jpg"
+  },
+  {
+    "revision": "d1fe446619d96c5d7dcd8be1b6d45897",
+    "url": "/catalog-offline/images/grapple_tournament/thumbnail.jpg"
+  },
+  {
     "revision": "8bf6e98a74b4e419bc14d7e1370db7cb",
     "url": "/catalog-offline/images/growrilla/1.jpg"
   },
@@ -2150,6 +2182,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "71dce53f2622c6a1e10c13bcf6a74c0d",
     "url": "/catalog-offline/images/horizon_zero_dawn/thumbnail.jpg"
+  },
+  {
+    "revision": "2b8b16751d972cf9c290f83e0cf1f1d6",
+    "url": "/catalog-offline/images/hyper_dash/1.jpg"
+  },
+  {
+    "revision": "5d96e481f84e2cd82738854fc99e6a7f",
+    "url": "/catalog-offline/images/hyper_dash/2.jpg"
+  },
+  {
+    "revision": "b59a4b010aee3b9b6eeaaceffa9f20df",
+    "url": "/catalog-offline/images/hyper_dash/3.jpg"
+  },
+  {
+    "revision": "bfe9131c889e765429539d8ede602975",
+    "url": "/catalog-offline/images/hyper_dash/thumbnail.jpg"
   },
   {
     "revision": "748bc52b5e5448d2e483a9c6be98f25a",
@@ -4560,6 +4608,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/the_sims_4/thumbnail.jpg"
   },
   {
+    "revision": "fe597b9b28527609cd9a670e9ddcdfed",
+    "url": "/catalog-offline/images/thief_simulator/1.jpg"
+  },
+  {
+    "revision": "29fe2ab64eefae08fe05bdb8f2c9e654",
+    "url": "/catalog-offline/images/thief_simulator/2.jpg"
+  },
+  {
+    "revision": "cce602f1d653b54aeeb29f46987d3eb5",
+    "url": "/catalog-offline/images/thief_simulator/3.jpg"
+  },
+  {
+    "revision": "5e03dd9504691e04cff4ab61f7aeb098",
+    "url": "/catalog-offline/images/thief_simulator/thumbnail.jpg"
+  },
+  {
     "revision": "95fea238951c0686ac29f551c3f46139",
     "url": "/catalog-offline/images/thrill_of_fight/1.jpg"
   },
@@ -4910,6 +4974,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "705ce03b0d6d45eb70449f478ba659bf",
     "url": "/catalog-offline/images/virtual_sports/thumbnail.jpg"
+  },
+  {
+    "revision": "0be084c83594206f164d016287df9ee0",
+    "url": "/catalog-offline/images/vr_kart_sprint/1.jpg"
+  },
+  {
+    "revision": "3a797c43ec0057d0395965bbf091e2a8",
+    "url": "/catalog-offline/images/vr_kart_sprint/2.jpg"
+  },
+  {
+    "revision": "e9eb7d5892e569b854b3c7a94a165c1a",
+    "url": "/catalog-offline/images/vr_kart_sprint/3.jpg"
+  },
+  {
+    "revision": "b56879e714e8e851002480ff2907f2c8",
+    "url": "/catalog-offline/images/vr_kart_sprint/thumbnail.jpg"
   },
   {
     "revision": "588123f6c2e3ab5ad6a54ea01d996058",
