@@ -17,7 +17,7 @@
             <vs-select v-show="selectedPlatform == 'oq2'" class="select-genre" label="Выбрать жанр"
               v-model="selectedGenre">
               <vs-option label="все" value="все"> все </vs-option>
-              <vs-option v-for="(genre, index) in htcGenres" :key="index" :label="genre" :value="genre">
+              <vs-option v-for="(genre, index) in oq2Genres" :key="index" :label="genre" :value="genre">
                 {{ genre }}
               </vs-option>
             </vs-select>
@@ -53,7 +53,8 @@
               Для детей
             </vs-checkbox>
           </div>
-          <div v-show="selectedPlatform == 'htc' || selectedPlatform == 'oq2' || selectedPlatform == 'psvr'" class="select-item select-item--checkbox">
+          <div v-show="selectedPlatform == 'htc' || selectedPlatform == 'oq2' || selectedPlatform == 'psvr'"
+            class="select-item select-item--checkbox">
             <vs-checkbox label-before v-model="isVeryChild" @click="setVeryChild">
               Для самых маленьких
             </vs-checkbox>
@@ -350,6 +351,22 @@ export default {
         "творчество",
         "многопользовательская",
       ],
+      oq2Genres: [
+        "симулятор",
+        "аркада",
+        "экшн",
+        "шутер",
+        "хорро",
+        "гонка",
+        "спорт",
+        "квест",
+        "песочница",
+        "стратегия",
+        "приключение",
+        "аттракцион",
+        "творчество",
+        "музыкальная",
+      ],
       psvrGenres: [
         "симулятор",
         "экшн",
@@ -363,19 +380,6 @@ export default {
         "многопользовательская",
       ],
       ps5Genres: [
-        "экшн",
-        "аркада",
-        "гонка",
-        "спорт",
-        "файтинг",
-        "песочница",
-        "симулятор",
-        "стратегия",
-        "приключение",
-        "интерактивное кино",
-        "многопользовательская",
-      ],
-      oq2Genres: [
         "экшн",
         "аркада",
         "гонка",
