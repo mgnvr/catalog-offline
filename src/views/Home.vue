@@ -42,10 +42,11 @@
               <vs-option label="по умолчанию" value="default">
                 по умолчанию
               </vs-option>
-              <vs-option label="по жанру" value="bygenre"> по жанру </vs-option>
-              <vs-option label="по тегу" value="bytag"> по тегу </vs-option>
               <vs-option label="по названию (а-я)" value="ascending"> по названию (а-я) </vs-option>
               <vs-option label="по названию (я-а)" value="descending"> по названию (я-а) </vs-option>
+              <vs-option label="по жанру" value="bygenre"> по жанру </vs-option>
+              <vs-option label="по тегу" value="bytag"> по тегу </vs-option>
+
             </vs-select>
           </div>
           <div class="select-item select-item--checkbox">
