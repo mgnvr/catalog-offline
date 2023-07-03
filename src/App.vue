@@ -1899,4 +1899,45 @@ p.game-tag .card-genre {
     width: max-content;
   }
 }
+
+@media (width: 1334px) {
+  .wrapper {
+    --auto-grid-min-size: 350px;
+  }
+
+  h3.game-title {
+    font-size: 28px;
+  }
+
+  .uk-tab>*>a {
+    font-size: 20px !important;
+    padding-top: 16px !important;
+    padding-bottom: 16px !important;
+  }
+
+  p.game-desc,
+  p.game-text,
+  .game-info p,
+  p.game-tag .card-genre,
+  p.about-text,
+  p.platform-desc,
+  p.platform-count-games,
+  .vs-select input,
+  .vs-select__option,
+  .uk-table,
+  .uk-table th,
+  p {
+    font-size: 18px;
+  }
+
+  .vs-checkbox-label,
+  .vs-input-content label {
+    font-size: 16px;
+  }
+
+  .card-genre,
+  .vs-select__label {
+    font-size: 14px;
+  }
+}
 </style>
