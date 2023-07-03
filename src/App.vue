@@ -1906,7 +1906,7 @@ p.game-tag .card-genre {
   }
 
   h3.game-title {
-    font-size: 28px;
+    font-size: 24px;
   }
 
   .uk-tab>*>a {
@@ -1938,6 +1938,18 @@ p.game-tag .card-genre {
   .card-genre,
   .vs-select__label {
     font-size: 14px;
+  }
+
+  .card {
+    height: 350px;
+  }
+
+  .vs-select__label {
+    left: 17px;
+  }
+
+  .container-input {
+    width: 200px;
   }
 }
 </style>
