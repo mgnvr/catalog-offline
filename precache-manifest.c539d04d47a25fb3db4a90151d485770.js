@@ -136,7 +136,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "eb7a3c76733579ee9e10559c991d6f9a",
+    "revision": "282b4e7bcc2cddc12c23c6af93301a23",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -762,6 +762,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "33ca6a05e037d979725c2be2909b5c9b",
     "url": "/catalog-offline/images/cave_digger/thumbnail.jpg"
+  },
+  {
+    "revision": "b478c8121fa95434d19cc8bda20021d3",
+    "url": "/catalog-offline/images/celeste/1.jpg"
+  },
+  {
+    "revision": "a867d91bcb6b0ee4272fb457097934bf",
+    "url": "/catalog-offline/images/celeste/2.jpg"
+  },
+  {
+    "revision": "30b9b24fb4e04aa452cf8aa98c00a9cc",
+    "url": "/catalog-offline/images/celeste/3.jpg"
+  },
+  {
+    "revision": "33ba737cb2566a368e48befa06c616f9",
+    "url": "/catalog-offline/images/celeste/thumbnail.jpg"
   },
   {
     "revision": "4eefee898d9cdee78f2afbe0bf785ece",
@@ -2012,6 +2028,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/heavy_rain/thumbnail.jpg"
   },
   {
+    "revision": "51794fbf723493a152f8329fd1113f35",
+    "url": "/catalog-offline/images/hello_neighbor/1.jpg"
+  },
+  {
+    "revision": "30d247653504c2f128767470717b8ff7",
+    "url": "/catalog-offline/images/hello_neighbor/2.jpg"
+  },
+  {
+    "revision": "eea34f302580fdf179064b1edd0e820f",
+    "url": "/catalog-offline/images/hello_neighbor/3.jpg"
+  },
+  {
+    "revision": "a8dbf4e949c4323ce58a001da9972bb2",
+    "url": "/catalog-offline/images/hello_neighbor/thumbnail.jpg"
+  },
+  {
     "revision": "caf3d1b60c65960db920498610792fda",
     "url": "/catalog-offline/images/hellsplit_arena/1.jpg"
   },
@@ -2188,6 +2220,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/horizon_zero_dawn/thumbnail.jpg"
   },
   {
+    "revision": "35314321580fa2605a2a0b871703ec6c",
+    "url": "/catalog-offline/images/human_fall_flat/1.jpg"
+  },
+  {
+    "revision": "4d879f7a8e8ee78912e54bc79db7e0ea",
+    "url": "/catalog-offline/images/human_fall_flat/2.jpg"
+  },
+  {
+    "revision": "d9185e42bb80af670ee98e3b4059b1bc",
+    "url": "/catalog-offline/images/human_fall_flat/3.jpg"
+  },
+  {
+    "revision": "4f8f9b1fcb7656361dd124c40c8e7e56",
+    "url": "/catalog-offline/images/human_fall_flat/thumbnail.jpg"
+  },
+  {
     "revision": "2b8b16751d972cf9c290f83e0cf1f1d6",
     "url": "/catalog-offline/images/hyper_dash/1.jpg"
   },
@@ -2202,6 +2250,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "bfe9131c889e765429539d8ede602975",
     "url": "/catalog-offline/images/hyper_dash/thumbnail.jpg"
+  },
+  {
+    "revision": "51e5fbdd199439fb361d47775f9a8576",
+    "url": "/catalog-offline/images/i_am_bread/1.jpg"
+  },
+  {
+    "revision": "53718b308bcb496b7f454a64dfe7ecaf",
+    "url": "/catalog-offline/images/i_am_bread/2.jpg"
+  },
+  {
+    "revision": "4260c25a7d5a857ed7291d4c8a995aa0",
+    "url": "/catalog-offline/images/i_am_bread/3.jpg"
+  },
+  {
+    "revision": "03b015b51a425b46a61a43b716b70a2d",
+    "url": "/catalog-offline/images/i_am_bread/thumbnail.jpg"
   },
   {
     "revision": "748bc52b5e5448d2e483a9c6be98f25a",
@@ -2282,6 +2346,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a452c916c237e53a24658f725a54a307",
     "url": "/catalog-offline/images/inpatient/thumbnail.jpg"
+  },
+  {
+    "revision": "ca9459aeccfb0c1d4f4015873178591d",
+    "url": "/catalog-offline/images/inside/1.jpg"
+  },
+  {
+    "revision": "ad6dac079df99a2aed60251b14e57264",
+    "url": "/catalog-offline/images/inside/2.jpg"
+  },
+  {
+    "revision": "6de9b4a2a99555a2febced146c25d5f2",
+    "url": "/catalog-offline/images/inside/3.jpg"
+  },
+  {
+    "revision": "fdfa9b377e464a3ef5c94e35d984cfeb",
+    "url": "/catalog-offline/images/inside/thumbnail.jpg"
   },
   {
     "revision": "8940227472a56f61bfc76e34df286a03",
@@ -2430,6 +2510,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "82b5c135e0963b6f03ce8a97d1690526",
     "url": "/catalog-offline/images/justice_league/thumbnail.jpg"
+  },
+  {
+    "revision": "02034233c398d77de4975483ea9fb203",
+    "url": "/catalog-offline/images/kena/1.jpg"
+  },
+  {
+    "revision": "101a8b8151ff5f9908cb133cdaddf5f1",
+    "url": "/catalog-offline/images/kena/2.jpg"
+  },
+  {
+    "revision": "4a64699193f37fbeab11d84b0f120668",
+    "url": "/catalog-offline/images/kena/3.jpg"
+  },
+  {
+    "revision": "7a748dc1d7add2fb774971665f7f33a2",
+    "url": "/catalog-offline/images/kena/thumbnail.jpg"
   },
   {
     "revision": "ee18e2121f743ea7e4a07a69f0d126ab",
@@ -2608,6 +2704,38 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/lego_supervillains/thumbnail.jpg"
   },
   {
+    "revision": "61c28e1771419b3ac2563c18abcb05fe",
+    "url": "/catalog-offline/images/limbo/1.jpg"
+  },
+  {
+    "revision": "8b804f34dea559d52c640b0e26f81ef3",
+    "url": "/catalog-offline/images/limbo/2.jpg"
+  },
+  {
+    "revision": "f277fb3f08306fb2ec460e70b3b15741",
+    "url": "/catalog-offline/images/limbo/3.jpg"
+  },
+  {
+    "revision": "9e4c493baa066106fd29aaa39acc2960",
+    "url": "/catalog-offline/images/limbo/thumbnail.jpg"
+  },
+  {
+    "revision": "8c2d5c9a3a99f8dd66c850c65a6cd98f",
+    "url": "/catalog-offline/images/little_big_planet_3/1.jpg"
+  },
+  {
+    "revision": "35bf1fcc2000e26306002102fcb7d19a",
+    "url": "/catalog-offline/images/little_big_planet_3/2.jpg"
+  },
+  {
+    "revision": "9f53508027d8ebebbccefb096cb71124",
+    "url": "/catalog-offline/images/little_big_planet_3/3.jpg"
+  },
+  {
+    "revision": "a9e3f33e8afaec64ba6e1f4068ea4a28",
+    "url": "/catalog-offline/images/little_big_planet_3/thumbnail.jpg"
+  },
+  {
     "revision": "953773d460c3ce80d5cde3e6d6054f0a",
     "url": "/catalog-offline/images/little_nightmares/1.jpg"
   },
@@ -2622,6 +2750,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fc642df313fa887191b48dd0259b3412",
     "url": "/catalog-offline/images/little_nightmares/thumbnail.jpg"
+  },
+  {
+    "revision": "33a8a0688abac68cb5328db01f265dfc",
+    "url": "/catalog-offline/images/loco_roco/1.jpg"
+  },
+  {
+    "revision": "2bb9a1e11f98ef6f66e2eb3d936e3480",
+    "url": "/catalog-offline/images/loco_roco/2.jpg"
+  },
+  {
+    "revision": "1fd2b4718213d07bd40d2b109ce618b0",
+    "url": "/catalog-offline/images/loco_roco/3.jpg"
+  },
+  {
+    "revision": "d1b07e80cc21f5c1b9242d4ddd5918ca",
+    "url": "/catalog-offline/images/loco_roco/thumbnail.jpg"
   },
   {
     "revision": "9a46294a4369bf271f33ec51bf488dab",
@@ -2878,6 +3022,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b464c96f606c7697afcec735eb857666",
     "url": "/catalog-offline/images/moss_2/thumbnail.jpg"
+  },
+  {
+    "revision": "eeef4eb26f590217385218fb6966457a",
+    "url": "/catalog-offline/images/my_friend_pedro/1.jpg"
+  },
+  {
+    "revision": "c859def1ecc516ae64442a4b863aa09c",
+    "url": "/catalog-offline/images/my_friend_pedro/2.jpg"
+  },
+  {
+    "revision": "64119d7fd24e3fb39eba8423f56bbd87",
+    "url": "/catalog-offline/images/my_friend_pedro/3.jpg"
+  },
+  {
+    "revision": "62c9457a66c0f4567060d5ec366947ba",
+    "url": "/catalog-offline/images/my_friend_pedro/thumbnail.jpg"
   },
   {
     "revision": "00228d78bddcebc5f33ab5ff3440d30e",
@@ -3248,6 +3408,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/payday_2/thumbnail.jpg"
   },
   {
+    "revision": "4533e5dc7e06565e778585c9ead78255",
+    "url": "/catalog-offline/images/peppa_pig/1.jpg"
+  },
+  {
+    "revision": "dfaf1f3457cf1ee4382c2bf840f7f588",
+    "url": "/catalog-offline/images/peppa_pig/2.jpg"
+  },
+  {
+    "revision": "697e8a1c3b2e813ad63ce67d8955b464",
+    "url": "/catalog-offline/images/peppa_pig/3.jpg"
+  },
+  {
+    "revision": "2cb20e65c4bdf686bcc5119a1580571b",
+    "url": "/catalog-offline/images/peppa_pig/thumbnail.jpg"
+  },
+  {
     "revision": "ce9c9e54d08439878ec1f1349a68715a",
     "url": "/catalog-offline/images/persona_5_strikers/1.jpg"
   },
@@ -3502,6 +3678,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1f2f43004e60771e0f14026cf31e25f2",
     "url": "/catalog-offline/images/ratchet_and_clank/thumbnail.jpg"
+  },
+  {
+    "revision": "1d2a85931cb01591d7acf7a020a53735",
+    "url": "/catalog-offline/images/ratchet_and_clank_rift_apart/1.jpg"
+  },
+  {
+    "revision": "74ff41789c14bc0ff0881fec3bef4e38",
+    "url": "/catalog-offline/images/ratchet_and_clank_rift_apart/2.jpg"
+  },
+  {
+    "revision": "0a1010c1e5b653227eb02ac385e99bfc",
+    "url": "/catalog-offline/images/ratchet_and_clank_rift_apart/3.jpg"
+  },
+  {
+    "revision": "8a546226faad2ba5d4b757eb4d631bb3",
+    "url": "/catalog-offline/images/ratchet_and_clank_rift_apart/thumbnail.jpg"
   },
   {
     "revision": "f895471c0e17039a1b8000bf41049c03",
@@ -4020,6 +4212,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/sleep_tight/thumbnail.jpg"
   },
   {
+    "revision": "c1679a6e97a785c59a8d6ae9292a0ba7",
+    "url": "/catalog-offline/images/slime_rancher/1.jpg"
+  },
+  {
+    "revision": "9393d4eb5fa4b87bd66c55744794d89b",
+    "url": "/catalog-offline/images/slime_rancher/2.jpg"
+  },
+  {
+    "revision": "99a5bfbb5312faeda924b0606c3ac4c5",
+    "url": "/catalog-offline/images/slime_rancher/3.jpg"
+  },
+  {
+    "revision": "39700969ba56aff9bf298721bd2a2ac2",
+    "url": "/catalog-offline/images/slime_rancher/thumbnail.jpg"
+  },
+  {
     "revision": "8f5cdf70da2bf905679b1eded10b5478",
     "url": "/catalog-offline/images/sniper_elite_4/1.jpg"
   },
@@ -4164,6 +4372,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/spider_man_far_from_home/thumbnail.jpg"
   },
   {
+    "revision": "844ce9b92c8009dd82b21901bbadb9fb",
+    "url": "/catalog-offline/images/spirit_of_the_north/1.jpg"
+  },
+  {
+    "revision": "e491798e1ebd8316d90585f6a418ffe5",
+    "url": "/catalog-offline/images/spirit_of_the_north/2.jpg"
+  },
+  {
+    "revision": "af8dd8bbb01e0f21fcf984570062860a",
+    "url": "/catalog-offline/images/spirit_of_the_north/3.jpg"
+  },
+  {
+    "revision": "3ec4bf83ae530a2dd451b545427d0f59",
+    "url": "/catalog-offline/images/spirit_of_the_north/thumbnail.jpg"
+  },
+  {
     "revision": "21fd09c9e627121600fd36a6a1123e98",
     "url": "/catalog-offline/images/sponge_bob/1.jpg"
   },
@@ -4274,6 +4498,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b7514f92733dab1fd16604d17fb9021f",
     "url": "/catalog-offline/images/stranded_deep/thumbnail.jpg"
+  },
+  {
+    "revision": "443a7962966ac2bc2952f24d05be3653",
+    "url": "/catalog-offline/images/stray/1.jpg"
+  },
+  {
+    "revision": "e51dd6801fb459072996c2eaefb78911",
+    "url": "/catalog-offline/images/stray/2.jpg"
+  },
+  {
+    "revision": "12c2be5b15aef1ca4f7021eee176dcb7",
+    "url": "/catalog-offline/images/stray/3.jpg"
+  },
+  {
+    "revision": "16d43716976cbdc00b2d89c7010047ca",
+    "url": "/catalog-offline/images/stray/thumbnail.jpg"
   },
   {
     "revision": "85a8fe082133e1efedaac3229b59d4ed",
@@ -4612,6 +4852,38 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/the_lab/thumbnail.jpg"
   },
   {
+    "revision": "dfbce3af4f79de8dcae0ce47e08c082d",
+    "url": "/catalog-offline/images/the_long_dark/1.jpg"
+  },
+  {
+    "revision": "021e0ba1e14dae48bc2aa481aa21ae46",
+    "url": "/catalog-offline/images/the_long_dark/2.jpg"
+  },
+  {
+    "revision": "e1ef5a5c270338d24770594184ddfc47",
+    "url": "/catalog-offline/images/the_long_dark/3.jpg"
+  },
+  {
+    "revision": "c73d21276b699f96488526927470a813",
+    "url": "/catalog-offline/images/the_long_dark/thumbnail.jpg"
+  },
+  {
+    "revision": "a1d3cb053fad40b5629f00538dcb843e",
+    "url": "/catalog-offline/images/the_pedestrian/1.jpg"
+  },
+  {
+    "revision": "6f4b26f9c8af6b210f2fd06520037646",
+    "url": "/catalog-offline/images/the_pedestrian/2.jpg"
+  },
+  {
+    "revision": "e05d6062f9b65ecb585a9871b498a04d",
+    "url": "/catalog-offline/images/the_pedestrian/3.jpg"
+  },
+  {
+    "revision": "deecc56b77776c4094b264bef55955e0",
+    "url": "/catalog-offline/images/the_pedestrian/thumbnail.jpg"
+  },
+  {
     "revision": "3bf81357dbe39a64edacc7200c882bad",
     "url": "/catalog-offline/images/the_persistance/1.jpg"
   },
@@ -4708,6 +4980,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/titanfall_2/thumbnail.jpg"
   },
   {
+    "revision": "23f64c1ff508a28ff06f786d7bdf0716",
+    "url": "/catalog-offline/images/tmnt_shredder_revenge/1.jpg"
+  },
+  {
+    "revision": "59b0b71f35f4cc3fe091c5b306201588",
+    "url": "/catalog-offline/images/tmnt_shredder_revenge/2.jpg"
+  },
+  {
+    "revision": "3572ab84f89ff691cdecbc89f3b5b5d2",
+    "url": "/catalog-offline/images/tmnt_shredder_revenge/3.jpg"
+  },
+  {
+    "revision": "b2699a4c1a7c7156c3bcde9cb90fc8ef",
+    "url": "/catalog-offline/images/tmnt_shredder_revenge/thumbnail.jpg"
+  },
+  {
     "revision": "6349657cf3b8841af67271ff170b230a",
     "url": "/catalog-offline/images/to_the_top/1.jpg"
   },
@@ -4770,6 +5058,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "08523c3cd106481461a7e2ca31fa7399",
     "url": "/catalog-offline/images/townsmen/thumbnail.jpg"
+  },
+  {
+    "revision": "a0f316f7c9d2101283dad5240fd25c6b",
+    "url": "/catalog-offline/images/toy_story_3/1.jpg"
+  },
+  {
+    "revision": "e1621e34269ed3978d58c8c3f983a308",
+    "url": "/catalog-offline/images/toy_story_3/2.jpg"
+  },
+  {
+    "revision": "6b11c1538a38334755f691e69993a229",
+    "url": "/catalog-offline/images/toy_story_3/3.jpg"
+  },
+  {
+    "revision": "f747ea4e6f246faa991187dea71ac4d2",
+    "url": "/catalog-offline/images/toy_story_3/thumbnail.jpg"
   },
   {
     "revision": "bfaf0b1ddd7f23b1509f7e954881bb6d",
@@ -4932,6 +5236,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/unplugged_air_guitar/thumbnail.jpg"
   },
   {
+    "revision": "a7bac5bee7f0ebf5ab0b1baea06d5ed6",
+    "url": "/catalog-offline/images/unravel_two/1.jpg"
+  },
+  {
+    "revision": "29aa98f2d658eb7f0b841087db378072",
+    "url": "/catalog-offline/images/unravel_two/2.jpg"
+  },
+  {
+    "revision": "18c4ee82277049a7d9554f03f0f6b899",
+    "url": "/catalog-offline/images/unravel_two/3.jpg"
+  },
+  {
+    "revision": "a44decced7c90ddf5d1f115b7363b668",
+    "url": "/catalog-offline/images/unravel_two/thumbnail.jpg"
+  },
+  {
     "revision": "ffa2ea5c794bdfd80ec3224aa8ccf5b4",
     "url": "/catalog-offline/images/until_you_fall/1.jpg"
   },
@@ -4946,6 +5266,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0b72dfa85e3a44fc2a1dd111cacb6731",
     "url": "/catalog-offline/images/until_you_fall/thumbnail.jpg"
+  },
+  {
+    "revision": "6262e1ae9246aa58ed4accaa335446ca",
+    "url": "/catalog-offline/images/untitled_goose_game/1.jpg"
+  },
+  {
+    "revision": "55d85432805b125b3b1247e31172fb56",
+    "url": "/catalog-offline/images/untitled_goose_game/2.jpg"
+  },
+  {
+    "revision": "a20a184af5cc55272686e4131ecf9b3a",
+    "url": "/catalog-offline/images/untitled_goose_game/3.jpg"
+  },
+  {
+    "revision": "54a788b294cfdd58402aef360d43c21a",
+    "url": "/catalog-offline/images/untitled_goose_game/thumbnail.jpg"
   },
   {
     "revision": "73567d6243887b701477f5ad6bf80304",
