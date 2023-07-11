@@ -92,7 +92,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/assets/youtube.svg"
   },
   {
-    "revision": "faf530602dc2ca930f4d",
+    "revision": "15d1c28d1791cc02aeb2",
     "url": "/catalog-offline/css/app.0183cd18.css"
   },
   {
@@ -136,8 +136,56 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "282b4e7bcc2cddc12c23c6af93301a23",
+    "revision": "4f0e471d8417e30c64da2001032711fb",
     "url": "/catalog-offline/games.json"
+  },
+  {
+    "revision": "62f23d9f6ac7fd92530943e1db152b81",
+    "url": "/catalog-offline/images/a_hat_in_time/1.jpg"
+  },
+  {
+    "revision": "353ca766ae0b4aacd8b90970f8ca2460",
+    "url": "/catalog-offline/images/a_hat_in_time/2.jpg"
+  },
+  {
+    "revision": "c6094249f24d65e48242ab3e8920d4d2",
+    "url": "/catalog-offline/images/a_hat_in_time/3.jpg"
+  },
+  {
+    "revision": "62d22199dbb05f13a5540ddef82bc20a",
+    "url": "/catalog-offline/images/a_hat_in_time/thumbnail.jpg"
+  },
+  {
+    "revision": "3aa842a36d88b53996dc648c1ac725c1",
+    "url": "/catalog-offline/images/ac_chronicles_russia/1.jpg"
+  },
+  {
+    "revision": "2d7bbb42c85dbd7ee286f7a7448b5354",
+    "url": "/catalog-offline/images/ac_chronicles_russia/2.jpg"
+  },
+  {
+    "revision": "f140c6d143aab3c1c09dd5627119a16e",
+    "url": "/catalog-offline/images/ac_chronicles_russia/3.jpg"
+  },
+  {
+    "revision": "7ee92d6c792e3a84bd77fcf8abb9a45e",
+    "url": "/catalog-offline/images/ac_chronicles_russia/thumbnail.jpg"
+  },
+  {
+    "revision": "d73eaf407ec6f2579bca8d9a3ba792fe",
+    "url": "/catalog-offline/images/ac_odyssey/1.jpg"
+  },
+  {
+    "revision": "3d6f1c17845ccfca1c502a5d87a6f49a",
+    "url": "/catalog-offline/images/ac_odyssey/2.jpg"
+  },
+  {
+    "revision": "8c9a7f30b4f183dc5723547570e845fe",
+    "url": "/catalog-offline/images/ac_odyssey/3.jpg"
+  },
+  {
+    "revision": "b4a58de8bd2d26aece65df0f10a410e8",
+    "url": "/catalog-offline/images/ac_odyssey/thumbnail.jpg"
   },
   {
     "revision": "fabbc31faaf46259077c69e157700bb7",
@@ -170,6 +218,38 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3e1525559816195a13d8316dc1f02515",
     "url": "/catalog-offline/images/affected/thumbnail.jpg"
+  },
+  {
+    "revision": "fc3806eda06b901a6dd5741855efcb69",
+    "url": "/catalog-offline/images/alan_wake/1.jpg"
+  },
+  {
+    "revision": "2af146d295df08117fa1ec1ee709018c",
+    "url": "/catalog-offline/images/alan_wake/2.jpg"
+  },
+  {
+    "revision": "533cad2691b319db2014e9cdabc08e1d",
+    "url": "/catalog-offline/images/alan_wake/3.jpg"
+  },
+  {
+    "revision": "9837e04c44a09eb7f765ce74c964a95b",
+    "url": "/catalog-offline/images/alan_wake/thumbnail.jpg"
+  },
+  {
+    "revision": "928902093b9453e2b244f7a3321f7bbe",
+    "url": "/catalog-offline/images/alex_kidd/1.jpg"
+  },
+  {
+    "revision": "1af7c27a0d4c7c8dcc75228100f1a0c7",
+    "url": "/catalog-offline/images/alex_kidd/2.jpg"
+  },
+  {
+    "revision": "64b8b5f1d95898de8783e169490ee864",
+    "url": "/catalog-offline/images/alex_kidd/3.jpg"
+  },
+  {
+    "revision": "6a0bdbc52d6ee5e6491971f160327f88",
+    "url": "/catalog-offline/images/alex_kidd/thumbnail.jpg"
   },
   {
     "revision": "5166852872298dff467e706a097f822e",
@@ -892,6 +972,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/contagion_outbreak/thumbnail.jpg"
   },
   {
+    "revision": "0ae03c37df1856a0c9a40f1efc76dd4b",
+    "url": "/catalog-offline/images/control/1.jpg"
+  },
+  {
+    "revision": "7b796df4869501fe124c8cf9275cb313",
+    "url": "/catalog-offline/images/control/2.jpg"
+  },
+  {
+    "revision": "74e90851bac28e2a4ae47651699ab3c8",
+    "url": "/catalog-offline/images/control/3.jpg"
+  },
+  {
+    "revision": "1a30e4adce17e86d1a9dc83da804812f",
+    "url": "/catalog-offline/images/control/thumbnail.jpg"
+  },
+  {
     "revision": "a5d9cdf7a401218aeb4b0b451801794c",
     "url": "/catalog-offline/images/cook_out/1.jpg"
   },
@@ -972,6 +1068,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/crossout/thumbnail.jpg"
   },
   {
+    "revision": "69aa10fa762f208c02f93c909811b09c",
+    "url": "/catalog-offline/images/crysis/1.jpg"
+  },
+  {
+    "revision": "eac78275a6d27cadd2e4c33136a87fca",
+    "url": "/catalog-offline/images/crysis/2.jpg"
+  },
+  {
+    "revision": "ed7fb2158e88adf45577f5f3490b55b3",
+    "url": "/catalog-offline/images/crysis/3.jpg"
+  },
+  {
+    "revision": "4c63b283f98b8b0d5f5428679ee79d9d",
+    "url": "/catalog-offline/images/crysis/thumbnail.jpg"
+  },
+  {
     "revision": "6ce069d7f4180a7b465c7a088ce3eed7",
     "url": "/catalog-offline/images/cyberpunk_2077/1.jpg"
   },
@@ -1018,6 +1130,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "91ad94b207b0036bd362a5ffd5d33523",
     "url": "/catalog-offline/images/dark_pictures_man_of_medan/thumbnail.jpg"
+  },
+  {
+    "revision": "9515ee84ce9c95fb8435070e5d39049c",
+    "url": "/catalog-offline/images/days_gone/1.jpg"
+  },
+  {
+    "revision": "3f0fbf745536f3c00ec2be7aa54809cc",
+    "url": "/catalog-offline/images/days_gone/2.jpg"
+  },
+  {
+    "revision": "b0fcbe3818c56bd3fe8c184c179552be",
+    "url": "/catalog-offline/images/days_gone/3.jpg"
+  },
+  {
+    "revision": "8080e5b36478b98eb37e5385d34b8b54",
+    "url": "/catalog-offline/images/days_gone/thumbnail.jpg"
   },
   {
     "revision": "befb34400be3bed0026af07819a776a4",
@@ -1210,6 +1338,54 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1c55f062af0122ee516714d252144af0",
     "url": "/catalog-offline/images/discovery_vr/thumbnail.jpg"
+  },
+  {
+    "revision": "cd12fa5aef5f39b09f281dea2dd45ab1",
+    "url": "/catalog-offline/images/dishonored/1.jpg"
+  },
+  {
+    "revision": "66ec8affe0db120efa57fa276de3598f",
+    "url": "/catalog-offline/images/dishonored/2.jpg"
+  },
+  {
+    "revision": "38a2c69fb653e132307f8983b5a492d2",
+    "url": "/catalog-offline/images/dishonored/3.jpg"
+  },
+  {
+    "revision": "ec2982134153be712b4d64be378c4389",
+    "url": "/catalog-offline/images/dishonored/thumbnail.jpg"
+  },
+  {
+    "revision": "0ea23fe8792c0613a582c721eddba54d",
+    "url": "/catalog-offline/images/dishonored_2/1.jpg"
+  },
+  {
+    "revision": "b04cfd0ada5c7a466869865c486efffc",
+    "url": "/catalog-offline/images/dishonored_2/2.jpg"
+  },
+  {
+    "revision": "4d26fd6456140b4ed7ac1cf87f02d48d",
+    "url": "/catalog-offline/images/dishonored_2/3.jpg"
+  },
+  {
+    "revision": "a0cdb1f43e2c8b565761ca5189d4f753",
+    "url": "/catalog-offline/images/dishonored_2/thumbnail.jpg"
+  },
+  {
+    "revision": "05bb885309709cc36356f99dc3398635",
+    "url": "/catalog-offline/images/doom_eternal/1.jpg"
+  },
+  {
+    "revision": "684d6bb108f24cfd78556387837f68c8",
+    "url": "/catalog-offline/images/doom_eternal/2.jpg"
+  },
+  {
+    "revision": "98389d0333103cd7fa6feb17055e6fcd",
+    "url": "/catalog-offline/images/doom_eternal/3.jpg"
+  },
+  {
+    "revision": "cf22f56c2ed281466b578592537622e2",
+    "url": "/catalog-offline/images/doom_eternal/thumbnail.jpg"
   },
   {
     "revision": "a047dbb0d7c1f9d753c0fa94308481b0",
@@ -1484,6 +1660,38 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/fancy_skiing/thumbnail.jpg"
   },
   {
+    "revision": "90de7ebfcb23725fa06f0bb21b83f59c",
+    "url": "/catalog-offline/images/far_cry_5/1.jpg"
+  },
+  {
+    "revision": "177c69fa5feca83cff8476b26af1acc2",
+    "url": "/catalog-offline/images/far_cry_5/2.jpg"
+  },
+  {
+    "revision": "183c2d62f9db226a6882e0ea2c7d2692",
+    "url": "/catalog-offline/images/far_cry_5/3.jpg"
+  },
+  {
+    "revision": "ec7f9a4d9b993ec800b6ac4d700bfa12",
+    "url": "/catalog-offline/images/far_cry_5/thumbnail.jpg"
+  },
+  {
+    "revision": "72b44b056ae8c70c697c191ed61af4d1",
+    "url": "/catalog-offline/images/far_cry_blood_dragon/1.jpg"
+  },
+  {
+    "revision": "6dbb913cd2af5477a69d3a3db303c687",
+    "url": "/catalog-offline/images/far_cry_blood_dragon/2.jpg"
+  },
+  {
+    "revision": "57fd368acdd9ac1e9ee23f85370f4cff",
+    "url": "/catalog-offline/images/far_cry_blood_dragon/3.jpg"
+  },
+  {
+    "revision": "2e5f3df9df25d14a369f099668eca289",
+    "url": "/catalog-offline/images/far_cry_blood_dragon/thumbnail.jpg"
+  },
+  {
     "revision": "e9e42128d7991e70e1f0a74fb3147a22",
     "url": "/catalog-offline/images/farpoint/1.jpg"
   },
@@ -1724,6 +1932,54 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/ghost_giant/thumbnail.jpg"
   },
   {
+    "revision": "f0ea25355016de81ae7be75ac4f98e4b",
+    "url": "/catalog-offline/images/ghost_of_tsushima/1.jpg"
+  },
+  {
+    "revision": "2a8ed7dcc1a3b2d6c2d28960a53804ae",
+    "url": "/catalog-offline/images/ghost_of_tsushima/2.jpg"
+  },
+  {
+    "revision": "839b231b7710c22a06c52370d355ecfe",
+    "url": "/catalog-offline/images/ghost_of_tsushima/3.jpg"
+  },
+  {
+    "revision": "d8f454f6f2d844828b201f47570f6c08",
+    "url": "/catalog-offline/images/ghost_of_tsushima/thumbnail.jpg"
+  },
+  {
+    "revision": "186588ad8c4f9692653edc3903dfaeee",
+    "url": "/catalog-offline/images/ghostbusters/1.jpg"
+  },
+  {
+    "revision": "372f223edb69a1be4ed820840ae06fec",
+    "url": "/catalog-offline/images/ghostbusters/2.jpg"
+  },
+  {
+    "revision": "6fec5f3bfabff055b50e17da79adb855",
+    "url": "/catalog-offline/images/ghostbusters/3.jpg"
+  },
+  {
+    "revision": "8d91a579992e52af7cc84053f8f08b7c",
+    "url": "/catalog-offline/images/ghostbusters/thumbnail.jpg"
+  },
+  {
+    "revision": "195d9f15fa011e179245c845d0bc0aa2",
+    "url": "/catalog-offline/images/ghostrunner/1.jpg"
+  },
+  {
+    "revision": "9c24bbcf029c367cee28828c7eecefe6",
+    "url": "/catalog-offline/images/ghostrunner/2.jpg"
+  },
+  {
+    "revision": "ec856c84f90ef889511743ff888083d1",
+    "url": "/catalog-offline/images/ghostrunner/3.jpg"
+  },
+  {
+    "revision": "98251756cb5ee76453125b8243821b3a",
+    "url": "/catalog-offline/images/ghostrunner/thumbnail.jpg"
+  },
+  {
     "revision": "8bf2dcf1d9f55c7ee6780640effe9591",
     "url": "/catalog-offline/images/gladius/1.jpg"
   },
@@ -1930,6 +2186,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "47b521a014562dd838a5f3f0ef39096a",
     "url": "/catalog-offline/images/gta_v/thumbnail.jpg"
+  },
+  {
+    "revision": "e328514d4bb1d6a3f0982fc1a05ea0b4",
+    "url": "/catalog-offline/images/guardians_of_the_galaxy/1.jpg"
+  },
+  {
+    "revision": "3ea6c1535e982dcf1510b197ff1b3429",
+    "url": "/catalog-offline/images/guardians_of_the_galaxy/2.jpg"
+  },
+  {
+    "revision": "302e99dd6ff2dc7a540dea1b60c7d153",
+    "url": "/catalog-offline/images/guardians_of_the_galaxy/3.jpg"
+  },
+  {
+    "revision": "7bfe69b6154bc339ba9f30185349aa80",
+    "url": "/catalog-offline/images/guardians_of_the_galaxy/thumbnail.jpg"
   },
   {
     "revision": "274f1abc098ad90f0c26417919cb26cc",
@@ -2204,6 +2476,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/horizon_chase_turbo/thumbnail.jpg"
   },
   {
+    "revision": "338077c1badd7eef888f113d7945d04f",
+    "url": "/catalog-offline/images/horizon_forbidden_west/1.jpg"
+  },
+  {
+    "revision": "f2f384fffc8a0bfafe0588f1bcad46f8",
+    "url": "/catalog-offline/images/horizon_forbidden_west/2.jpg"
+  },
+  {
+    "revision": "f390e4888e8fd2848f7b8f6fb74cbf03",
+    "url": "/catalog-offline/images/horizon_forbidden_west/3.jpg"
+  },
+  {
+    "revision": "9c7613d3824cb5d952939b0dacdc9961",
+    "url": "/catalog-offline/images/horizon_forbidden_west/thumbnail.jpg"
+  },
+  {
     "revision": "cc2548b1f4c553fd158dc279ade8dbe0",
     "url": "/catalog-offline/images/horizon_zero_dawn/1.jpg"
   },
@@ -2282,6 +2570,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9f7b35da7c9487e265bff29f356fe676",
     "url": "/catalog-offline/images/i_expect_you_to_die/thumbnail.jpg"
+  },
+  {
+    "revision": "18cb08a77cb6089d185ab28e937b2733",
+    "url": "/catalog-offline/images/immortals_fenyx_risig/1.jpg"
+  },
+  {
+    "revision": "e7dd5a981ee83cff9f8a69613b52cbc8",
+    "url": "/catalog-offline/images/immortals_fenyx_risig/2.jpg"
+  },
+  {
+    "revision": "c0d52e0d3e0689228744a9c09e834911",
+    "url": "/catalog-offline/images/immortals_fenyx_risig/3.jpg"
+  },
+  {
+    "revision": "fdf02c9540a64ecfb44a7693713f25cd",
+    "url": "/catalog-offline/images/immortals_fenyx_risig/thumbnail.jpg"
   },
   {
     "revision": "dddfd0d89aa8639720d43d402de88901",
@@ -2544,6 +2848,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/killing_floor/thumbnail.jpg"
   },
   {
+    "revision": "aa3312c6786a4fbedaa69fb806b0d0bb",
+    "url": "/catalog-offline/images/killzone_shadow_fall/1.jpg"
+  },
+  {
+    "revision": "221bda0d8b1fa96244a5613826406db5",
+    "url": "/catalog-offline/images/killzone_shadow_fall/2.jpg"
+  },
+  {
+    "revision": "63ebf1c2a88da8cbe6b50dd381bf983a",
+    "url": "/catalog-offline/images/killzone_shadow_fall/3.jpg"
+  },
+  {
+    "revision": "dfae0933b2a6d59c144cf7f8fc980838",
+    "url": "/catalog-offline/images/killzone_shadow_fall/thumbnail.jpg"
+  },
+  {
     "revision": "eedca662b10a0b96f97656e7c4bfc532",
     "url": "/catalog-offline/images/kingspray/1.jpg"
   },
@@ -2640,6 +2960,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/last_of_us/thumbnail.jpg"
   },
   {
+    "revision": "a9fec32b23881bcbd7214f0844a0c174",
+    "url": "/catalog-offline/images/last_of_us_left_behind/1.jpg"
+  },
+  {
+    "revision": "d27bc15c56dda10dbb6fb94f9ca0f868",
+    "url": "/catalog-offline/images/last_of_us_left_behind/2.jpg"
+  },
+  {
+    "revision": "caad442a91717d4ebd93e436ea46e561",
+    "url": "/catalog-offline/images/last_of_us_left_behind/3.jpg"
+  },
+  {
+    "revision": "b6f0dd73cfe1e98b602f2fdd74c5bd58",
+    "url": "/catalog-offline/images/last_of_us_left_behind/thumbnail.jpg"
+  },
+  {
     "revision": "3de69c2e502556ddad2f133b6c3a0081",
     "url": "/catalog-offline/images/lego_hobbit/1.jpg"
   },
@@ -2686,6 +3022,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7a48dbc5f2e6946f3a8fca01860f9617",
     "url": "/catalog-offline/images/lego_movie/thumbnail.jpg"
+  },
+  {
+    "revision": "4dc8543e8e23f294242692e7f88d3ccb",
+    "url": "/catalog-offline/images/lego_ninjago/1.jpg"
+  },
+  {
+    "revision": "53331f64dd4f14ba30523c7f9979fc22",
+    "url": "/catalog-offline/images/lego_ninjago/2.jpg"
+  },
+  {
+    "revision": "a01e051f2c93bc6196570e26a3f3d768",
+    "url": "/catalog-offline/images/lego_ninjago/3.jpg"
+  },
+  {
+    "revision": "a896127304ca23856ad3173487e197c2",
+    "url": "/catalog-offline/images/lego_ninjago/thumbnail.jpg"
   },
   {
     "revision": "1ac31c96278b18b1e76117f05d1a9ee3",
@@ -2880,6 +3232,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/me_legendary_edition/thumbnail.jpg"
   },
   {
+    "revision": "95a88dd2f337b5e26693108b6a643827",
+    "url": "/catalog-offline/images/medievil/1.jpg"
+  },
+  {
+    "revision": "1a5e5131aeb198ba07d2e5a7cc6b549b",
+    "url": "/catalog-offline/images/medievil/2.jpg"
+  },
+  {
+    "revision": "67e9b93960c4b3f2a233efb03b524dc3",
+    "url": "/catalog-offline/images/medievil/3.jpg"
+  },
+  {
+    "revision": "5354a241a0a803da871e8e067f92567b",
+    "url": "/catalog-offline/images/medievil/thumbnail.jpg"
+  },
+  {
     "revision": "d84a6752d7a9b32dce75993a7591f6ba",
     "url": "/catalog-offline/images/mighty_9/1.jpg"
   },
@@ -3022,6 +3390,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b464c96f606c7697afcec735eb857666",
     "url": "/catalog-offline/images/moss_2/thumbnail.jpg"
+  },
+  {
+    "revision": "33189d59ed789658d1f639157b2d5b1a",
+    "url": "/catalog-offline/images/moving_out/1.jpg"
+  },
+  {
+    "revision": "a7ed70b146a4764dd912bde8907a8e7e",
+    "url": "/catalog-offline/images/moving_out/2.jpg"
+  },
+  {
+    "revision": "8055fbdb8babb4e149b8e2919d929adb",
+    "url": "/catalog-offline/images/moving_out/3.jpg"
+  },
+  {
+    "revision": "3adfb26d2981c93c5c169f82c528051d",
+    "url": "/catalog-offline/images/moving_out/thumbnail.jpg"
   },
   {
     "revision": "eeef4eb26f590217385218fb6966457a",
@@ -3568,6 +3952,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/portal_stories_vr/thumbnail.jpg"
   },
   {
+    "revision": "ddf0394e6fbffdaa5e32dd6bf52181b2",
+    "url": "/catalog-offline/images/prey/1.jpg"
+  },
+  {
+    "revision": "0eb386290ccffcb300c9098224e81384",
+    "url": "/catalog-offline/images/prey/2.jpg"
+  },
+  {
+    "revision": "b24683aa9ff720acb1c1658c32e36f3a",
+    "url": "/catalog-offline/images/prey/3.jpg"
+  },
+  {
+    "revision": "32c2f23a2f6e411e7e4e357890c33722",
+    "url": "/catalog-offline/images/prey/thumbnail.jpg"
+  },
+  {
     "revision": "0bf701d58182f5ba9156903cc5299639",
     "url": "/catalog-offline/images/prison_boss/1.jpg"
   },
@@ -3790,6 +4190,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "aeb3079808be3b6e98bb5e231a10c787",
     "url": "/catalog-offline/images/red_matter/thumbnail.jpg"
+  },
+  {
+    "revision": "1e9582f3f2b336c0e4475b90e8f3b97f",
+    "url": "/catalog-offline/images/resident_evil_7/1.jpg"
+  },
+  {
+    "revision": "27e3af0b4506132db7caf4fc16423672",
+    "url": "/catalog-offline/images/resident_evil_7/2.jpg"
+  },
+  {
+    "revision": "eb4885b6d03d19587442d7b71ee82254",
+    "url": "/catalog-offline/images/resident_evil_7/3.jpg"
+  },
+  {
+    "revision": "d440f7cfccc2e166cce7dbfbf4b8c775",
+    "url": "/catalog-offline/images/resident_evil_7/thumbnail.jpg"
   },
   {
     "revision": "f8b8600d1bf60caa27129d106717e741",
@@ -5108,6 +5524,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/trials_fusion/thumbnail.jpg"
   },
   {
+    "revision": "791780acdc5c191ceec458b4f9823448",
+    "url": "/catalog-offline/images/trine_4/1.jpg"
+  },
+  {
+    "revision": "46a240456ac33b1855c605c02d0af679",
+    "url": "/catalog-offline/images/trine_4/2.jpg"
+  },
+  {
+    "revision": "c84f47481b2a7b83326d5bfb4a052085",
+    "url": "/catalog-offline/images/trine_4/3.jpg"
+  },
+  {
+    "revision": "ac850a5c45e0c8393b2f3b6604d33cb4",
+    "url": "/catalog-offline/images/trine_4/thumbnail.jpg"
+  },
+  {
     "revision": "ecc491675815d7e4756dc5ca22dee20b",
     "url": "/catalog-offline/images/ufc_2/1.jpg"
   },
@@ -5524,6 +5956,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/warface/thumbnail.jpg"
   },
   {
+    "revision": "38d2c9b35cd82080b7aa47e6875ac251",
+    "url": "/catalog-offline/images/wolfenstein_2/1.jpg"
+  },
+  {
+    "revision": "8041a087f0b92aff472348e6ac0104e1",
+    "url": "/catalog-offline/images/wolfenstein_2/2.jpg"
+  },
+  {
+    "revision": "6c726582ff4b4ba708419ba2f83ac0a3",
+    "url": "/catalog-offline/images/wolfenstein_2/3.jpg"
+  },
+  {
+    "revision": "9c650055d1e49d9895fafe7de42c8d54",
+    "url": "/catalog-offline/images/wolfenstein_2/thumbnail.jpg"
+  },
+  {
     "revision": "6aedfadacb4d9879d70eca61c94e6b75",
     "url": "/catalog-offline/images/world_of_tanks/1.jpg"
   },
@@ -5652,12 +6100,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/zooma_vr/thumbnail.jpg"
   },
   {
-    "revision": "29216f3aa8276c4f839ebb1e29037879",
+    "revision": "31ce524b4cd75b3e7022fe7afcd247b5",
     "url": "/catalog-offline/index.html"
   },
   {
-    "revision": "faf530602dc2ca930f4d",
-    "url": "/catalog-offline/js/app.5077925a.js"
+    "revision": "15d1c28d1791cc02aeb2",
+    "url": "/catalog-offline/js/app.3799b0fb.js"
   },
   {
     "revision": "ef9d689e1811b4fe9ec6fb5587068c4d",
