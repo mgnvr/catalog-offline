@@ -136,7 +136,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "4f0e471d8417e30c64da2001032711fb",
+    "revision": "bb11114c1f412a4ccba781c951b3e835",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -780,6 +780,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/bulletstorm/thumbnail.jpg"
   },
   {
+    "revision": "7559c279a1cd83bc4360933101cfaf61",
+    "url": "/catalog-offline/images/bus_simulator_21/1.jpg"
+  },
+  {
+    "revision": "4226f5b3690038d3fb5f142a7b8f4209",
+    "url": "/catalog-offline/images/bus_simulator_21/2.jpg"
+  },
+  {
+    "revision": "7f326c5db43abc9700f6f50dcad6808d",
+    "url": "/catalog-offline/images/bus_simulator_21/3.jpg"
+  },
+  {
+    "revision": "0de53939baea0151afaa2ac138647f8f",
+    "url": "/catalog-offline/images/bus_simulator_21/thumbnail.jpg"
+  },
+  {
     "revision": "d1953c65a41c9b7d5991bc887c8a3713",
     "url": "/catalog-offline/images/can_you_do_it/1.jpg"
   },
@@ -794,6 +810,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6a0d1cf5ed6add10f262e561c7c6ebe9",
     "url": "/catalog-offline/images/can_you_do_it/thumbnail.jpg"
+  },
+  {
+    "revision": "e465c0c3e0b289288b8f47d3b9aa6bf6",
+    "url": "/catalog-offline/images/carmageddon_max_damage/1.jpg"
+  },
+  {
+    "revision": "b551f2cf9be61be6785df827a65204eb",
+    "url": "/catalog-offline/images/carmageddon_max_damage/2.jpg"
+  },
+  {
+    "revision": "eab18caa823d580c519480c5b4ff758d",
+    "url": "/catalog-offline/images/carmageddon_max_damage/3.jpg"
+  },
+  {
+    "revision": "fd18a4488c2bd3f7a339610e5dc9638b",
+    "url": "/catalog-offline/images/carmageddon_max_damage/thumbnail.jpg"
   },
   {
     "revision": "fa9eeafc6448e14ba7adf9e81d611e33",
@@ -906,6 +938,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "87cc131c29a5af22479b0a7f2b0409ea",
     "url": "/catalog-offline/images/cod_black_ops_iii/thumbnail.jpg"
+  },
+  {
+    "revision": "311b187003e31813e4b5be494a2fc657",
+    "url": "/catalog-offline/images/cod_cold_war/1.jpg"
+  },
+  {
+    "revision": "02d6f675174f4668e9dae5c1e2624b06",
+    "url": "/catalog-offline/images/cod_cold_war/2.jpg"
+  },
+  {
+    "revision": "0dbe9bdc033e2280bc6589ad0432c050",
+    "url": "/catalog-offline/images/cod_cold_war/3.jpg"
+  },
+  {
+    "revision": "8010a628dd62bf21a3822e1b2466a807",
+    "url": "/catalog-offline/images/cod_cold_war/thumbnail.jpg"
   },
   {
     "revision": "2e318c7fc875b63bc28c1d00f0c3de0c",
@@ -1628,6 +1676,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/fallout4_vr/thumbnail.jpg"
   },
   {
+    "revision": "c1d66e3980aaa7e6e26c260d3c161e48",
+    "url": "/catalog-offline/images/fallout_4/1.jpg"
+  },
+  {
+    "revision": "ac86ae3633751095909f5d6f56953fb6",
+    "url": "/catalog-offline/images/fallout_4/2.jpg"
+  },
+  {
+    "revision": "ab3e98ea7983c3558fa467c944a34cea",
+    "url": "/catalog-offline/images/fallout_4/3.jpg"
+  },
+  {
+    "revision": "a662b6fbc51a345f976f3ee51555fa2d",
+    "url": "/catalog-offline/images/fallout_4/thumbnail.jpg"
+  },
+  {
     "revision": "d227398a67015193fe5f1ca314bed577",
     "url": "/catalog-offline/images/fallout_76/1.jpg"
   },
@@ -1692,6 +1756,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/far_cry_blood_dragon/thumbnail.jpg"
   },
   {
+    "revision": "f0f7ef61aa21e9f095e654804873116e",
+    "url": "/catalog-offline/images/far_cry_primal/1.jpg"
+  },
+  {
+    "revision": "80aec9905c365ff18e2b0ee809d3a3d1",
+    "url": "/catalog-offline/images/far_cry_primal/2.jpg"
+  },
+  {
+    "revision": "cd23a74213716f2a9894f47b5b9fad50",
+    "url": "/catalog-offline/images/far_cry_primal/3.jpg"
+  },
+  {
+    "revision": "5baa5b11b3f1da579435849040aed30a",
+    "url": "/catalog-offline/images/far_cry_primal/thumbnail.jpg"
+  },
+  {
     "revision": "e9e42128d7991e70e1f0a74fb3147a22",
     "url": "/catalog-offline/images/farpoint/1.jpg"
   },
@@ -1722,6 +1802,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "806d1258b01b39dc7f4fda431dbba00c",
     "url": "/catalog-offline/images/fifa_19/thumbnail.jpg"
+  },
+  {
+    "revision": "d18bec2ba402675b604b6186bb4f6546",
+    "url": "/catalog-offline/images/fifa_20/1.jpg"
+  },
+  {
+    "revision": "86a277709f1926de5d820131b4e7bc07",
+    "url": "/catalog-offline/images/fifa_20/2.jpg"
+  },
+  {
+    "revision": "d726720c0e3c05c0c8d7f71bdad7ad82",
+    "url": "/catalog-offline/images/fifa_20/3.jpg"
+  },
+  {
+    "revision": "7529667352acec15367dd68d0cd248be",
+    "url": "/catalog-offline/images/fifa_20/thumbnail.jpg"
   },
   {
     "revision": "38382bd16e372b85d3864ed23b799462",
@@ -2156,6 +2252,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/grapple_tournament/thumbnail.jpg"
   },
   {
+    "revision": "78099574d45985cf4316b072596f1e35",
+    "url": "/catalog-offline/images/grip/1.jpg"
+  },
+  {
+    "revision": "075ef8d6e5e61f9f124cb40e5cb3ab3e",
+    "url": "/catalog-offline/images/grip/2.jpg"
+  },
+  {
+    "revision": "75a18a42436393c64cc59e0a38373f18",
+    "url": "/catalog-offline/images/grip/3.jpg"
+  },
+  {
+    "revision": "3d31a2c5365254d1712c24b3d63da685",
+    "url": "/catalog-offline/images/grip/thumbnail.jpg"
+  },
+  {
     "revision": "8bf6e98a74b4e419bc14d7e1370db7cb",
     "url": "/catalog-offline/images/growrilla/1.jpg"
   },
@@ -2506,6 +2618,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "71dce53f2622c6a1e10c13bcf6a74c0d",
     "url": "/catalog-offline/images/horizon_zero_dawn/thumbnail.jpg"
+  },
+  {
+    "revision": "1826cb635bb18f2817d4683c5f71e461",
+    "url": "/catalog-offline/images/hue/1.jpg"
+  },
+  {
+    "revision": "a2b4f19b603ad48416479e8044a818fe",
+    "url": "/catalog-offline/images/hue/2.jpg"
+  },
+  {
+    "revision": "0872edc59645d39782f5ff5d0a043347",
+    "url": "/catalog-offline/images/hue/3.jpg"
+  },
+  {
+    "revision": "22dc6b763ef87d22094a429852334b2d",
+    "url": "/catalog-offline/images/hue/thumbnail.jpg"
   },
   {
     "revision": "35314321580fa2605a2a0b871703ec6c",
@@ -3408,6 +3536,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/moving_out/thumbnail.jpg"
   },
   {
+    "revision": "692cf2181036d289ee318b2f29574c50",
+    "url": "/catalog-offline/images/mudrunner/1.jpg"
+  },
+  {
+    "revision": "0fd85a8d1f6a5d7917fd9e4bd55a0f88",
+    "url": "/catalog-offline/images/mudrunner/2.jpg"
+  },
+  {
+    "revision": "d4c7f3746d9e56389032031c900ab2a7",
+    "url": "/catalog-offline/images/mudrunner/3.jpg"
+  },
+  {
+    "revision": "836f361073b50b79b30d205ec415bcbb",
+    "url": "/catalog-offline/images/mudrunner/thumbnail.jpg"
+  },
+  {
     "revision": "eeef4eb26f590217385218fb6966457a",
     "url": "/catalog-offline/images/my_friend_pedro/1.jpg"
   },
@@ -4030,6 +4174,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "bb69b5bdceae2fe5b26c1263173f7b56",
     "url": "/catalog-offline/images/pubg/thumbnail.jpg"
+  },
+  {
+    "revision": "c11c4d1e8297508802f40ee2915497e6",
+    "url": "/catalog-offline/images/pure_pool/1.jpg"
+  },
+  {
+    "revision": "c04049f5a78ebb1109b07d85d6c1c65b",
+    "url": "/catalog-offline/images/pure_pool/2.jpg"
+  },
+  {
+    "revision": "8977ce52564fb8e22086ff905d734581",
+    "url": "/catalog-offline/images/pure_pool/3.jpg"
+  },
+  {
+    "revision": "90e14832cec421a7b72f11032232be18",
+    "url": "/catalog-offline/images/pure_pool/thumbnail.jpg"
   },
   {
     "revision": "c5a7e59ab98d06b822a5276ae6e8e60f",
@@ -5650,6 +5810,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ef61716bfa7b909923dfa0fcb0038146",
     "url": "/catalog-offline/images/uncharted_collection/thumbnail.jpg"
+  },
+  {
+    "revision": "f8138b553c11891171dff9c1af2e5fc5",
+    "url": "/catalog-offline/images/uncharted_lost_legacy/1.jpg"
+  },
+  {
+    "revision": "edd868cfbf6080d4e370de0b637eb959",
+    "url": "/catalog-offline/images/uncharted_lost_legacy/2.jpg"
+  },
+  {
+    "revision": "d5432a5e2a4b8ac59dfbc1172a0d52b6",
+    "url": "/catalog-offline/images/uncharted_lost_legacy/3.jpg"
+  },
+  {
+    "revision": "459af9a14402cfabdb5992ec575b3358",
+    "url": "/catalog-offline/images/uncharted_lost_legacy/thumbnail.jpg"
   },
   {
     "revision": "13c5c0f096346723a1769dc96109160d",
