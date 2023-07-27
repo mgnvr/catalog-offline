@@ -3219,34 +3219,6 @@
       "tag": "боевик"
     },
     {
-      "id": 616,
-      "title": "BioShock: The Collection",
-      "description": "Вернитесь в города Rapture и Columbia и заново переживите события высоко оцененной критиками серии BioShock. Сборник BioShock: The Collection пересказывает легендарные истории путешествий по вселенной BioShock, заново воплощенной в графике формата FullHD.",
-      "thumbnail": "images/bioshock_collection/thumbnail.jpg",
-      "image1": "images/bioshock_collection/1.jpg",
-      "image2": "images/bioshock_collection/2.jpg",
-      "image3": "images/bioshock_collection/3.jpg",
-      "video": "https://www.youtube.com/watch?v=U3RXpEXA0jw&ab_channel=PlayStation",
-      "category": "ps5",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "боевик"
-    },
-    {
-      "id": 617,
-      "title": "BioShock Infinite",
-      "description": "Оказавшись в долгу у серьезных людей, частный детектив Букер ДеВитт взялся за невыполнимое задание: он должен отправиться в Колумбию, летающий город над облаками, и спасти заключенную в нем женщину по имени Элизабет. Она может разрывать ткань самой реальности — ее тюремщик планирует воспользоваться этой способностью, чтобы воплотить в жизнь свою больную фантазию американской мечты.",
-      "thumbnail": "images/bioshock_infinite/thumbnail.jpg",
-      "image1": "images/bioshock_infinite/1.jpg",
-      "image2": "images/bioshock_infinite/2.jpg",
-      "image3": "images/bioshock_infinite/3.jpg",
-      "video": "https://www.youtube.com/watch?v=T9CcbwO9LFk&ab_channel=PlayStation",
-      "category": "ps5",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "боевик"
-    },
-    {
       "id": 626,
       "title": "God of War III Обновленная версия",
       "description": "Станьте бесстрашным Кратосом, бывшим воином Спарты, который повергает в хаос предавших его богов. Поднимитесь из глубин царства Аида до вершин Олимпа в финальной саге о кровавом мщении.",
@@ -3319,6 +3291,20 @@
     },
     {
       "id": 636,
+      "title": "Uncharted 4: Путь вора",
+      "description": "Спустя несколько лет после своего последнего приключения, отказавшийся от жизни охотника за сокровищами Натан Дрейк неожиданно возвращается в мир воров. Судьба бросает ему новый вызов, когда в жизни Дрейка вновь появляется его считавшийся погибшим брат Сэм, с просьбой спасти его жизнь. На этот раз у Дрейка есть личная мотивация отправиться в ошеломляющее приключение всему миру и расследовать исторический заговор, связанный с легендарным пиратским кладом.",
+      "thumbnail": "images/uncharted_4/thumbnail.jpg",
+      "image1": "images/uncharted_4/1.jpg",
+      "image2": "images/uncharted_4/2.jpg",
+      "image3": "images/uncharted_4/3.jpg",
+      "video": "https://www.youtube.com/watch?v=yMMzkBrw7IU&ab_channel=PlayStation%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F",
+      "category": "ps5",
+      "genre": "экшн",
+      "isChild": false,
+      "tag": "боевик"
+    },
+    {
+      "id": 637,
       "title": "Uncharted: Утраченное наследие",
       "description": "Чтобы сохранить легендарный индийский артефакт и уберечь его от рук дельца, зарабатывающего на войне, Хлоя Фрейзер должна прибегнуть к помощи известной наемницы Надин Росс из «Uncharted 4: Путь вора».",
       "thumbnail": "images/uncharted_lost_legacy/thumbnail.jpg",
@@ -3344,20 +3330,6 @@
       "genre": "гонка",
       "isChild": false,
       "tag": "экстрим"
-    },
-    {
-      "id": 642,
-      "title": "Stray",
-      "description": "Потерявшемуся, одинокому, оторванному от семьи бродячему коту предстоит разгадать древнюю тайну и вырваться из давно заброшенного города.",
-      "thumbnail": "images/stray/thumbnail.jpg",
-      "image1": "images/stray/1.jpg",
-      "image2": "images/stray/2.jpg",
-      "image3": "images/stray/3.jpg",
-      "video": "https://www.youtube.com/watch?v=u84hRUQlaio",
-      "category": "ps5",
-      "genre": "экшн",
-      "isChild": true,
-      "tag": "киберпанк"
     },
     {
       "id": 643,
