@@ -136,7 +136,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "bc4298f30a7f1196ada8e4e64fa13fe8",
+    "revision": "1c81275c68acb214305e75bd69df3dad",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -10248,36 +10248,36 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/pavlov_vr/thumbnail.jpg"
   },
   {
-    "revision": "eb4f73fcdb75865f75415df3772a8491",
-    "url": "/catalog-offline/images/payday 2/1.jpg"
-  },
-  {
-    "revision": "29acea23080695063105e0d201d9d598",
-    "url": "/catalog-offline/images/payday 2/2.jpg"
-  },
-  {
-    "revision": "fa1a9f17834423ee084dcdda5d89dce5",
-    "url": "/catalog-offline/images/payday 2/3.jpg"
-  },
-  {
-    "revision": "f560984130b0497693dc8cd91459f6f3",
-    "url": "/catalog-offline/images/payday 2/thumbnail.jpg"
-  },
-  {
-    "revision": "d858884055cf6c0780798c04cfefcfe4",
+    "revision": "d9a01e9268e427bec0c44cf838011017",
     "url": "/catalog-offline/images/payday_2/1.jpg"
   },
   {
-    "revision": "107eb155dc8359835033d1bc4f0192d2",
+    "revision": "29acea23080695063105e0d201d9d598",
     "url": "/catalog-offline/images/payday_2/2.jpg"
   },
   {
-    "revision": "5e31956c86de7604739836816b975314",
+    "revision": "fa1a9f17834423ee084dcdda5d89dce5",
     "url": "/catalog-offline/images/payday_2/3.jpg"
   },
   {
-    "revision": "21508a7de2c40a5f02e9497a54b3ab68",
+    "revision": "f00607c5c1b68956123283f5410698be",
     "url": "/catalog-offline/images/payday_2/thumbnail.jpg"
+  },
+  {
+    "revision": "d858884055cf6c0780798c04cfefcfe4",
+    "url": "/catalog-offline/images/payday_2_vr/1.jpg"
+  },
+  {
+    "revision": "107eb155dc8359835033d1bc4f0192d2",
+    "url": "/catalog-offline/images/payday_2_vr/2.jpg"
+  },
+  {
+    "revision": "5e31956c86de7604739836816b975314",
+    "url": "/catalog-offline/images/payday_2_vr/3.jpg"
+  },
+  {
+    "revision": "21508a7de2c40a5f02e9497a54b3ab68",
+    "url": "/catalog-offline/images/payday_2_vr/thumbnail.jpg"
   },
   {
     "revision": "4533e5dc7e06565e778585c9ead78255",
@@ -11290,6 +11290,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fc398db227b51430c423d45fd6ac8302",
     "url": "/catalog-offline/images/sniper_elite_vr/thumbnail.jpg"
+  },
+  {
+    "revision": "00d7fbf2d28bf37b6891cabe05181568",
+    "url": "/catalog-offline/images/snowrunner/1.jpg"
+  },
+  {
+    "revision": "9d72dfdfdbdaffbf705276a4bd4f8a79",
+    "url": "/catalog-offline/images/snowrunner/2.jpg"
+  },
+  {
+    "revision": "a902a17db85195a2529f26fe9e6730c2",
+    "url": "/catalog-offline/images/snowrunner/3.jpg"
+  },
+  {
+    "revision": "2c9df45c5c62bdfd106fa96f197beef7",
+    "url": "/catalog-offline/images/snowrunner/thumbnail.jpg"
   },
   {
     "revision": "c9429d0f1c9d10edf90fe58f6dc38a53",
@@ -12362,6 +12378,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "459af9a14402cfabdb5992ec575b3358",
     "url": "/catalog-offline/images/uncharted_lost_legacy/thumbnail.jpg"
+  },
+  {
+    "revision": "9fcaedeb50e937f4a37add56b876eb74",
+    "url": "/catalog-offline/images/undertale/1.jpg"
+  },
+  {
+    "revision": "c811168d75f491eece8eb890f0f25174",
+    "url": "/catalog-offline/images/undertale/2.jpg"
+  },
+  {
+    "revision": "124ef17d8e4300454f206f89f2a646a3",
+    "url": "/catalog-offline/images/undertale/3.jpg"
+  },
+  {
+    "revision": "31ca0debcd8a06e5a2f4df731e7819ec",
+    "url": "/catalog-offline/images/undertale/thumbnail.jpg"
   },
   {
     "revision": "13c5c0f096346723a1769dc96109160d",
