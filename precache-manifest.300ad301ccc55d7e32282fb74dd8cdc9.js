@@ -136,7 +136,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "1c81275c68acb214305e75bd69df3dad",
+    "revision": "f43574df44fcfcfc675f043f567e87b4",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -236,6 +236,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/affected/thumbnail.jpg"
   },
   {
+    "revision": "c4ea62769a72bf7c06d705a8df9567c4",
+    "url": "/catalog-offline/images/after_the_fall/1.jpg"
+  },
+  {
+    "revision": "2893b47ba546a969c6c2f11aa755c508",
+    "url": "/catalog-offline/images/after_the_fall/2.jpg"
+  },
+  {
+    "revision": "66ef4cbec75c50ddd438c9dc48b86252",
+    "url": "/catalog-offline/images/after_the_fall/3.jpg"
+  },
+  {
+    "revision": "d775d3cf953d12cba1f8d489a2f763ac",
+    "url": "/catalog-offline/images/after_the_fall/thumbnail.jpg"
+  },
+  {
     "revision": "fc3806eda06b901a6dd5741855efcb69",
     "url": "/catalog-offline/images/alan_wake/1.jpg"
   },
@@ -300,6 +316,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/angry_birds_vr/thumbnail.jpg"
   },
   {
+    "revision": "84227e6b4b46d42485554a6b26bb5e1e",
+    "url": "/catalog-offline/images/another_fisherman_tale/1.jpg"
+  },
+  {
+    "revision": "81d03504661218640ccc7aac9af0ea9a",
+    "url": "/catalog-offline/images/another_fisherman_tale/2.jpg"
+  },
+  {
+    "revision": "baedc42af82152383fb2b35046ec0060",
+    "url": "/catalog-offline/images/another_fisherman_tale/3.jpg"
+  },
+  {
+    "revision": "5e3f64349c55cdcb68841c04a0fd1a7d",
+    "url": "/catalog-offline/images/another_fisherman_tale/thumbnail.jpg"
+  },
+  {
     "revision": "233f0892fd5204e2543ac138f3529cc6",
     "url": "/catalog-offline/images/apex_legends/1.jpg"
   },
@@ -362,6 +394,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c8758c104d63985eecb226f093cf5c83",
     "url": "/catalog-offline/images/astro_playroom/thumbnail.jpg"
+  },
+  {
+    "revision": "905ed471ddd77970900ada7677bd9aeb",
+    "url": "/catalog-offline/images/audica/1.jpg"
+  },
+  {
+    "revision": "b48d7c1f74b4dd16f228e6db6e1fb373",
+    "url": "/catalog-offline/images/audica/2.jpg"
+  },
+  {
+    "revision": "143315d9ff54df62caaeee923257964c",
+    "url": "/catalog-offline/images/audica/3.jpg"
+  },
+  {
+    "revision": "cc14e45c1f900c7b6cc8692f80421004",
+    "url": "/catalog-offline/images/audica/thumbnail.jpg"
   },
   {
     "revision": "41bfd88a94c63f1801a4619ecc603f85",
@@ -940,6 +988,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/cave_digger/thumbnail.jpg"
   },
   {
+    "revision": "767ae5a8a1604ee079de666a80b25ee4",
+    "url": "/catalog-offline/images/cave_digger_2/1.jpg"
+  },
+  {
+    "revision": "92d82d0852f9b71c0778e5c28bb38b3e",
+    "url": "/catalog-offline/images/cave_digger_2/2.jpg"
+  },
+  {
+    "revision": "d002bcc468e4f7236f8a8b451007d839",
+    "url": "/catalog-offline/images/cave_digger_2/3.jpg"
+  },
+  {
+    "revision": "e1355f400aaaccbec55c72fa89418294",
+    "url": "/catalog-offline/images/cave_digger_2/thumbnail.jpg"
+  },
+  {
     "revision": "b478c8121fa95434d19cc8bda20021d3",
     "url": "/catalog-offline/images/celeste/1.jpg"
   },
@@ -970,6 +1034,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ff2ebe6511e6208633b32f90f4cd1276",
     "url": "/catalog-offline/images/child_of_light/thumbnail.jpg"
+  },
+  {
+    "revision": "434de1206d6ceecc31369f13f4e35409",
+    "url": "/catalog-offline/images/cirque_du_soleil/1.jpg"
+  },
+  {
+    "revision": "82c3a6f8bee5ecf4ce16b8d5deb6b1c8",
+    "url": "/catalog-offline/images/cirque_du_soleil/2.jpg"
+  },
+  {
+    "revision": "601fb6f04d52aa59778d1c222d838723",
+    "url": "/catalog-offline/images/cirque_du_soleil/3.jpg"
+  },
+  {
+    "revision": "366c56924a7df210c31ee9eaf660e9de",
+    "url": "/catalog-offline/images/cirque_du_soleil/thumbnail.jpg"
   },
   {
     "revision": "be3d2838fe83dc87a0cf023b712194e4",
@@ -2028,6 +2108,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/fisherman_tale/thumbnail.jpg"
   },
   {
+    "revision": "455b82afe2236bbd9e2e7ba929635d65",
+    "url": "/catalog-offline/images/floor_plan_2/1.jpg"
+  },
+  {
+    "revision": "4c748c710b6e35ba0645111509cebb2d",
+    "url": "/catalog-offline/images/floor_plan_2/2.jpg"
+  },
+  {
+    "revision": "f85de0f09433d207da13889fcb317d54",
+    "url": "/catalog-offline/images/floor_plan_2/3.jpg"
+  },
+  {
+    "revision": "c77f6bb0e0e155d83be67d36911d778d",
+    "url": "/catalog-offline/images/floor_plan_2/thumbnail.jpg"
+  },
+  {
     "revision": "48c817496fdb599f8c8faedfc37f1f8a",
     "url": "/catalog-offline/images/fnaf_vr/1.jpg"
   },
@@ -2396,6 +2492,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/grapple_tournament/thumbnail.jpg"
   },
   {
+    "revision": "c2ee3d971373f9aceb78eb147632b8e7",
+    "url": "/catalog-offline/images/green_hell_vr/1.jpg"
+  },
+  {
+    "revision": "72ec95a349b16dde142fd270bf622206",
+    "url": "/catalog-offline/images/green_hell_vr/2.jpg"
+  },
+  {
+    "revision": "dd79830e1ca0c8b84ebfcd962513974c",
+    "url": "/catalog-offline/images/green_hell_vr/3.jpg"
+  },
+  {
+    "revision": "e6e01781283a6d0815c15e0eb9a038ed",
+    "url": "/catalog-offline/images/green_hell_vr/thumbnail.jpg"
+  },
+  {
     "revision": "78099574d45985cf4316b072596f1e35",
     "url": "/catalog-offline/images/grip/1.jpg"
   },
@@ -2570,6 +2682,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a8dbf4e949c4323ce58a001da9972bb2",
     "url": "/catalog-offline/images/hello_neighbor/thumbnail.jpg"
+  },
+  {
+    "revision": "3c668c5425717be7add95de618fdc5de",
+    "url": "/catalog-offline/images/hello_neighbor_search_and_rescue/1.jpg"
+  },
+  {
+    "revision": "504dd5ea444d62d2a36340c2a7cea6f8",
+    "url": "/catalog-offline/images/hello_neighbor_search_and_rescue/2.jpg"
+  },
+  {
+    "revision": "13523fd2bd170c481616536b27efe12c",
+    "url": "/catalog-offline/images/hello_neighbor_search_and_rescue/3.jpg"
+  },
+  {
+    "revision": "b53c46ea170b1db01e017e20ab9bbd5c",
+    "url": "/catalog-offline/images/hello_neighbor_search_and_rescue/thumbnail.jpg"
   },
   {
     "revision": "caf3d1b60c65960db920498610792fda",
@@ -2842,6 +2970,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9f7b35da7c9487e265bff29f356fe676",
     "url": "/catalog-offline/images/i_expect_you_to_die/thumbnail.jpg"
+  },
+  {
+    "revision": "bd28521a27ea8c5508d07725daa5406f",
+    "url": "/catalog-offline/images/i_expect_you_to_die_2/1.jpg"
+  },
+  {
+    "revision": "40cb4577a13cbba6f8f15ff42d8bbc10",
+    "url": "/catalog-offline/images/i_expect_you_to_die_2/2.jpg"
+  },
+  {
+    "revision": "29fb97f5263ec0a5a6c4895ea7b468d6",
+    "url": "/catalog-offline/images/i_expect_you_to_die_2/3.jpg"
+  },
+  {
+    "revision": "74780814852dc847219e822fa38a60d8",
+    "url": "/catalog-offline/images/i_expect_you_to_die_2/thumbnail.jpg"
   },
   {
     "revision": "62f23d9f6ac7fd92530943e1db152b81",
@@ -9816,6 +9960,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/moss_2/thumbnail.jpg"
   },
   {
+    "revision": "9e0a311bb3682247fdafd543447866ba",
+    "url": "/catalog-offline/images/mothergunship_forge/1.jpg"
+  },
+  {
+    "revision": "c7b8e18607cdb08c165d4ad5935632e7",
+    "url": "/catalog-offline/images/mothergunship_forge/2.jpg"
+  },
+  {
+    "revision": "79c1bb6c6b795b8de632238ceb3594a1",
+    "url": "/catalog-offline/images/mothergunship_forge/3.jpg"
+  },
+  {
+    "revision": "06699564f12bc004c749be39fa760e0f",
+    "url": "/catalog-offline/images/mothergunship_forge/thumbnail.jpg"
+  },
+  {
     "revision": "33189d59ed789658d1f639157b2d5b1a",
     "url": "/catalog-offline/images/moving_out/1.jpg"
   },
@@ -10712,6 +10872,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/red_matter/thumbnail.jpg"
   },
   {
+    "revision": "7c040785b3bd971084887191e131787d",
+    "url": "/catalog-offline/images/red_matter_2/1.jpg"
+  },
+  {
+    "revision": "019c230b90b09e8815b22297f11d4f58",
+    "url": "/catalog-offline/images/red_matter_2/2.jpg"
+  },
+  {
+    "revision": "bdf6796d26c8cf4d8b4901dd64aa29c6",
+    "url": "/catalog-offline/images/red_matter_2/3.jpg"
+  },
+  {
+    "revision": "6a28cfdd0f2f28395c11a52c1aacafe8",
+    "url": "/catalog-offline/images/red_matter_2/thumbnail.jpg"
+  },
+  {
     "revision": "901ca4a7737cd56bea9bfed56a784ba2",
     "url": "/catalog-offline/images/redout_2/1.jpg"
   },
@@ -10726,6 +10902,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ba42d6eef38d537fe0ac878701f3e5b3",
     "url": "/catalog-offline/images/redout_2/thumbnail.jpg"
+  },
+  {
+    "revision": "7d4453643b463a5b6444007ebd44d4f4",
+    "url": "/catalog-offline/images/resident_evil_4_vr/1.jpg"
+  },
+  {
+    "revision": "9a4e16d9c3582b86fe37e025ca51d762",
+    "url": "/catalog-offline/images/resident_evil_4_vr/2.jpg"
+  },
+  {
+    "revision": "9ae37a0e0f0acab47d14fe17362ca2ad",
+    "url": "/catalog-offline/images/resident_evil_4_vr/3.jpg"
+  },
+  {
+    "revision": "00095f2194a669cf2602cd276b892a12",
+    "url": "/catalog-offline/images/resident_evil_4_vr/thumbnail.jpg"
   },
   {
     "revision": "1e9582f3f2b336c0e4475b90e8f3b97f",
