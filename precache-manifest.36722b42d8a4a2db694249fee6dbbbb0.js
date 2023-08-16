@@ -136,7 +136,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "f43574df44fcfcfc675f043f567e87b4",
+    "revision": "8fb7d2b4ac403af6c88a9002e1cb7199",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -2124,6 +2124,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/floor_plan_2/thumbnail.jpg"
   },
   {
+    "revision": "55c709cf52535d91ff79783f07ab8fe7",
+    "url": "/catalog-offline/images/fnaf_security_bridge/1.jpg"
+  },
+  {
+    "revision": "c498885ceb618952b1d4298503bb5b09",
+    "url": "/catalog-offline/images/fnaf_security_bridge/2.jpg"
+  },
+  {
+    "revision": "43cb5e80023a3307ab41de497485bc42",
+    "url": "/catalog-offline/images/fnaf_security_bridge/3.jpg"
+  },
+  {
+    "revision": "3a3541e7a08e681f6d2aa69466808fe9",
+    "url": "/catalog-offline/images/fnaf_security_bridge/thumbnail.jpg"
+  },
+  {
     "revision": "48c817496fdb599f8c8faedfc37f1f8a",
     "url": "/catalog-offline/images/fnaf_vr/1.jpg"
   },
@@ -2890,6 +2906,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "71dce53f2622c6a1e10c13bcf6a74c0d",
     "url": "/catalog-offline/images/horizon_zero_dawn/thumbnail.jpg"
+  },
+  {
+    "revision": "9194ca9e8e4e370c38395dffd5d60170",
+    "url": "/catalog-offline/images/hotel_transylvania/1.jpg"
+  },
+  {
+    "revision": "2c1e44a34eacf448489a3e35f8cc0ba3",
+    "url": "/catalog-offline/images/hotel_transylvania/2.jpg"
+  },
+  {
+    "revision": "43f90a61d7a3fc69dd2e81cf15f4cf23",
+    "url": "/catalog-offline/images/hotel_transylvania/3.jpg"
+  },
+  {
+    "revision": "eb15f4d82423e309d160584d603f00b1",
+    "url": "/catalog-offline/images/hotel_transylvania/thumbnail.jpg"
   },
   {
     "revision": "1826cb635bb18f2817d4683c5f71e461",
@@ -9544,6 +9576,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/last_of_us_left_behind/thumbnail.jpg"
   },
   {
+    "revision": "4f2f395034a2fcbb75f97cbb1202265b",
+    "url": "/catalog-offline/images/lego_batman_3/1.jpg"
+  },
+  {
+    "revision": "fdc001b2fd754804afe2a4130db722aa",
+    "url": "/catalog-offline/images/lego_batman_3/2.jpg"
+  },
+  {
+    "revision": "ea1893b90e8e08c22567db6f6dbe43c5",
+    "url": "/catalog-offline/images/lego_batman_3/3.jpg"
+  },
+  {
+    "revision": "5b99bd92670e245291d7ce3f95b8eafc",
+    "url": "/catalog-offline/images/lego_batman_3/thumbnail.jpg"
+  },
+  {
     "revision": "3de69c2e502556ddad2f133b6c3a0081",
     "url": "/catalog-offline/images/lego_hobbit/1.jpg"
   },
@@ -12234,6 +12282,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ad7d6b7d07220c222d1a97c01205fa22",
     "url": "/catalog-offline/images/the_sims_4/thumbnail.jpg"
+  },
+  {
+    "revision": "8b443969eac99dd483524e541e23facf",
+    "url": "/catalog-offline/images/thief/1.jpg"
+  },
+  {
+    "revision": "a50dff6764f3c343b62635622b7bbdf7",
+    "url": "/catalog-offline/images/thief/2.jpg"
+  },
+  {
+    "revision": "13b8a04fb8bfe527a9613f0446a0ebb5",
+    "url": "/catalog-offline/images/thief/3.jpg"
+  },
+  {
+    "revision": "b6b93d5663bb61abfd256aaf4d4f4b9d",
+    "url": "/catalog-offline/images/thief/thumbnail.jpg"
   },
   {
     "revision": "fe597b9b28527609cd9a670e9ddcdfed",
