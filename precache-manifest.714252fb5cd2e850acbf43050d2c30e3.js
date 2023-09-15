@@ -136,7 +136,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "8fb7d2b4ac403af6c88a9002e1cb7199",
+    "revision": "719300a963488225bf960d013dbb3d5d",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -12492,7 +12492,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/trials_fusion/thumbnail.jpg"
   },
   {
-    "revision": "791780acdc5c191ceec458b4f9823448",
+    "revision": "1164a6c43193f5d221a2a96665d37247",
     "url": "/catalog-offline/images/trine_4/1.jpg"
   },
   {
@@ -12504,7 +12504,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/trine_4/3.jpg"
   },
   {
-    "revision": "ac850a5c45e0c8393b2f3b6604d33cb4",
+    "revision": "b3ddf6115f493d6b425355cddcad7841",
     "url": "/catalog-offline/images/trine_4/thumbnail.jpg"
   },
   {
