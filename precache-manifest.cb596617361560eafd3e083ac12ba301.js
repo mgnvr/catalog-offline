@@ -136,7 +136,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "719300a963488225bf960d013dbb3d5d",
+    "revision": "ebdd9f1ffedfc2f45aa9fcae1563a701",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -570,6 +570,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6c1708729b05d942d56a35bdaba027db",
     "url": "/catalog-offline/images/bellows/thumbnail.jpg"
+  },
+  {
+    "revision": "fedc1f40e97c322b4f4a671f886e52da",
+    "url": "/catalog-offline/images/ben10/1.jpg"
+  },
+  {
+    "revision": "ace706c5fb90726b61f5179ded7cea10",
+    "url": "/catalog-offline/images/ben10/2.jpg"
+  },
+  {
+    "revision": "42bf8065926f6b7756cb1d9878d3a73d",
+    "url": "/catalog-offline/images/ben10/3.jpg"
+  },
+  {
+    "revision": "8591d4eeeac7fb45b9a264e1d1963303",
+    "url": "/catalog-offline/images/ben10/thumbnail.jpg"
   },
   {
     "revision": "c9e190c96778516329aeeb1a6dad13d8",
@@ -1578,6 +1594,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a0cdb1f43e2c8b565761ca5189d4f753",
     "url": "/catalog-offline/images/dishonored_2/thumbnail.jpg"
+  },
+  {
+    "revision": "c2e06de9484e6c97f5743319345fa907",
+    "url": "/catalog-offline/images/dmc_5/1.jpg"
+  },
+  {
+    "revision": "35921382d9e681b5042ebbfa9d493eab",
+    "url": "/catalog-offline/images/dmc_5/2.jpg"
+  },
+  {
+    "revision": "445a064194a500e3bebe18a59620380d",
+    "url": "/catalog-offline/images/dmc_5/3.jpg"
+  },
+  {
+    "revision": "4c2cd5a2e772af007fd79c39579e2b85",
+    "url": "/catalog-offline/images/dmc_5/thumbnail.jpg"
   },
   {
     "revision": "9864c7e7d89324b895b7c5f05c2053ad",
@@ -2858,6 +2890,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0e4fb05bcf45659c1381f3005e1ea984",
     "url": "/catalog-offline/images/homefront_revolution/thumbnail.jpg"
+  },
+  {
+    "revision": "d2b1c09652c693001865308945787414",
+    "url": "/catalog-offline/images/honkai/1.jpg"
+  },
+  {
+    "revision": "d2fadcbadc063acb25506c975aa58fe2",
+    "url": "/catalog-offline/images/honkai/2.jpg"
+  },
+  {
+    "revision": "5fb04669532a11ebda223a454c816e1d",
+    "url": "/catalog-offline/images/honkai/3.jpg"
+  },
+  {
+    "revision": "2cb6198999cd9b709461d4efbe0e9de1",
+    "url": "/catalog-offline/images/honkai/thumbnail.jpg"
   },
   {
     "revision": "84ee0f4a9d4a43a96ce993b0d1bad6d2",
@@ -10040,6 +10088,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/moving_out/thumbnail.jpg"
   },
   {
+    "revision": "e14d283c800fde0f1433004c71755a73",
+    "url": "/catalog-offline/images/moving_out_2/1.jpg"
+  },
+  {
+    "revision": "0d3f777808915eda27757b5def339722",
+    "url": "/catalog-offline/images/moving_out_2/2.jpg"
+  },
+  {
+    "revision": "4735351fb9c1244c4c11194681184347",
+    "url": "/catalog-offline/images/moving_out_2/3.jpg"
+  },
+  {
+    "revision": "dbc1f2a38dea86d9a5ac904e3456ebcf",
+    "url": "/catalog-offline/images/moving_out_2/thumbnail.jpg"
+  },
+  {
     "revision": "692cf2181036d289ee318b2f29574c50",
     "url": "/catalog-offline/images/mudrunner/1.jpg"
   },
@@ -11270,6 +11334,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "432935a622f0d3bab97776c3a38824e5",
     "url": "/catalog-offline/images/sairento/thumbnail.jpg"
+  },
+  {
+    "revision": "e5a54ee6c1912b85ed27f670149e7f8b",
+    "url": "/catalog-offline/images/secret_neighbor/1.jpg"
+  },
+  {
+    "revision": "f88c7c22730d6723e33fe6147f5de9c6",
+    "url": "/catalog-offline/images/secret_neighbor/2.jpg"
+  },
+  {
+    "revision": "b1c2611ad0b598ec921aa3f1804102d3",
+    "url": "/catalog-offline/images/secret_neighbor/3.jpg"
+  },
+  {
+    "revision": "af1825ea55309b7afed17da8e052c193",
+    "url": "/catalog-offline/images/secret_neighbor/thumbnail.jpg"
   },
   {
     "revision": "8182b2ee88882f38874d22ffd3c678eb",
