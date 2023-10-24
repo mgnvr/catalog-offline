@@ -136,7 +136,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "6cc9dfe1c89e808053d59f612dd0f064",
+    "revision": "4b547602f4529c0abad0d0b9dd467c0c",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -1324,6 +1324,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/dark_eclipse/thumbnail.jpg"
   },
   {
+    "revision": "2214f0d5b75205d4bd8565ece6e8a45e",
+    "url": "/catalog-offline/images/dark_pictures_house_of_ashes/1.jpg"
+  },
+  {
+    "revision": "3b6d3d0e8a44a3db9c4d95186c4e8160",
+    "url": "/catalog-offline/images/dark_pictures_house_of_ashes/2.jpg"
+  },
+  {
+    "revision": "80ccc1d84f03f5c26846a8494ec388ac",
+    "url": "/catalog-offline/images/dark_pictures_house_of_ashes/3.jpg"
+  },
+  {
+    "revision": "0baacebad1ea29398b23df1c22c4c188",
+    "url": "/catalog-offline/images/dark_pictures_house_of_ashes/thumbnail.jpg"
+  },
+  {
     "revision": "fd54557bbbef7b2cf2b31b1dcd6c8d72",
     "url": "/catalog-offline/images/dark_pictures_man_of_medan/1.jpg"
   },
@@ -1402,6 +1418,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "698bcfface429c04b10671926690ddcb",
     "url": "/catalog-offline/images/dead_effect_2/thumbnail.jpg"
+  },
+  {
+    "revision": "9a785f085a99e4d6dccf861f6345478b",
+    "url": "/catalog-offline/images/dead_island/1.jpg"
+  },
+  {
+    "revision": "0418c394c2c2514a76e6313a953117c5",
+    "url": "/catalog-offline/images/dead_island/2.jpg"
+  },
+  {
+    "revision": "8a71e35ede4770765ea12f6e055d3ef5",
+    "url": "/catalog-offline/images/dead_island/3.jpg"
+  },
+  {
+    "revision": "71dc4794e4203e6922ed39ce1452c24e",
+    "url": "/catalog-offline/images/dead_island/thumbnail.jpg"
   },
   {
     "revision": "a354470cc3ab2a2bd9baedc0e9b6eb20",
