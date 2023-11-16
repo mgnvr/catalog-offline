@@ -136,7 +136,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "4b547602f4529c0abad0d0b9dd467c0c",
+    "revision": "83faeaefdb24664b75c15eb1ca72fd57",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -2876,6 +2876,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/hl_alyx/thumbnail.jpg"
   },
   {
+    "revision": "6ee3c9018c35e9f3036b383aae4df02b",
+    "url": "/catalog-offline/images/hockey_bockey/1.jpg"
+  },
+  {
+    "revision": "eea508b9035886dcd12cf390e8431d86",
+    "url": "/catalog-offline/images/hockey_bockey/2.jpg"
+  },
+  {
+    "revision": "d5df610a51db0c4afb3e918b4e99c261",
+    "url": "/catalog-offline/images/hockey_bockey/3.jpg"
+  },
+  {
+    "revision": "20298a459d0fc394c4640267a6c7a54a",
+    "url": "/catalog-offline/images/hockey_bockey/thumbnail.jpg"
+  },
+  {
     "revision": "5feb1605a43492281a981d247a19e15d",
     "url": "/catalog-offline/images/hockey_player/1.jpg"
   },
@@ -2890,6 +2906,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0fb2fea93d2f713efb8a6ca2a1621318",
     "url": "/catalog-offline/images/hockey_player/thumbnail.jpg"
+  },
+  {
+    "revision": "3d3c357eefa03360b48cd833ffc0ec27",
+    "url": "/catalog-offline/images/hockey_vr/1.jpg"
+  },
+  {
+    "revision": "3e49d54ee76c3e420f7b4ee75ebd0e2e",
+    "url": "/catalog-offline/images/hockey_vr/2.jpg"
+  },
+  {
+    "revision": "28d17f82ec7d64d32ffd4618afec3c96",
+    "url": "/catalog-offline/images/hockey_vr/3.jpg"
+  },
+  {
+    "revision": "62a0a8b06f72ce73a84282ebc593235e",
+    "url": "/catalog-offline/images/hockey_vr/thumbnail.jpg"
   },
   {
     "revision": "3219f985a40b5af30d69ff7c649ad1a3",
@@ -10646,6 +10678,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b30cd76cf79479b6329b799fa442762c",
     "url": "/catalog-offline/images/phasmophobia/thumbnail.jpg"
+  },
+  {
+    "revision": "97f2dea09540b770064c2a356399fdcb",
+    "url": "/catalog-offline/images/pick_up_league_hockey/1.jpg"
+  },
+  {
+    "revision": "d5388f303ab2b5e55de00e93ffbf8458",
+    "url": "/catalog-offline/images/pick_up_league_hockey/2.jpg"
+  },
+  {
+    "revision": "b902715135f19e033a3b7dbac9ee7317",
+    "url": "/catalog-offline/images/pick_up_league_hockey/3.jpg"
+  },
+  {
+    "revision": "10cd3e9ff62a4a68d698345944d75f4e",
+    "url": "/catalog-offline/images/pick_up_league_hockey/thumbnail.jpg"
   },
   {
     "revision": "d55a656bcd4afec654121bf375b73044",
