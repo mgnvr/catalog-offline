@@ -136,7 +136,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "12acc2b73767d8d57af95ab1e100da21",
+    "revision": "c983b5598aaae4af00aae9ad2e79957d",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -362,6 +362,54 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fc78c79ccea3c8d7a62a3fa1cd71a1f3",
     "url": "/catalog-offline/images/arizona_sunshine/thumbnail.jpg"
+  },
+  {
+    "revision": "f7638c74f94880061d46f31849c4f7e1",
+    "url": "/catalog-offline/images/arizona_sunshine_2/1.jpg"
+  },
+  {
+    "revision": "118b02de54f0fef58a5982602f728520",
+    "url": "/catalog-offline/images/arizona_sunshine_2/2.jpg"
+  },
+  {
+    "revision": "6b5f65eed13ae7f8e278fc1074c7f20a",
+    "url": "/catalog-offline/images/arizona_sunshine_2/3.jpg"
+  },
+  {
+    "revision": "b925aedabc3f2146d5c5f581bae0de9c",
+    "url": "/catalog-offline/images/arizona_sunshine_2/thumbnail.jpg"
+  },
+  {
+    "revision": "3ae5fb9c02ef3bed1a112797b00894f3",
+    "url": "/catalog-offline/images/asgard_wrath_2/1.jpg"
+  },
+  {
+    "revision": "c1c79bb20548be91cd7e6224c573ecfb",
+    "url": "/catalog-offline/images/asgard_wrath_2/2.jpg"
+  },
+  {
+    "revision": "d9522b46d2f4fddc3c8fa8c7329a901b",
+    "url": "/catalog-offline/images/asgard_wrath_2/3.jpg"
+  },
+  {
+    "revision": "bd99ef12b47cb818a8dfbd095e9c5d88",
+    "url": "/catalog-offline/images/asgard_wrath_2/thumbnail.jpg"
+  },
+  {
+    "revision": "6827d2feb06969682bfb32a021ae289e",
+    "url": "/catalog-offline/images/assassins_сreed_nexus_vr/1.jpg"
+  },
+  {
+    "revision": "9f1dc11c555752c98e52b279bed644df",
+    "url": "/catalog-offline/images/assassins_сreed_nexus_vr/2.jpg"
+  },
+  {
+    "revision": "5156605c03196f2bdd2762762ea96958",
+    "url": "/catalog-offline/images/assassins_сreed_nexus_vr/3.jpg"
+  },
+  {
+    "revision": "359d99bcab7d8e0f0cd76d4807444bcb",
+    "url": "/catalog-offline/images/assassins_сreed_nexus_vr/thumbnail.jpg"
   },
   {
     "revision": "d449fc1081ccff5a9f69e9dd0c0059be",
@@ -1578,6 +1626,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "49758dacf1f6253fd0bcf45f1404609b",
     "url": "/catalog-offline/images/dirt_rally_vr/thumbnail.jpg"
+  },
+  {
+    "revision": "03911a9c63d583db209d8a5189b563f1",
+    "url": "/catalog-offline/images/disc_ninja/1.jpg"
+  },
+  {
+    "revision": "2bc6efc9418492ef7e8f353fdd744026",
+    "url": "/catalog-offline/images/disc_ninja/2.jpg"
+  },
+  {
+    "revision": "a70406bd57989403aaeeb9dcec562ac6",
+    "url": "/catalog-offline/images/disc_ninja/3.jpg"
+  },
+  {
+    "revision": "460bcbd307f51dd519c121a81d686790",
+    "url": "/catalog-offline/images/disc_ninja/thumbnail.jpg"
   },
   {
     "revision": "c06ff824ca8d8d967525c2f1490774b1",
