@@ -92,7 +92,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/assets/youtube.svg"
   },
   {
-    "revision": "afbeb6aa98010fcd52ae",
+    "revision": "67d1d7a2aae5bb89aabd",
     "url": "/catalog-offline/css/app.0183cd18.css"
   },
   {
@@ -13420,12 +13420,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/zooma_vr/thumbnail.jpg"
   },
   {
-    "revision": "7c7018c925d5a300caec7459e398d781",
+    "revision": "d78f3138e71334c91563630c4459ebd3",
     "url": "/catalog-offline/index.html"
   },
   {
-    "revision": "afbeb6aa98010fcd52ae",
-    "url": "/catalog-offline/js/app.203c985a.js"
+    "revision": "67d1d7a2aae5bb89aabd",
+    "url": "/catalog-offline/js/app.5457a01f.js"
   },
   {
     "revision": "ef9d689e1811b4fe9ec6fb5587068c4d",
@@ -13436,8 +13436,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/js/chunk-2b92b05d.b993d4ea.js"
   },
   {
-    "revision": "043262f1094d70de9f5b",
-    "url": "/catalog-offline/js/chunk-2d22d746.2afb330b.js"
+    "revision": "3a45c0bac433f54475a1",
+    "url": "/catalog-offline/js/chunk-2d22d746.b4b398ab.js"
   },
   {
     "revision": "15101b91ab8b60dae31a",
