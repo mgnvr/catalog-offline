@@ -136,7 +136,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "3225be3dd6a6c050e9e1155cb10613c0",
+    "revision": "1b29df61e20d63face463b3cf529c3fd",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -2458,22 +2458,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a452c916c237e53a24658f725a54a307",
     "url": "/catalog-offline/images/inpatient/thumbnail.jpg"
-  },
-  {
-    "revision": "8940227472a56f61bfc76e34df286a03",
-    "url": "/catalog-offline/images/inside_backrooms/1.jpg"
-  },
-  {
-    "revision": "2e6b9dda1fbd6d287ea3f90f3e6af12c",
-    "url": "/catalog-offline/images/inside_backrooms/2.jpg"
-  },
-  {
-    "revision": "c06410bcd70e17f4215af2bcd6c8d8f9",
-    "url": "/catalog-offline/images/inside_backrooms/3.jpg"
-  },
-  {
-    "revision": "1cd1b9c43f512b79c3eadcef78643cbe",
-    "url": "/catalog-offline/images/inside_backrooms/thumbnail.jpg"
   },
   {
     "revision": "511eb9874bc4957c40066c9ac1702134",
