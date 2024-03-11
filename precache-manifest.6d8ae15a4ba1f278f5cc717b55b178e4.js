@@ -136,7 +136,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "1b29df61e20d63face463b3cf529c3fd",
+    "revision": "3d9aaa84fe9564e4e7deead54bca1778",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -282,22 +282,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5e3f64349c55cdcb68841c04a0fd1a7d",
     "url": "/catalog-offline/images/another_fisherman_tale/thumbnail.jpg"
-  },
-  {
-    "revision": "233f0892fd5204e2543ac138f3529cc6",
-    "url": "/catalog-offline/images/apex_legends/1.jpg"
-  },
-  {
-    "revision": "0353310d6af6e0ec0c4d696f0d9048af",
-    "url": "/catalog-offline/images/apex_legends/2.jpg"
-  },
-  {
-    "revision": "49876c930ba9a6cd60f0ab89b526b0e0",
-    "url": "/catalog-offline/images/apex_legends/3.jpg"
-  },
-  {
-    "revision": "5121f08a5db9dc673489a9f49146be94",
-    "url": "/catalog-offline/images/apex_legends/thumbnail.jpg"
   },
   {
     "revision": "f0f4e47609cef18f7d44555ee698b5df",
@@ -1178,22 +1162,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a0cdb1f43e2c8b565761ca5189d4f753",
     "url": "/catalog-offline/images/dishonored_2/thumbnail.jpg"
-  },
-  {
-    "revision": "c2e06de9484e6c97f5743319345fa907",
-    "url": "/catalog-offline/images/dmc_5/1.jpg"
-  },
-  {
-    "revision": "35921382d9e681b5042ebbfa9d493eab",
-    "url": "/catalog-offline/images/dmc_5/2.jpg"
-  },
-  {
-    "revision": "445a064194a500e3bebe18a59620380d",
-    "url": "/catalog-offline/images/dmc_5/3.jpg"
-  },
-  {
-    "revision": "4c2cd5a2e772af007fd79c39579e2b85",
-    "url": "/catalog-offline/images/dmc_5/thumbnail.jpg"
   },
   {
     "revision": "9864c7e7d89324b895b7c5f05c2053ad",
@@ -3758,22 +3726,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "00095f2194a669cf2602cd276b892a12",
     "url": "/catalog-offline/images/resident_evil_4_vr/thumbnail.jpg"
-  },
-  {
-    "revision": "1e9582f3f2b336c0e4475b90e8f3b97f",
-    "url": "/catalog-offline/images/resident_evil_7/1.jpg"
-  },
-  {
-    "revision": "27e3af0b4506132db7caf4fc16423672",
-    "url": "/catalog-offline/images/resident_evil_7/2.jpg"
-  },
-  {
-    "revision": "eb4885b6d03d19587442d7b71ee82254",
-    "url": "/catalog-offline/images/resident_evil_7/3.jpg"
-  },
-  {
-    "revision": "d440f7cfccc2e166cce7dbfbf4b8c775",
-    "url": "/catalog-offline/images/resident_evil_7/thumbnail.jpg"
   },
   {
     "revision": "8d50218df81009c600564f3762614256",
