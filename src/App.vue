@@ -1756,6 +1756,12 @@ p.game-tag .card-genre {
   }
 }
 
+@media (min-width: 1334px) {
+  .container {
+    max-width: 95% !important;
+  }
+}
+
 @media (min-width: 1600px) {
   .wrapper {
     --auto-grid-min-size: 350px;
