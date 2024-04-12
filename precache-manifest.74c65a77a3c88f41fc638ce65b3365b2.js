@@ -136,7 +136,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "3d9aaa84fe9564e4e7deead54bca1778",
+    "revision": "7385c631b02d7a0f1cd1b9deb5a29a26",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -202,22 +202,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5d8d679ceb2b9017865c504e1608ca30",
     "url": "/catalog-offline/images/accounting/thumbnail.jpg"
-  },
-  {
-    "revision": "3cbf73d1e02d6f532efe20a61079a087",
-    "url": "/catalog-offline/images/ace_combat_7/1.jpg"
-  },
-  {
-    "revision": "f7bbc04bef3bd41a22b3115605b9ccb1",
-    "url": "/catalog-offline/images/ace_combat_7/2.jpg"
-  },
-  {
-    "revision": "1d570ca5e9e8d5b96458e22c0d286230",
-    "url": "/catalog-offline/images/ace_combat_7/3.jpg"
-  },
-  {
-    "revision": "e7fe6e901ac1bc4115f9651d7a0c86f2",
-    "url": "/catalog-offline/images/ace_combat_7/thumbnail.jpg"
   },
   {
     "revision": "90acdc876c44828a08a9017f0150b323",
@@ -2284,22 +2268,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/hotel_transylvania/thumbnail.jpg"
   },
   {
-    "revision": "1826cb635bb18f2817d4683c5f71e461",
-    "url": "/catalog-offline/images/hue/1.jpg"
-  },
-  {
-    "revision": "a2b4f19b603ad48416479e8044a818fe",
-    "url": "/catalog-offline/images/hue/2.jpg"
-  },
-  {
-    "revision": "0872edc59645d39782f5ff5d0a043347",
-    "url": "/catalog-offline/images/hue/3.jpg"
-  },
-  {
-    "revision": "22dc6b763ef87d22094a429852334b2d",
-    "url": "/catalog-offline/images/hue/thumbnail.jpg"
-  },
-  {
     "revision": "35314321580fa2605a2a0b871703ec6c",
     "url": "/catalog-offline/images/human_fall_flat/1.jpg"
   },
@@ -4190,22 +4158,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fc398db227b51430c423d45fd6ac8302",
     "url": "/catalog-offline/images/sniper_elite_vr/thumbnail.jpg"
-  },
-  {
-    "revision": "00d7fbf2d28bf37b6891cabe05181568",
-    "url": "/catalog-offline/images/snowrunner/1.jpg"
-  },
-  {
-    "revision": "9d72dfdfdbdaffbf705276a4bd4f8a79",
-    "url": "/catalog-offline/images/snowrunner/2.jpg"
-  },
-  {
-    "revision": "a902a17db85195a2529f26fe9e6730c2",
-    "url": "/catalog-offline/images/snowrunner/3.jpg"
-  },
-  {
-    "revision": "2c9df45c5c62bdfd106fa96f197beef7",
-    "url": "/catalog-offline/images/snowrunner/thumbnail.jpg"
   },
   {
     "revision": "a12f891a15021d00bcfcc40de66d7dfe",
