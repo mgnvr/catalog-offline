@@ -136,7 +136,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "d70a2c542dd98e41b36fac901a620c88",
+    "revision": "60b0e201015b915e4f1813fcc2313ab2",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -1564,6 +1564,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/fnaf_vr/thumbnail.jpg"
   },
   {
+    "revision": "327311e9de1af7c4d5288723072c7437",
+    "url": "/catalog-offline/images/fnaf_vr2/1.jpg"
+  },
+  {
+    "revision": "bb4bbbf4f8780d709941ac5a7b7d7480",
+    "url": "/catalog-offline/images/fnaf_vr2/2.jpg"
+  },
+  {
+    "revision": "8d116316b6ea343f02a26263b45f095b",
+    "url": "/catalog-offline/images/fnaf_vr2/3.jpg"
+  },
+  {
+    "revision": "72ac2e79ff118e6d423f31ad824c0626",
+    "url": "/catalog-offline/images/fnaf_vr2/thumbnail.jpg"
+  },
+  {
     "revision": "0b16ce8ce43d198a87478e1a8973b45f",
     "url": "/catalog-offline/images/fortnite/1.jpg"
   },
@@ -1994,6 +2010,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4a4a91ade83650bada036e5e9d3f29d9",
     "url": "/catalog-offline/images/headshot_vr/thumbnail.jpg"
+  },
+  {
+    "revision": "b97bf237b49a31135dbc95aeafafb9ea",
+    "url": "/catalog-offline/images/helldivers_2/1.jpg"
+  },
+  {
+    "revision": "c1bfe99e844d3b2b8e9c491d267b5bb0",
+    "url": "/catalog-offline/images/helldivers_2/2.jpg"
+  },
+  {
+    "revision": "759910d77fea5b1d1ba0a8299f1c17a8",
+    "url": "/catalog-offline/images/helldivers_2/3.jpg"
+  },
+  {
+    "revision": "8c0d477649b7fa1b3be3f447268fda6d",
+    "url": "/catalog-offline/images/helldivers_2/thumbnail.jpg"
   },
   {
     "revision": "51794fbf723493a152f8329fd1113f35",
@@ -4270,6 +4302,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "388014ead5dd6b5466bbcc803863cda8",
     "url": "/catalog-offline/images/street_fighter_v/thumbnail.jpg"
+  },
+  {
+    "revision": "86eec1c2d805b40583250dd0c0487c3c",
+    "url": "/catalog-offline/images/subnautica/1.jpg"
+  },
+  {
+    "revision": "9d336d00c457ea81cc46f3cd0cc0914d",
+    "url": "/catalog-offline/images/subnautica/2.jpg"
+  },
+  {
+    "revision": "8364f5d58ac1243911940c125eba6c20",
+    "url": "/catalog-offline/images/subnautica/3.jpg"
+  },
+  {
+    "revision": "4d9b92eecc6fa3d831957d150624d2dc",
+    "url": "/catalog-offline/images/subnautica/thumbnail.jpg"
   },
   {
     "revision": "e2599c8350168199183e89c73358ae33",
