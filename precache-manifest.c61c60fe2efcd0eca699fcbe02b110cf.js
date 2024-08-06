@@ -136,7 +136,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "60b0e201015b915e4f1813fcc2313ab2",
+    "revision": "422b46befe31ebdee114329602a61200",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -2298,6 +2298,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "03b015b51a425b46a61a43b716b70a2d",
     "url": "/catalog-offline/images/i_am_bread/thumbnail.jpg"
+  },
+  {
+    "revision": "883fc434b6eaffc4b119f0da8fd63397",
+    "url": "/catalog-offline/images/i_am_cat/1.jpg"
+  },
+  {
+    "revision": "1eaaaa6f126240f3c254f18376b9f9a7",
+    "url": "/catalog-offline/images/i_am_cat/2.jpg"
+  },
+  {
+    "revision": "d98aea9e64c2d9d5c8404fcc04bbb51b",
+    "url": "/catalog-offline/images/i_am_cat/3.jpg"
+  },
+  {
+    "revision": "a298b181806c888867e743c750683104",
+    "url": "/catalog-offline/images/i_am_cat/thumbnail.jpg"
   },
   {
     "revision": "748bc52b5e5448d2e483a9c6be98f25a",
