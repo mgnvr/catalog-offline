@@ -136,7 +136,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "1039e523e01ca5ac5586467b1825aa24",
+    "revision": "af966748281efe12e773f3b64206df95",
     "url": "/catalog-offline/games.json"
   },
   {
