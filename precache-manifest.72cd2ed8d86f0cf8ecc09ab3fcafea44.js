@@ -136,7 +136,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "af966748281efe12e773f3b64206df95",
+    "revision": "9f12964e6581549911b932f5a3399247",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -1004,6 +1004,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/cyberpunk_2077/thumbnail.jpg"
   },
   {
+    "revision": "4b89254d0806ee2b8b91b04b62e09060",
+    "url": "/catalog-offline/images/dark_pictures_devil_in_me/1.jpg"
+  },
+  {
+    "revision": "f9cb0c7cd1f704c1315b9261f13c1c98",
+    "url": "/catalog-offline/images/dark_pictures_devil_in_me/2.jpg"
+  },
+  {
+    "revision": "fb888abbb014e2850ac72689f8352a99",
+    "url": "/catalog-offline/images/dark_pictures_devil_in_me/3.jpg"
+  },
+  {
+    "revision": "393e4e2a0f1bfd7c80379ce5c36e3254",
+    "url": "/catalog-offline/images/dark_pictures_devil_in_me/thumbnail.jpg"
+  },
+  {
     "revision": "2214f0d5b75205d4bd8565ece6e8a45e",
     "url": "/catalog-offline/images/dark_pictures_house_of_ashes/1.jpg"
   },
@@ -1146,6 +1162,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "71dc4794e4203e6922ed39ce1452c24e",
     "url": "/catalog-offline/images/dead_island/thumbnail.jpg"
+  },
+  {
+    "revision": "b63643d6f874d81115df3a748da25703",
+    "url": "/catalog-offline/images/dead_island_2/1.jpg"
+  },
+  {
+    "revision": "d6e93512503bf460dcf53b7d131d4b50",
+    "url": "/catalog-offline/images/dead_island_2/2.jpg"
+  },
+  {
+    "revision": "d7e484f5459dba647b8470b7809745a8",
+    "url": "/catalog-offline/images/dead_island_2/3.jpg"
+  },
+  {
+    "revision": "cb863f1304c478e9bf3a3682e475f7dc",
+    "url": "/catalog-offline/images/dead_island_2/thumbnail.jpg"
   },
   {
     "revision": "a354470cc3ab2a2bd9baedc0e9b6eb20",
@@ -3008,22 +3040,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/lego_supervillains/thumbnail.jpg"
   },
   {
-    "revision": "8c2d5c9a3a99f8dd66c850c65a6cd98f",
-    "url": "/catalog-offline/images/little_big_planet_3/1.jpg"
-  },
-  {
-    "revision": "35bf1fcc2000e26306002102fcb7d19a",
-    "url": "/catalog-offline/images/little_big_planet_3/2.jpg"
-  },
-  {
-    "revision": "9f53508027d8ebebbccefb096cb71124",
-    "url": "/catalog-offline/images/little_big_planet_3/3.jpg"
-  },
-  {
-    "revision": "a9e3f33e8afaec64ba6e1f4068ea4a28",
-    "url": "/catalog-offline/images/little_big_planet_3/thumbnail.jpg"
-  },
-  {
     "revision": "33a8a0688abac68cb5328db01f265dfc",
     "url": "/catalog-offline/images/loco_roco/1.jpg"
   },
@@ -4846,6 +4862,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "deecc56b77776c4094b264bef55955e0",
     "url": "/catalog-offline/images/the_pedestrian/thumbnail.jpg"
+  },
+  {
+    "revision": "ec17990808fb35bd1ce27604d78b125a",
+    "url": "/catalog-offline/images/the_plucky_squire/1.jpg"
+  },
+  {
+    "revision": "4534626a632f0a7d63f2b161484abc78",
+    "url": "/catalog-offline/images/the_plucky_squire/2.jpg"
+  },
+  {
+    "revision": "76f43c9c1e4ef17ab59941b9eb6b53c9",
+    "url": "/catalog-offline/images/the_plucky_squire/3.jpg"
+  },
+  {
+    "revision": "cacba163393bdd667a819724ee61332f",
+    "url": "/catalog-offline/images/the_plucky_squire/thumbnail.jpg"
   },
   {
     "revision": "a4160e6fb81f673b1ca19efcf96d0d71",
