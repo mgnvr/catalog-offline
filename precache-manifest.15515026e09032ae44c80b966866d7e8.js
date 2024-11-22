@@ -136,7 +136,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "9f12964e6581549911b932f5a3399247",
+    "revision": "ac692e1a9a3ec1ba376f728569884ec8",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -2108,22 +2108,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/growrilla/thumbnail.jpg"
   },
   {
-    "revision": "0e44d3533ec38ecb21bde93c58d60116",
-    "url": "/catalog-offline/images/gta_sa/1.jpg"
-  },
-  {
-    "revision": "666d82514bde3834487d9a34cb49fa22",
-    "url": "/catalog-offline/images/gta_sa/2.jpg"
-  },
-  {
-    "revision": "4e259c9602a3d13d189f879f9252195a",
-    "url": "/catalog-offline/images/gta_sa/3.jpg"
-  },
-  {
-    "revision": "40eb27ce396720c94178589cc446ded9",
-    "url": "/catalog-offline/images/gta_sa/thumbnail.jpg"
-  },
-  {
     "revision": "c46a9aa72e44c0bfaa79f6e1ffb420ae",
     "url": "/catalog-offline/images/gta_v/1.jpg"
   },
@@ -3264,22 +3248,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/mothergunship_forge/thumbnail.jpg"
   },
   {
-    "revision": "33189d59ed789658d1f639157b2d5b1a",
-    "url": "/catalog-offline/images/moving_out/1.jpg"
-  },
-  {
-    "revision": "a7ed70b146a4764dd912bde8907a8e7e",
-    "url": "/catalog-offline/images/moving_out/2.jpg"
-  },
-  {
-    "revision": "8055fbdb8babb4e149b8e2919d929adb",
-    "url": "/catalog-offline/images/moving_out/3.jpg"
-  },
-  {
-    "revision": "3adfb26d2981c93c5c169f82c528051d",
-    "url": "/catalog-offline/images/moving_out/thumbnail.jpg"
-  },
-  {
     "revision": "692cf2181036d289ee318b2f29574c50",
     "url": "/catalog-offline/images/mudrunner/1.jpg"
   },
@@ -3470,22 +3438,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6717fc35eac27abd57f2d9065ef8d0cd",
     "url": "/catalog-offline/images/nvidia_fun_house/thumbnail.jpg"
-  },
-  {
-    "revision": "3c65153af3438002d42dc411d2a15a34",
-    "url": "/catalog-offline/images/overcooked_2/1.jpg"
-  },
-  {
-    "revision": "55b5e3925e27f1c13468a6680602eadf",
-    "url": "/catalog-offline/images/overcooked_2/2.jpg"
-  },
-  {
-    "revision": "21a7379a436b0639f5b0d1f719851f31",
-    "url": "/catalog-offline/images/overcooked_2/3.jpg"
-  },
-  {
-    "revision": "75dc452161ce76c323ae80e49127e506",
-    "url": "/catalog-offline/images/overcooked_2/thumbnail.jpg"
   },
   {
     "revision": "8008e5a88b962332d1b3510a3f98ce70",
@@ -5358,22 +5310,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4daa9ca1948bfdf5302bacfd8b0529aa",
     "url": "/catalog-offline/images/walkabout_mini_golf/thumbnail.jpg"
-  },
-  {
-    "revision": "43ea377f3fe662fe8c0cbbae1ad95e2f",
-    "url": "/catalog-offline/images/walking_dead_sas/1.jpg"
-  },
-  {
-    "revision": "9cbf2d9b0fac79014dc5c0c3da82e6ed",
-    "url": "/catalog-offline/images/walking_dead_sas/2.jpg"
-  },
-  {
-    "revision": "87599ba63685b491fd2332ad5e9eca3f",
-    "url": "/catalog-offline/images/walking_dead_sas/3.jpg"
-  },
-  {
-    "revision": "985bc1385ee1aa2fa5fb2e3849a63da0",
-    "url": "/catalog-offline/images/walking_dead_sas/thumbnail.jpg"
   },
   {
     "revision": "06eb0119c94c1b0b659f360556d9f148",
