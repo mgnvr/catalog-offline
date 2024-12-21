@@ -136,7 +136,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "ac692e1a9a3ec1ba376f728569884ec8",
+    "revision": "1c9fc4b7f963eba0596295ebda5ecff2",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -1148,22 +1148,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/dead_effect_2/thumbnail.jpg"
   },
   {
-    "revision": "9a785f085a99e4d6dccf861f6345478b",
-    "url": "/catalog-offline/images/dead_island/1.jpg"
-  },
-  {
-    "revision": "0418c394c2c2514a76e6313a953117c5",
-    "url": "/catalog-offline/images/dead_island/2.jpg"
-  },
-  {
-    "revision": "8a71e35ede4770765ea12f6e055d3ef5",
-    "url": "/catalog-offline/images/dead_island/3.jpg"
-  },
-  {
-    "revision": "71dc4794e4203e6922ed39ce1452c24e",
-    "url": "/catalog-offline/images/dead_island/thumbnail.jpg"
-  },
-  {
     "revision": "b63643d6f874d81115df3a748da25703",
     "url": "/catalog-offline/images/dead_island_2/1.jpg"
   },
@@ -1450,6 +1434,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "940c0883a7f4d95bc3065c83b071151b",
     "url": "/catalog-offline/images/dungeon_brewmaster/thumbnail.jpg"
+  },
+  {
+    "revision": "638b73e9cc32cd5d0ee6875ba718b690",
+    "url": "/catalog-offline/images/dying_light_2/1.jpg"
+  },
+  {
+    "revision": "57143c32df6ce39e98bf24348c980bd3",
+    "url": "/catalog-offline/images/dying_light_2/2.jpg"
+  },
+  {
+    "revision": "8645b6805075ea3fe77ef69673712b1e",
+    "url": "/catalog-offline/images/dying_light_2/3.jpg"
+  },
+  {
+    "revision": "9dcf1bc7fcc130d2029c20429bd17390",
+    "url": "/catalog-offline/images/dying_light_2/thumbnail.jpg"
   },
   {
     "revision": "3a97c186c7fcbcec1f36eb9ee45596fb",
@@ -3102,22 +3102,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5354a241a0a803da871e8e067f92567b",
     "url": "/catalog-offline/images/medievil/thumbnail.jpg"
-  },
-  {
-    "revision": "7a6af6951f8b3cfefd7dd51c15e6016c",
-    "url": "/catalog-offline/images/megaman_11/1.jpg"
-  },
-  {
-    "revision": "e00b8999eee42c3691083815ccee559b",
-    "url": "/catalog-offline/images/megaman_11/2.jpg"
-  },
-  {
-    "revision": "3f942a8eeab20c1e868414782337ee96",
-    "url": "/catalog-offline/images/megaman_11/3.jpg"
-  },
-  {
-    "revision": "85ff4e20730abf026df139e78b4ec71a",
-    "url": "/catalog-offline/images/megaman_11/thumbnail.jpg"
   },
   {
     "revision": "3e368bcb5a717146e14d4514d24cd177",
@@ -4910,22 +4894,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "39e9a74e0bace44d3506e5ccecc0b509",
     "url": "/catalog-offline/images/tilt_brush/thumbnail.jpg"
-  },
-  {
-    "revision": "b8e2ddb9191edbc7d3a28d924acb468e",
-    "url": "/catalog-offline/images/tinykin/1.jpg"
-  },
-  {
-    "revision": "f4b766c9f2af969b5bd7b202e3c42d28",
-    "url": "/catalog-offline/images/tinykin/2.jpg"
-  },
-  {
-    "revision": "9fb0bb9d291527689bacd333b359ad1e",
-    "url": "/catalog-offline/images/tinykin/3.jpg"
-  },
-  {
-    "revision": "8f90235f1815292bcb897bc8ebae7178",
-    "url": "/catalog-offline/images/tinykin/thumbnail.jpg"
   },
   {
     "revision": "23f64c1ff508a28ff06f786d7bdf0716",
