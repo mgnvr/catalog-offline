@@ -92,7 +92,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/assets/youtube.svg"
   },
   {
-    "revision": "3012edddbef833f59a57",
+    "revision": "e77ff1abcfe1488419cd",
     "url": "/catalog-offline/css/app.445215bc.css"
   },
   {
@@ -136,7 +136,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "1c9fc4b7f963eba0596295ebda5ecff2",
+    "revision": "974fff353b96e861f47d15409fb96df2",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -2688,22 +2688,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/job_simulator/thumbnail.jpg"
   },
   {
-    "revision": "c320dfb048d0b75a9d721812f6ca3298",
-    "url": "/catalog-offline/images/just_cause_4/1.jpg"
-  },
-  {
-    "revision": "c9ad7f23b6d48ee6453c0369d6132f20",
-    "url": "/catalog-offline/images/just_cause_4/2.jpg"
-  },
-  {
-    "revision": "f36a0105919c71c0bc61efd0c25f304f",
-    "url": "/catalog-offline/images/just_cause_4/3.jpg"
-  },
-  {
-    "revision": "cbf05785e706850f5fb9f288db69562d",
-    "url": "/catalog-offline/images/just_cause_4/thumbnail.jpg"
-  },
-  {
     "revision": "c33717b56ba4f62f83173e1e61510c42",
     "url": "/catalog-offline/images/justice_league/1.jpg"
   },
@@ -3312,6 +3296,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/nevrosa_prelude/thumbnail.jpg"
   },
   {
+    "revision": "08b3721ebb36966f6598e351b6f3c6f2",
+    "url": "/catalog-offline/images/nfs_hp_remastered/1.jpg"
+  },
+  {
+    "revision": "de35f5ece27744543504508a8bbe1382",
+    "url": "/catalog-offline/images/nfs_hp_remastered/2.jpg"
+  },
+  {
+    "revision": "751d467253892fdc50eaa6b8a8d9b2e3",
+    "url": "/catalog-offline/images/nfs_hp_remastered/3.jpg"
+  },
+  {
+    "revision": "40d184369e8581032191aca54f98c720",
+    "url": "/catalog-offline/images/nfs_hp_remastered/thumbnail.jpg"
+  },
+  {
     "revision": "d8b1f9a47a3cd250bd0a29478cdc5df7",
     "url": "/catalog-offline/images/nfs_payback/1.jpg"
   },
@@ -3790,22 +3790,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f04ed4dc7859ddd31d76d5b4ddcd64ec",
     "url": "/catalog-offline/images/rdr2/thumbnail.jpg"
-  },
-  {
-    "revision": "520a497e025de8dd2d29ed7377e9f9b4",
-    "url": "/catalog-offline/images/re2/1.jpg"
-  },
-  {
-    "revision": "5638d144491448304e38caffcfb7ca07",
-    "url": "/catalog-offline/images/re2/2.jpg"
-  },
-  {
-    "revision": "a3827aeaef884e3241bdfb374c0525d5",
-    "url": "/catalog-offline/images/re2/3.jpg"
-  },
-  {
-    "revision": "5b387be9f46d85cc2a70d86d3cf4f718",
-    "url": "/catalog-offline/images/re2/thumbnail.jpg"
   },
   {
     "revision": "c21945c3828281dafa1d36a4dfd01d53",
@@ -5488,12 +5472,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/zooma_vr/thumbnail.jpg"
   },
   {
-    "revision": "41e76c857e0190012797078a8f3451ac",
+    "revision": "bf57b4cc0f63b2f15f9b0913be307428",
     "url": "/catalog-offline/index.html"
   },
   {
-    "revision": "3012edddbef833f59a57",
-    "url": "/catalog-offline/js/app.8fe2869e.js"
+    "revision": "e77ff1abcfe1488419cd",
+    "url": "/catalog-offline/js/app.9b107d44.js"
   },
   {
     "revision": "ef9d689e1811b4fe9ec6fb5587068c4d",
