@@ -92,8 +92,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/assets/youtube.svg"
   },
   {
-    "revision": "e77ff1abcfe1488419cd",
-    "url": "/catalog-offline/css/app.445215bc.css"
+    "revision": "94c054deba75b710d8bf",
+    "url": "/catalog-offline/css/app.845a02aa.css"
   },
   {
     "revision": "17c4288ca4e63f68ce18",
@@ -136,7 +136,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "974fff353b96e861f47d15409fb96df2",
+    "revision": "8bc1b073b056f8d8be08152ae58710d9",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -5472,12 +5472,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/zooma_vr/thumbnail.jpg"
   },
   {
-    "revision": "bf57b4cc0f63b2f15f9b0913be307428",
+    "revision": "fe386c0ebce9fb7f5337187aa0c9a2ad",
     "url": "/catalog-offline/index.html"
   },
   {
-    "revision": "e77ff1abcfe1488419cd",
-    "url": "/catalog-offline/js/app.9b107d44.js"
+    "revision": "94c054deba75b710d8bf",
+    "url": "/catalog-offline/js/app.7deaf777.js"
   },
   {
     "revision": "ef9d689e1811b4fe9ec6fb5587068c4d",
@@ -5488,8 +5488,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/js/chunk-2b92b05d.b993d4ea.js"
   },
   {
-    "revision": "3a45c0bac433f54475a1",
-    "url": "/catalog-offline/js/chunk-2d22d746.b4b398ab.js"
+    "revision": "f43d8b5131dbae7ddf66",
+    "url": "/catalog-offline/js/chunk-2d22d746.6519493e.js"
   },
   {
     "revision": "15101b91ab8b60dae31a",
