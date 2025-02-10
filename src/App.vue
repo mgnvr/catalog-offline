@@ -867,6 +867,7 @@ a:hover,
 
 .uk-table {
   max-width: max-content;
+  max-width: 100%;
 }
 
 table b {
