@@ -46,7 +46,7 @@
               <p class="platform-desc">Система виртуальной реальности Oculus Quest 2 отличается возможностью автономного
                 использования. Также на платформе представлены эксклюзивные игры во вселенной Star Wars и др.</p>
               <p class="platform-count-games">
-                Игр на платформе: {{ this.$store.state.games.filter(game => game.category === 'oq2').length }}
+                Игр на платформе: {{this.$store.state.games.filter(game => game.category === 'oq2').length}}
               </p>
             </div>
           </div>
@@ -63,7 +63,7 @@
                 себя участником настоящей гонки с болельщиками на трибунах, и проработанной до мельчайших деталей
                 природой.</p>
               <p class="platform-count-games">
-                Игр на платформе: {{ this.$store.state.games.filter(game => game.category === 'psvr').length }}
+                Игр на платформе: {{this.$store.state.games.filter(game => game.category === 'psvr').length}}
               </p>
             </div>
           </div>
@@ -79,7 +79,7 @@
                 последнего поколения. Предусмотрена возможность локального кооператива или игра по сети на несколько
                 человек.</p>
               <p class="platform-count-games">
-                Игр на платформе: {{ this.$store.state.games.filter(game => game.category === 'ps5').length }}
+                Игр на платформе: {{this.$store.state.games.filter(game => game.category === 'ps5').length}}
               </p>
             </div>
           </div>
@@ -98,31 +98,31 @@
         </thead>
         <tbody>
           <tr>
-            <td>10 мин - 300₽</td>
+            <td>10 мин - 350₽</td>
             <td>15 мин - 100₽</td>
           </tr>
           <tr>
-            <td>20 мин - 450₽</td>
+            <td>20 мин - 550₽</td>
             <td>30 мин - 150₽</td>
           </tr>
           <tr>
-            <td>30 мин - 500₽</td>
+            <td>30 мин - 600₽</td>
             <td>60 мин - 300₽</td>
           </tr>
           <tr>
-            <td>60 мин - 700₽</td>
+            <td>60 мин - 800₽</td>
             <td>120 мин - 550₽</td>
           </tr>
           <tr>
-            <td>120 мин - 1200₽</td>
-            <td>безлимит - 1250₽</td>
+            <td>120 мин - 1300₽</td>
+            <td>безлимит - 1300₽</td>
           </tr>
           <tr>
             <td>1 заезд в шлеме - 200₽</td>
             <td></td>
           </tr>
           <tr>
-            <td colspan="4" class="cell-rent">Аренда центра - 2500₽/час</td>
+            <td colspan="4" class="cell-rent">Аренда центра - 3000₽/час</td>
           </tr>
         </tbody>
       </table>
