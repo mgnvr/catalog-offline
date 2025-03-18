@@ -136,7 +136,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "8bc1b073b056f8d8be08152ae58710d9",
+    "revision": "8687fa7f2cba29f3ede0476d801000f8",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -602,22 +602,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6e4847193161a3d38b741ffbd19597b4",
     "url": "/catalog-offline/images/blood_and_truth/thumbnail.jpg"
-  },
-  {
-    "revision": "174fbf366c312071872fe036cb7be166",
-    "url": "/catalog-offline/images/blue_effect/1.jpg"
-  },
-  {
-    "revision": "4228b5d8b1193b1f677c40e03423d1bf",
-    "url": "/catalog-offline/images/blue_effect/2.jpg"
-  },
-  {
-    "revision": "7c753fb16e1bdbb0dd6a4209afefda49",
-    "url": "/catalog-offline/images/blue_effect/3.jpg"
-  },
-  {
-    "revision": "98ed2fbc67c990489d261c7027de9154",
-    "url": "/catalog-offline/images/blue_effect/thumbnail.jpg"
   },
   {
     "revision": "74124c9f2a1d6324c8050d6956b80779",
@@ -4144,22 +4128,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/secret_neighbor/thumbnail.jpg"
   },
   {
-    "revision": "da5b75ed206ab5b5f74bef9abdaf6c6f",
-    "url": "/catalog-offline/images/serious_sam_3/1.jpg"
-  },
-  {
-    "revision": "c86039bcaac05b553446e51bcbc62acf",
-    "url": "/catalog-offline/images/serious_sam_3/2.jpg"
-  },
-  {
-    "revision": "d85f1d02f41f06f33aac11525e54e524",
-    "url": "/catalog-offline/images/serious_sam_3/3.jpg"
-  },
-  {
-    "revision": "4f138aecf7209deff431d44d3ac2bee7",
-    "url": "/catalog-offline/images/serious_sam_3/thumbnail.jpg"
-  },
-  {
     "revision": "1e6287626cf982c5c416f638c8c077a2",
     "url": "/catalog-offline/images/serious_sam_collection/1.jpg"
   },
@@ -4190,22 +4158,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9921dd23c37bec3923090192b4ce7901",
     "url": "/catalog-offline/images/serious_sam_last_hope/thumbnail.jpg"
-  },
-  {
-    "revision": "aeb37103bd907e543b02d44cf420bc54",
-    "url": "/catalog-offline/images/serious_sam_second_encounter/1.jpg"
-  },
-  {
-    "revision": "54dedb48a69f1149f27d745396c75377",
-    "url": "/catalog-offline/images/serious_sam_second_encounter/2.jpg"
-  },
-  {
-    "revision": "227aaf8827d0a3bf363214ddf54ec197",
-    "url": "/catalog-offline/images/serious_sam_second_encounter/3.jpg"
-  },
-  {
-    "revision": "c594d406774a04f9ef47c8591ebe82b8",
-    "url": "/catalog-offline/images/serious_sam_second_encounter/thumbnail.jpg"
   },
   {
     "revision": "009b19cf3076048e83854d6b7b9e34b8",
@@ -4302,6 +4254,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fc398db227b51430c423d45fd6ac8302",
     "url": "/catalog-offline/images/sniper_elite_vr/thumbnail.jpg"
+  },
+  {
+    "revision": "e756e9182708a0e0dbe4a1224029db23",
+    "url": "/catalog-offline/images/sonic_colors/1.jpg"
+  },
+  {
+    "revision": "4ad79ada3a271b03a9408d9c205321f8",
+    "url": "/catalog-offline/images/sonic_colors/2.jpg"
+  },
+  {
+    "revision": "0f6dde9a3c5e534e1b7da54acc4de8a8",
+    "url": "/catalog-offline/images/sonic_colors/3.jpg"
+  },
+  {
+    "revision": "f3718aec36d370c0d819f12c2471ad97",
+    "url": "/catalog-offline/images/sonic_colors/thumbnail.jpg"
   },
   {
     "revision": "a12f891a15021d00bcfcc40de66d7dfe",
@@ -4558,22 +4526,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "48c8bdfabdeaf95cf8c40096a2bed091",
     "url": "/catalog-offline/images/surgeon_simulator_medic/thumbnail.jpg"
-  },
-  {
-    "revision": "601fae20919b70988882053010db1238",
-    "url": "/catalog-offline/images/sw_squadrons/1.jpg"
-  },
-  {
-    "revision": "ed7a1a19c18abdae39caf87acb404fa7",
-    "url": "/catalog-offline/images/sw_squadrons/2.jpg"
-  },
-  {
-    "revision": "dc433f8245474a2dbfb738f769d5eb32",
-    "url": "/catalog-offline/images/sw_squadrons/3.jpg"
-  },
-  {
-    "revision": "40cabcb2aaf976741eaed920aafeca71",
-    "url": "/catalog-offline/images/sw_squadrons/thumbnail.jpg"
   },
   {
     "revision": "cbda4fe12974fecacdb332dff628f3f3",
