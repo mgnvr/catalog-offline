@@ -80,6 +80,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/assets/psvr.png"
   },
   {
+    "revision": "36b22550ecaf58ba5df7ca36d77f1559",
+    "url": "/catalog-offline/assets/psvr2.png"
+  },
+  {
     "revision": "71425a216adaa0c50fa90be73622bad3",
     "url": "/catalog-offline/assets/time.svg"
   },
@@ -92,8 +96,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/assets/youtube.svg"
   },
   {
-    "revision": "34cb151f88dfe3a80182",
-    "url": "/catalog-offline/css/app.0b4d2ad4.css"
+    "revision": "33302feaa8795bf1d52e",
+    "url": "/catalog-offline/css/app.59ad044f.css"
   },
   {
     "revision": "17c4288ca4e63f68ce18",
@@ -136,7 +140,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "8687fa7f2cba29f3ede0476d801000f8",
+    "revision": "c6ce4cbeb5b830135d521105022c717c",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -314,6 +318,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5e3f64349c55cdcb68841c04a0fd1a7d",
     "url": "/catalog-offline/images/another_fisherman_tale/thumbnail.jpg"
+  },
+  {
+    "revision": "bd4adfbcbd9b2b843a85849bb942fad5",
+    "url": "/catalog-offline/images/arcade_paradise_vr/1.jpg"
+  },
+  {
+    "revision": "63331ce67452c903127ab9dfb9b51236",
+    "url": "/catalog-offline/images/arcade_paradise_vr/2.jpg"
+  },
+  {
+    "revision": "7d9a441b698c6a53281f368c931a259a",
+    "url": "/catalog-offline/images/arcade_paradise_vr/3.jpg"
+  },
+  {
+    "revision": "de85764cc21fef4755f595fa7098a8bd",
+    "url": "/catalog-offline/images/arcade_paradise_vr/thumbnail.jpg"
   },
   {
     "revision": "f0f4e47609cef18f7d44555ee698b5df",
@@ -538,6 +558,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9f296135819c40d698a76e7ed40b222c",
     "url": "/catalog-offline/images/beat_saber/thumbnail.jpg"
+  },
+  {
+    "revision": "146ef3455255a1665023a698a9efdae8",
+    "url": "/catalog-offline/images/before_your_eyes/1.jpg"
+  },
+  {
+    "revision": "8a0751271b5448b5ae098ce104994986",
+    "url": "/catalog-offline/images/before_your_eyes/2.jpg"
+  },
+  {
+    "revision": "acb6951be8a3fc6aef1c9e562eb401ca",
+    "url": "/catalog-offline/images/before_your_eyes/3.jpg"
+  },
+  {
+    "revision": "710ca34af97307ee4b31265bae70cf15",
+    "url": "/catalog-offline/images/before_your_eyes/thumbnail.jpg"
   },
   {
     "revision": "b552538d07579adf6ae2a8e81b21dfaa",
@@ -1852,6 +1888,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/ghost_of_tsushima/thumbnail.jpg"
   },
   {
+    "revision": "88a240294960699e9a16be67cd96ddbe",
+    "url": "/catalog-offline/images/ghostbusters_vr/1.jpg"
+  },
+  {
+    "revision": "04c582e1380b633437209ee321356d94",
+    "url": "/catalog-offline/images/ghostbusters_vr/2.jpg"
+  },
+  {
+    "revision": "cef83f0884a241b36446d4b5e6096420",
+    "url": "/catalog-offline/images/ghostbusters_vr/3.jpg"
+  },
+  {
+    "revision": "75373c55da7ba8ab5104d9b9c4003d1b",
+    "url": "/catalog-offline/images/ghostbusters_vr/thumbnail.jpg"
+  },
+  {
     "revision": "195d9f15fa011e179245c845d0bc0aa2",
     "url": "/catalog-offline/images/ghostrunner/1.jpg"
   },
@@ -2688,20 +2740,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/justice_league/thumbnail.jpg"
   },
   {
-    "revision": "02034233c398d77de4975483ea9fb203",
-    "url": "/catalog-offline/images/kena/1.jpg"
+    "revision": "64d2d2c2462c739e928bf66d680c655a",
+    "url": "/catalog-offline/images/kayak_vr_mirage/1.jpg"
   },
   {
-    "revision": "101a8b8151ff5f9908cb133cdaddf5f1",
-    "url": "/catalog-offline/images/kena/2.jpg"
+    "revision": "8e519e5e5863c6591772e20dc3688a40",
+    "url": "/catalog-offline/images/kayak_vr_mirage/2.jpg"
   },
   {
-    "revision": "4a64699193f37fbeab11d84b0f120668",
-    "url": "/catalog-offline/images/kena/3.jpg"
+    "revision": "c99b74d5ebaf71560cde90ef96ebca82",
+    "url": "/catalog-offline/images/kayak_vr_mirage/3.jpg"
   },
   {
-    "revision": "7a748dc1d7add2fb774971665f7f33a2",
-    "url": "/catalog-offline/images/kena/thumbnail.jpg"
+    "revision": "d2e8881b88b3a747d3a2342102df663a",
+    "url": "/catalog-offline/images/kayak_vr_mirage/thumbnail.jpg"
   },
   {
     "revision": "92ca0813c5cc8525969fa3e4f810888a",
@@ -3776,22 +3828,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/rdr2/thumbnail.jpg"
   },
   {
-    "revision": "c21945c3828281dafa1d36a4dfd01d53",
-    "url": "/catalog-offline/images/re3/1.jpg"
-  },
-  {
-    "revision": "140e8ad0984c0d8ef171e41cc6a7a1ca",
-    "url": "/catalog-offline/images/re3/2.jpg"
-  },
-  {
-    "revision": "5a258167aea0c3e9739b2acfd580e661",
-    "url": "/catalog-offline/images/re3/3.jpg"
-  },
-  {
-    "revision": "4b20009973c5c5cc442eec5014b44267",
-    "url": "/catalog-offline/images/re3/thumbnail.jpg"
-  },
-  {
     "revision": "4abc2d0c9915d521098cc0fc5b2ea02e",
     "url": "/catalog-offline/images/re_revelations_2/1.jpg"
   },
@@ -4528,6 +4564,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/surgeon_simulator_medic/thumbnail.jpg"
   },
   {
+    "revision": "08b4b6eb656a2023468f20504bc9f138",
+    "url": "/catalog-offline/images/synth_riders/1.jpg"
+  },
+  {
+    "revision": "217e1d561b98c3b04ef6ba4663f420ab",
+    "url": "/catalog-offline/images/synth_riders/2.jpg"
+  },
+  {
+    "revision": "0f60219e5ee4a5dcc31f58636fd3ff59",
+    "url": "/catalog-offline/images/synth_riders/3.jpg"
+  },
+  {
+    "revision": "b23c28a72545d6c12fe36b8fc5bf08e9",
+    "url": "/catalog-offline/images/synth_riders/thumbnail.jpg"
+  },
+  {
     "revision": "cbda4fe12974fecacdb332dff628f3f3",
     "url": "/catalog-offline/images/talos_principle/1.jpg"
   },
@@ -4830,6 +4882,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "39e9a74e0bace44d3506e5ccecc0b509",
     "url": "/catalog-offline/images/tilt_brush/thumbnail.jpg"
+  },
+  {
+    "revision": "fa56a112ddaf46baf037e41426c22780",
+    "url": "/catalog-offline/images/tin_hearts/1.jpg"
+  },
+  {
+    "revision": "e8d23a5846bd3518c24025ea82d90839",
+    "url": "/catalog-offline/images/tin_hearts/2.jpg"
+  },
+  {
+    "revision": "56c4bec58b43b822bfb099ab28f0e7e3",
+    "url": "/catalog-offline/images/tin_hearts/3.jpg"
+  },
+  {
+    "revision": "487d6057a47636d4c1a8901db168ccef",
+    "url": "/catalog-offline/images/tin_hearts/thumbnail.jpg"
   },
   {
     "revision": "23f64c1ff508a28ff06f786d7bdf0716",
@@ -5216,6 +5284,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/walkabout_mini_golf/thumbnail.jpg"
   },
   {
+    "revision": "43ea377f3fe662fe8c0cbbae1ad95e2f",
+    "url": "/catalog-offline/images/walking_dead_sas/1.jpg"
+  },
+  {
+    "revision": "9cbf2d9b0fac79014dc5c0c3da82e6ed",
+    "url": "/catalog-offline/images/walking_dead_sas/2.jpg"
+  },
+  {
+    "revision": "87599ba63685b491fd2332ad5e9eca3f",
+    "url": "/catalog-offline/images/walking_dead_sas/3.jpg"
+  },
+  {
+    "revision": "985bc1385ee1aa2fa5fb2e3849a63da0",
+    "url": "/catalog-offline/images/walking_dead_sas/thumbnail.jpg"
+  },
+  {
     "revision": "06eb0119c94c1b0b659f360556d9f148",
     "url": "/catalog-offline/images/waltz_of_the_wizard/1.jpg"
   },
@@ -5424,12 +5508,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/zooma_vr/thumbnail.jpg"
   },
   {
-    "revision": "a7407b2fe418764783a7435c6e415fc3",
+    "revision": "620186171e3c0ed62fb9c3ee1054d04b",
     "url": "/catalog-offline/index.html"
   },
   {
-    "revision": "34cb151f88dfe3a80182",
-    "url": "/catalog-offline/js/app.27b1dfaa.js"
+    "revision": "33302feaa8795bf1d52e",
+    "url": "/catalog-offline/js/app.cd0bb9cc.js"
   },
   {
     "revision": "ef9d689e1811b4fe9ec6fb5587068c4d",
@@ -5440,8 +5524,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/js/chunk-2b92b05d.b993d4ea.js"
   },
   {
-    "revision": "ed8b591ac54bacbfb735",
-    "url": "/catalog-offline/js/chunk-2d22d746.b8b948e7.js"
+    "revision": "560516b45589260c0510",
+    "url": "/catalog-offline/js/chunk-2d22d746.179e845c.js"
   },
   {
     "revision": "15101b91ab8b60dae31a",
