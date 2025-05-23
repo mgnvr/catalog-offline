@@ -140,7 +140,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "c6ce4cbeb5b830135d521105022c717c",
+    "revision": "28c5efeec62ea86ad05b3d69711c6a84",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -496,22 +496,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/baby_hands/thumbnail.jpg"
   },
   {
-    "revision": "cdd6e1e6e707c761aa1a3c21e7263ef5",
-    "url": "/catalog-offline/images/batman_arkham_knight/1.jpg"
-  },
-  {
-    "revision": "7d28f7334713668ccc36bcde8f523084",
-    "url": "/catalog-offline/images/batman_arkham_knight/2.jpg"
-  },
-  {
-    "revision": "10a807e63323426d87db6af68e340bb5",
-    "url": "/catalog-offline/images/batman_arkham_knight/3.jpg"
-  },
-  {
-    "revision": "1a8497704a401e4cfd06bfc7789e8582",
-    "url": "/catalog-offline/images/batman_arkham_knight/thumbnail.jpg"
-  },
-  {
     "revision": "5114ff6eab683fca4688c81a683a0ce1",
     "url": "/catalog-offline/images/battlefield_1/1.jpg"
   },
@@ -558,22 +542,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9f296135819c40d698a76e7ed40b222c",
     "url": "/catalog-offline/images/beat_saber/thumbnail.jpg"
-  },
-  {
-    "revision": "146ef3455255a1665023a698a9efdae8",
-    "url": "/catalog-offline/images/before_your_eyes/1.jpg"
-  },
-  {
-    "revision": "8a0751271b5448b5ae098ce104994986",
-    "url": "/catalog-offline/images/before_your_eyes/2.jpg"
-  },
-  {
-    "revision": "acb6951be8a3fc6aef1c9e562eb401ca",
-    "url": "/catalog-offline/images/before_your_eyes/3.jpg"
-  },
-  {
-    "revision": "710ca34af97307ee4b31265bae70cf15",
-    "url": "/catalog-offline/images/before_your_eyes/thumbnail.jpg"
   },
   {
     "revision": "b552538d07579adf6ae2a8e81b21dfaa",
@@ -1886,38 +1854,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d8f454f6f2d844828b201f47570f6c08",
     "url": "/catalog-offline/images/ghost_of_tsushima/thumbnail.jpg"
-  },
-  {
-    "revision": "88a240294960699e9a16be67cd96ddbe",
-    "url": "/catalog-offline/images/ghostbusters_vr/1.jpg"
-  },
-  {
-    "revision": "04c582e1380b633437209ee321356d94",
-    "url": "/catalog-offline/images/ghostbusters_vr/2.jpg"
-  },
-  {
-    "revision": "cef83f0884a241b36446d4b5e6096420",
-    "url": "/catalog-offline/images/ghostbusters_vr/3.jpg"
-  },
-  {
-    "revision": "75373c55da7ba8ab5104d9b9c4003d1b",
-    "url": "/catalog-offline/images/ghostbusters_vr/thumbnail.jpg"
-  },
-  {
-    "revision": "195d9f15fa011e179245c845d0bc0aa2",
-    "url": "/catalog-offline/images/ghostrunner/1.jpg"
-  },
-  {
-    "revision": "9c24bbcf029c367cee28828c7eecefe6",
-    "url": "/catalog-offline/images/ghostrunner/2.jpg"
-  },
-  {
-    "revision": "ec856c84f90ef889511743ff888083d1",
-    "url": "/catalog-offline/images/ghostrunner/3.jpg"
-  },
-  {
-    "revision": "98251756cb5ee76453125b8243821b3a",
-    "url": "/catalog-offline/images/ghostrunner/thumbnail.jpg"
   },
   {
     "revision": "2f39b23ca9b48f2b75574cb1e8d7a5a8",
@@ -4564,20 +4500,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/surgeon_simulator_medic/thumbnail.jpg"
   },
   {
-    "revision": "08b4b6eb656a2023468f20504bc9f138",
-    "url": "/catalog-offline/images/synth_riders/1.jpg"
+    "revision": "ac7860a1b9d2ce0f7c0c9265b8578f06",
+    "url": "/catalog-offline/images/synapse/1.jpg"
   },
   {
-    "revision": "217e1d561b98c3b04ef6ba4663f420ab",
-    "url": "/catalog-offline/images/synth_riders/2.jpg"
+    "revision": "5be3f70453991d96d02c30eda95f5bfb",
+    "url": "/catalog-offline/images/synapse/2.jpg"
   },
   {
-    "revision": "0f60219e5ee4a5dcc31f58636fd3ff59",
-    "url": "/catalog-offline/images/synth_riders/3.jpg"
+    "revision": "f16a430441db350cb90124db75943720",
+    "url": "/catalog-offline/images/synapse/3.jpg"
   },
   {
-    "revision": "b23c28a72545d6c12fe36b8fc5bf08e9",
-    "url": "/catalog-offline/images/synth_riders/thumbnail.jpg"
+    "revision": "ad35b7c0d243c68f8b20fe3b261e0832",
+    "url": "/catalog-offline/images/synapse/thumbnail.jpg"
   },
   {
     "revision": "cbda4fe12974fecacdb332dff628f3f3",
@@ -4754,6 +4690,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "464267b049fd1ffbf1c694491fb4221f",
     "url": "/catalog-offline/images/the_lab/thumbnail.jpg"
+  },
+  {
+    "revision": "bad15843dfaedce91ae3774373d91125",
+    "url": "/catalog-offline/images/the_last_clockwinder/1.jpg"
+  },
+  {
+    "revision": "037d4ccd0feef8e18972dd7745a22f48",
+    "url": "/catalog-offline/images/the_last_clockwinder/2.jpg"
+  },
+  {
+    "revision": "621de3ed387a5f0472272ff859dc5862",
+    "url": "/catalog-offline/images/the_last_clockwinder/3.jpg"
+  },
+  {
+    "revision": "d2859bdd9feb2efb3bda0bff53921250",
+    "url": "/catalog-offline/images/the_last_clockwinder/thumbnail.jpg"
   },
   {
     "revision": "dfbce3af4f79de8dcae0ce47e08c082d",
@@ -5266,38 +5218,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3d14a41f2f33331921c15b8ee75190ba",
     "url": "/catalog-offline/images/vrchat/thumbnail.jpg"
-  },
-  {
-    "revision": "314c109b7501d1ca63a54d91ffa426b0",
-    "url": "/catalog-offline/images/walkabout_mini_golf/1.jpg"
-  },
-  {
-    "revision": "e405e6712805e658ca117b6e55cbfd52",
-    "url": "/catalog-offline/images/walkabout_mini_golf/2.jpg"
-  },
-  {
-    "revision": "a1ae6b5d060d3b304f364bff7b424700",
-    "url": "/catalog-offline/images/walkabout_mini_golf/3.jpg"
-  },
-  {
-    "revision": "4daa9ca1948bfdf5302bacfd8b0529aa",
-    "url": "/catalog-offline/images/walkabout_mini_golf/thumbnail.jpg"
-  },
-  {
-    "revision": "43ea377f3fe662fe8c0cbbae1ad95e2f",
-    "url": "/catalog-offline/images/walking_dead_sas/1.jpg"
-  },
-  {
-    "revision": "9cbf2d9b0fac79014dc5c0c3da82e6ed",
-    "url": "/catalog-offline/images/walking_dead_sas/2.jpg"
-  },
-  {
-    "revision": "87599ba63685b491fd2332ad5e9eca3f",
-    "url": "/catalog-offline/images/walking_dead_sas/3.jpg"
-  },
-  {
-    "revision": "985bc1385ee1aa2fa5fb2e3849a63da0",
-    "url": "/catalog-offline/images/walking_dead_sas/thumbnail.jpg"
   },
   {
     "revision": "06eb0119c94c1b0b659f360556d9f148",
