@@ -140,7 +140,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "b8a9c7f2fe996b522e1599b692b9723c",
+    "revision": "5e0e54c020984b2059583b9cda6b0df3",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -2384,6 +2384,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/hockey_vr/thumbnail.jpg"
   },
   {
+    "revision": "ead35129f2992df90949a6c1dcee93e1",
+    "url": "/catalog-offline/images/hogwarts_legacy/1.jpg"
+  },
+  {
+    "revision": "c6d3240ce26c24f26d3daedb29c21500",
+    "url": "/catalog-offline/images/hogwarts_legacy/2.jpg"
+  },
+  {
+    "revision": "0d047168f28d5481ccf67fb2514a60bc",
+    "url": "/catalog-offline/images/hogwarts_legacy/3.jpg"
+  },
+  {
+    "revision": "c0048d775c68c4435251ba261d615a9a",
+    "url": "/catalog-offline/images/hogwarts_legacy/thumbnail.jpg"
+  },
+  {
     "revision": "d2b1c09652c693001865308945787414",
     "url": "/catalog-offline/images/honkai/1.jpg"
   },
@@ -3444,22 +3460,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/pavlov_vr/thumbnail.jpg"
   },
   {
-    "revision": "d9a01e9268e427bec0c44cf838011017",
-    "url": "/catalog-offline/images/payday_2/1.jpg"
-  },
-  {
-    "revision": "29acea23080695063105e0d201d9d598",
-    "url": "/catalog-offline/images/payday_2/2.jpg"
-  },
-  {
-    "revision": "fa1a9f17834423ee084dcdda5d89dce5",
-    "url": "/catalog-offline/images/payday_2/3.jpg"
-  },
-  {
-    "revision": "f00607c5c1b68956123283f5410698be",
-    "url": "/catalog-offline/images/payday_2/thumbnail.jpg"
-  },
-  {
     "revision": "d858884055cf6c0780798c04cfefcfe4",
     "url": "/catalog-offline/images/payday_2_vr/1.jpg"
   },
@@ -3490,6 +3490,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2cb20e65c4bdf686bcc5119a1580571b",
     "url": "/catalog-offline/images/peppa_pig/thumbnail.jpg"
+  },
+  {
+    "revision": "7ca1dd73157c11f81f869d9ea72007e2",
+    "url": "/catalog-offline/images/pets_and_stuff/1.jpg"
+  },
+  {
+    "revision": "86d5258151d8cbdb66fef81acd752253",
+    "url": "/catalog-offline/images/pets_and_stuff/2.jpg"
+  },
+  {
+    "revision": "2d5ad8654c1148216e821477025a2785",
+    "url": "/catalog-offline/images/pets_and_stuff/3.jpg"
+  },
+  {
+    "revision": "cff92a874705a32e0178cc1b41dbc2ec",
+    "url": "/catalog-offline/images/pets_and_stuff/thumbnail.jpg"
   },
   {
     "revision": "ac37940e71edd0fc813a90e71c3c80ac",
@@ -4994,6 +5010,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "546e517f9c1de5f1382b45ff65787036",
     "url": "/catalog-offline/images/ufc_3/thumbnail.jpg"
+  },
+  {
+    "revision": "605dfa5f7c82aff9ecf47ea99715f829",
+    "url": "/catalog-offline/images/ufc_5/1.jpg"
+  },
+  {
+    "revision": "48c65d71629c32e64458c7ed194f5e30",
+    "url": "/catalog-offline/images/ufc_5/2.jpg"
+  },
+  {
+    "revision": "2469f7bd17d67526ab99ff422c60dd1f",
+    "url": "/catalog-offline/images/ufc_5/3.jpg"
+  },
+  {
+    "revision": "d90f6066923af8a7eb74065f762fda29",
+    "url": "/catalog-offline/images/ufc_5/thumbnail.jpg"
   },
   {
     "revision": "15b5aac5cdfdbeaf1b86dcd7ded57607",
