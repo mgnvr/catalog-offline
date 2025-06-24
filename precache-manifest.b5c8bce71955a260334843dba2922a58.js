@@ -140,7 +140,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "5e0e54c020984b2059583b9cda6b0df3",
+    "revision": "4274c15c5c2035144db2c06453c0c9fa",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -2690,22 +2690,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "82b5c135e0963b6f03ce8a97d1690526",
     "url": "/catalog-offline/images/justice_league/thumbnail.jpg"
-  },
-  {
-    "revision": "64d2d2c2462c739e928bf66d680c655a",
-    "url": "/catalog-offline/images/kayak_vr_mirage/1.jpg"
-  },
-  {
-    "revision": "8e519e5e5863c6591772e20dc3688a40",
-    "url": "/catalog-offline/images/kayak_vr_mirage/2.jpg"
-  },
-  {
-    "revision": "c99b74d5ebaf71560cde90ef96ebca82",
-    "url": "/catalog-offline/images/kayak_vr_mirage/3.jpg"
-  },
-  {
-    "revision": "d2e8881b88b3a747d3a2342102df663a",
-    "url": "/catalog-offline/images/kayak_vr_mirage/thumbnail.jpg"
   },
   {
     "revision": "92ca0813c5cc8525969fa3e4f810888a",
