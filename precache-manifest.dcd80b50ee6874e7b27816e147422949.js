@@ -140,7 +140,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "4274c15c5c2035144db2c06453c0c9fa",
+    "revision": "0a79edfa86877807d4d7cd8b4fb768b4",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -1422,22 +1422,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "940c0883a7f4d95bc3065c83b071151b",
     "url": "/catalog-offline/images/dungeon_brewmaster/thumbnail.jpg"
-  },
-  {
-    "revision": "638b73e9cc32cd5d0ee6875ba718b690",
-    "url": "/catalog-offline/images/dying_light_2/1.jpg"
-  },
-  {
-    "revision": "57143c32df6ce39e98bf24348c980bd3",
-    "url": "/catalog-offline/images/dying_light_2/2.jpg"
-  },
-  {
-    "revision": "8645b6805075ea3fe77ef69673712b1e",
-    "url": "/catalog-offline/images/dying_light_2/3.jpg"
-  },
-  {
-    "revision": "9dcf1bc7fcc130d2029c20429bd17390",
-    "url": "/catalog-offline/images/dying_light_2/thumbnail.jpg"
   },
   {
     "revision": "3a97c186c7fcbcec1f36eb9ee45596fb",
@@ -4100,22 +4084,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/secret_neighbor/thumbnail.jpg"
   },
   {
-    "revision": "1e6287626cf982c5c416f638c8c077a2",
-    "url": "/catalog-offline/images/serious_sam_collection/1.jpg"
-  },
-  {
-    "revision": "5abaa4868a01be1d57c849c6506d8d98",
-    "url": "/catalog-offline/images/serious_sam_collection/2.jpg"
-  },
-  {
-    "revision": "1de95f4636fa5b025fa9cd60310e9ce0",
-    "url": "/catalog-offline/images/serious_sam_collection/3.jpg"
-  },
-  {
-    "revision": "0f3922f00e99d3bcda7cf5ae2c4ff04f",
-    "url": "/catalog-offline/images/serious_sam_collection/thumbnail.jpg"
-  },
-  {
     "revision": "f78a8ac9bc3f29f237c32880f22bc6a9",
     "url": "/catalog-offline/images/serious_sam_last_hope/1.jpg"
   },
@@ -4370,22 +4338,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b7514f92733dab1fd16604d17fb9021f",
     "url": "/catalog-offline/images/stranded_deep/thumbnail.jpg"
-  },
-  {
-    "revision": "85a8fe082133e1efedaac3229b59d4ed",
-    "url": "/catalog-offline/images/street_fighter_v/1.jpg"
-  },
-  {
-    "revision": "71c28d8e14d37968f2d6a6b1731e7a58",
-    "url": "/catalog-offline/images/street_fighter_v/2.jpg"
-  },
-  {
-    "revision": "37a8cc39d3bb0503a626eb91d984d316",
-    "url": "/catalog-offline/images/street_fighter_v/3.jpg"
-  },
-  {
-    "revision": "388014ead5dd6b5466bbcc803863cda8",
-    "url": "/catalog-offline/images/street_fighter_v/thumbnail.jpg"
   },
   {
     "revision": "86eec1c2d805b40583250dd0c0487c3c",
