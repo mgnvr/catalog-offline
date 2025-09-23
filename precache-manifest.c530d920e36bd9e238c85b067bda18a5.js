@@ -140,7 +140,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "0a79edfa86877807d4d7cd8b4fb768b4",
+    "revision": "3db099bd2a98fd5e637b09c3e9a30bd4",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -2788,22 +2788,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/last_of_us/thumbnail.jpg"
   },
   {
-    "revision": "a9fec32b23881bcbd7214f0844a0c174",
-    "url": "/catalog-offline/images/last_of_us_left_behind/1.jpg"
-  },
-  {
-    "revision": "d27bc15c56dda10dbb6fb94f9ca0f868",
-    "url": "/catalog-offline/images/last_of_us_left_behind/2.jpg"
-  },
-  {
-    "revision": "caad442a91717d4ebd93e436ea46e561",
-    "url": "/catalog-offline/images/last_of_us_left_behind/3.jpg"
-  },
-  {
-    "revision": "b6f0dd73cfe1e98b602f2fdd74c5bd58",
-    "url": "/catalog-offline/images/last_of_us_left_behind/thumbnail.jpg"
-  },
-  {
     "revision": "d7433ac1a0bce9eba84a71124e2c32ab",
     "url": "/catalog-offline/images/lego_avengers/1.jpg"
   },
@@ -3090,6 +3074,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6d7039c2d7cd7e8ed09c39d32c5eb90d",
     "url": "/catalog-offline/images/mini_motor_racing/thumbnail.jpg"
+  },
+  {
+    "revision": "69fce8f256f1d28c3455295009280a6b",
+    "url": "/catalog-offline/images/mk1/1.jpg"
+  },
+  {
+    "revision": "e9f2d12a520a6b42f2e181f1b7642cb8",
+    "url": "/catalog-offline/images/mk1/2.jpg"
+  },
+  {
+    "revision": "8f5b5d33d4724c5246fceba0178464d8",
+    "url": "/catalog-offline/images/mk1/3.jpg"
+  },
+  {
+    "revision": "a54d4dc933f5944371b9c06bed49024a",
+    "url": "/catalog-offline/images/mk1/thumbnail.jpg"
   },
   {
     "revision": "0ba7c874dc0c04514ad9a8730f9d938b",
@@ -4946,22 +4946,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "546e517f9c1de5f1382b45ff65787036",
     "url": "/catalog-offline/images/ufc_3/thumbnail.jpg"
-  },
-  {
-    "revision": "605dfa5f7c82aff9ecf47ea99715f829",
-    "url": "/catalog-offline/images/ufc_5/1.jpg"
-  },
-  {
-    "revision": "48c65d71629c32e64458c7ed194f5e30",
-    "url": "/catalog-offline/images/ufc_5/2.jpg"
-  },
-  {
-    "revision": "2469f7bd17d67526ab99ff422c60dd1f",
-    "url": "/catalog-offline/images/ufc_5/3.jpg"
-  },
-  {
-    "revision": "d90f6066923af8a7eb74065f762fda29",
-    "url": "/catalog-offline/images/ufc_5/thumbnail.jpg"
   },
   {
     "revision": "15b5aac5cdfdbeaf1b86dcd7ded57607",
