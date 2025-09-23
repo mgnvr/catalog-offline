@@ -3077,19 +3077,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "69fce8f256f1d28c3455295009280a6b",
-    "url": "/catalog-offline/images/mk1/1.jpg"
+    "url": "/catalog-offline/images/mk_1/1.jpg"
   },
   {
     "revision": "e9f2d12a520a6b42f2e181f1b7642cb8",
-    "url": "/catalog-offline/images/mk1/2.jpg"
+    "url": "/catalog-offline/images/mk_1/2.jpg"
   },
   {
     "revision": "8f5b5d33d4724c5246fceba0178464d8",
-    "url": "/catalog-offline/images/mk1/3.jpg"
+    "url": "/catalog-offline/images/mk_1/3.jpg"
   },
   {
     "revision": "a54d4dc933f5944371b9c06bed49024a",
-    "url": "/catalog-offline/images/mk1/thumbnail.jpg"
+    "url": "/catalog-offline/images/mk_1/thumbnail.jpg"
   },
   {
     "revision": "0ba7c874dc0c04514ad9a8730f9d938b",
