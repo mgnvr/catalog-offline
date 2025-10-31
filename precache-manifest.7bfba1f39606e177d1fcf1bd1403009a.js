@@ -140,7 +140,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "3db099bd2a98fd5e637b09c3e9a30bd4",
+    "revision": "6f71cf0221c22530412bc3ff0b910e09",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -990,38 +990,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "51db1571ed02789b86eb27ab1727feb1",
     "url": "/catalog-offline/images/cyberpunk_2077/thumbnail.jpg"
-  },
-  {
-    "revision": "4b89254d0806ee2b8b91b04b62e09060",
-    "url": "/catalog-offline/images/dark_pictures_devil_in_me/1.jpg"
-  },
-  {
-    "revision": "f9cb0c7cd1f704c1315b9261f13c1c98",
-    "url": "/catalog-offline/images/dark_pictures_devil_in_me/2.jpg"
-  },
-  {
-    "revision": "fb888abbb014e2850ac72689f8352a99",
-    "url": "/catalog-offline/images/dark_pictures_devil_in_me/3.jpg"
-  },
-  {
-    "revision": "393e4e2a0f1bfd7c80379ce5c36e3254",
-    "url": "/catalog-offline/images/dark_pictures_devil_in_me/thumbnail.jpg"
-  },
-  {
-    "revision": "2214f0d5b75205d4bd8565ece6e8a45e",
-    "url": "/catalog-offline/images/dark_pictures_house_of_ashes/1.jpg"
-  },
-  {
-    "revision": "3b6d3d0e8a44a3db9c4d95186c4e8160",
-    "url": "/catalog-offline/images/dark_pictures_house_of_ashes/2.jpg"
-  },
-  {
-    "revision": "80ccc1d84f03f5c26846a8494ec388ac",
-    "url": "/catalog-offline/images/dark_pictures_house_of_ashes/3.jpg"
-  },
-  {
-    "revision": "0baacebad1ea29398b23df1c22c4c188",
-    "url": "/catalog-offline/images/dark_pictures_house_of_ashes/thumbnail.jpg"
   },
   {
     "revision": "f23ee1541ce913aeca1fa5d835d4703a",
@@ -4642,22 +4610,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "464267b049fd1ffbf1c694491fb4221f",
     "url": "/catalog-offline/images/the_lab/thumbnail.jpg"
-  },
-  {
-    "revision": "bad15843dfaedce91ae3774373d91125",
-    "url": "/catalog-offline/images/the_last_clockwinder/1.jpg"
-  },
-  {
-    "revision": "037d4ccd0feef8e18972dd7745a22f48",
-    "url": "/catalog-offline/images/the_last_clockwinder/2.jpg"
-  },
-  {
-    "revision": "621de3ed387a5f0472272ff859dc5862",
-    "url": "/catalog-offline/images/the_last_clockwinder/3.jpg"
-  },
-  {
-    "revision": "d2859bdd9feb2efb3bda0bff53921250",
-    "url": "/catalog-offline/images/the_last_clockwinder/thumbnail.jpg"
   },
   {
     "revision": "dfbce3af4f79de8dcae0ce47e08c082d",
