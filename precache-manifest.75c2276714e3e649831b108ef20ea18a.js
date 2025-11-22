@@ -140,7 +140,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "6f71cf0221c22530412bc3ff0b910e09",
+    "revision": "ad4719abf312a3237077874f952fd87b",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -3604,22 +3604,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/ps_worlds/thumbnail.jpg"
   },
   {
-    "revision": "e375890ccb4d145b5fcd2e964cfbdccc",
-    "url": "/catalog-offline/images/pubg/1.jpg"
-  },
-  {
-    "revision": "20318ed710e8fdaebe2b8d2557d5fbdb",
-    "url": "/catalog-offline/images/pubg/2.jpg"
-  },
-  {
-    "revision": "7dcfaeb893d43865b2efdddb1df80364",
-    "url": "/catalog-offline/images/pubg/3.jpg"
-  },
-  {
-    "revision": "bb69b5bdceae2fe5b26c1263173f7b56",
-    "url": "/catalog-offline/images/pubg/thumbnail.jpg"
-  },
-  {
     "revision": "c5a7e59ab98d06b822a5276ae6e8e60f",
     "url": "/catalog-offline/images/racket_fury/1.jpg"
   },
@@ -4420,22 +4404,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/images/surgeon_simulator_medic/thumbnail.jpg"
   },
   {
-    "revision": "ac7860a1b9d2ce0f7c0c9265b8578f06",
-    "url": "/catalog-offline/images/synapse/1.jpg"
-  },
-  {
-    "revision": "5be3f70453991d96d02c30eda95f5bfb",
-    "url": "/catalog-offline/images/synapse/2.jpg"
-  },
-  {
-    "revision": "f16a430441db350cb90124db75943720",
-    "url": "/catalog-offline/images/synapse/3.jpg"
-  },
-  {
-    "revision": "ad35b7c0d243c68f8b20fe3b261e0832",
-    "url": "/catalog-offline/images/synapse/thumbnail.jpg"
-  },
-  {
     "revision": "cbda4fe12974fecacdb332dff628f3f3",
     "url": "/catalog-offline/images/talos_principle/1.jpg"
   },
@@ -4786,22 +4754,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2a0b7368a3c65b73e13f08c985480f16",
     "url": "/catalog-offline/images/to_the_top/thumbnail.jpg"
-  },
-  {
-    "revision": "05c4e75b99fd54c26ebfd7e8e34fd7e2",
-    "url": "/catalog-offline/images/tomb_raider/1.jpg"
-  },
-  {
-    "revision": "f636e0a5c2118772ad0d4665f87f65e3",
-    "url": "/catalog-offline/images/tomb_raider/2.jpg"
-  },
-  {
-    "revision": "72e8ac45914a04923d09b31e9a236aa2",
-    "url": "/catalog-offline/images/tomb_raider/3.jpg"
-  },
-  {
-    "revision": "afff9ea6480b49d0f8afad6dd95b4201",
-    "url": "/catalog-offline/images/tomb_raider/thumbnail.jpg"
   },
   {
     "revision": "a0f316f7c9d2101283dad5240fd25c6b",
@@ -5234,22 +5186,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9c650055d1e49d9895fafe7de42c8d54",
     "url": "/catalog-offline/images/wolfenstein_2/thumbnail.jpg"
-  },
-  {
-    "revision": "80b2810c44fba4c9808ae98102c49c44",
-    "url": "/catalog-offline/images/wolfenstein_new_order/1.jpg"
-  },
-  {
-    "revision": "0aee1e1cd3d0a397bd90f1d5afe23e83",
-    "url": "/catalog-offline/images/wolfenstein_new_order/2.jpg"
-  },
-  {
-    "revision": "94f9bb1902e000d5ae253d31ef9a1bb8",
-    "url": "/catalog-offline/images/wolfenstein_new_order/3.jpg"
-  },
-  {
-    "revision": "5739d0030c5ef2ea3c625c0098a94734",
-    "url": "/catalog-offline/images/wolfenstein_new_order/thumbnail.jpg"
   },
   {
     "revision": "6aedfadacb4d9879d70eca61c94e6b75",
