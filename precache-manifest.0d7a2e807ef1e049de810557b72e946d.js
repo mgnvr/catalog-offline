@@ -140,7 +140,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog-offline/font/Montserrat-SemiBold.woff2"
   },
   {
-    "revision": "ad4719abf312a3237077874f952fd87b",
+    "revision": "8343d54e095725b4f18c4379cb8570cf",
     "url": "/catalog-offline/games.json"
   },
   {
@@ -3522,22 +3522,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5511f6bc8d7ca60ad3b0b09d676659a4",
     "url": "/catalog-offline/images/playroom/thumbnail.jpg"
-  },
-  {
-    "revision": "426a1ffa69632e3973e7046d60f027b6",
-    "url": "/catalog-offline/images/please_dont_touch/1.jpg"
-  },
-  {
-    "revision": "cafacc813fbedd697816e753066915a6",
-    "url": "/catalog-offline/images/please_dont_touch/2.jpg"
-  },
-  {
-    "revision": "ca396adf8d00821bda23790086a1b76d",
-    "url": "/catalog-offline/images/please_dont_touch/3.jpg"
-  },
-  {
-    "revision": "e02ad5149ca4e65428f82a54d069d519",
-    "url": "/catalog-offline/images/please_dont_touch/thumbnail.jpg"
   },
   {
     "revision": "ddf0394e6fbffdaa5e32dd6bf52181b2",
